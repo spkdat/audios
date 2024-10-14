@@ -1,0 +1,262 @@
+{
+  "transcript": "he paused then added everything on a ship is a weapon\r\n",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "he"
+    },
+    {
+      "alignedWord": "paused",
+      "case": "success",
+      "end": 1.07,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.29,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 3,
+      "word": "paused"
+    },
+    {
+      "alignedWord": "then",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 10,
+      "word": "then"
+    },
+    {
+      "alignedWord": "added",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 15,
+      "word": "added"
+    },
+    {
+      "alignedWord": "everything",
+      "case": "success",
+      "end": 2.9,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 21,
+      "word": "everything"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 3.02,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.9,
+      "startOffset": 32,
+      "word": "on"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.07,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.02,
+      "startOffset": 35,
+      "word": "a"
+    },
+    {
+      "alignedWord": "ship",
+      "case": "success",
+      "end": 3.38,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.07,
+      "startOffset": 37,
+      "word": "ship"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 3.57,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.42,
+      "startOffset": 42,
+      "word": "is"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.6399999999999997,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.57,
+      "startOffset": 45,
+      "word": "a"
+    },
+    {
+      "alignedWord": "weapon",
+      "case": "success",
+      "end": 3.93,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.64,
+      "startOffset": 47,
+      "word": "weapon"
+    }
+  ]
+}

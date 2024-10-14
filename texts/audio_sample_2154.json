@@ -1,0 +1,116 @@
+{
+  "transcript": "no really right as rain\r\n",
+  "words": [
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 0.29000000000000004,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "no"
+    },
+    {
+      "alignedWord": "really",
+      "case": "success",
+      "end": 0.63,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.29,
+      "startOffset": 3,
+      "word": "really"
+    },
+    {
+      "alignedWord": "right",
+      "case": "success",
+      "end": 0.89,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 10,
+      "word": "right"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 16,
+      "word": "as"
+    },
+    {
+      "alignedWord": "rain",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 19,
+      "word": "rain"
+    }
+  ]
+}

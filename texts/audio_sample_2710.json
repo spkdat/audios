@@ -1,0 +1,337 @@
+{
+  "transcript": "these curves were derived by an analysis of extensive skywave measurement data\r\n",
+  "words": [
+    {
+      "alignedWord": "these",
+      "case": "success",
+      "end": 0.38,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "these"
+    },
+    {
+      "alignedWord": "curves",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.38,
+      "startOffset": 6,
+      "word": "curves"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 0.93,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 13,
+      "word": "were"
+    },
+    {
+      "alignedWord": "derived",
+      "case": "success",
+      "end": 1.34,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 18,
+      "word": "derived"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 26,
+      "word": "by"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 29,
+      "word": "an"
+    },
+    {
+      "alignedWord": "analysis",
+      "case": "success",
+      "end": 2.53,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 32,
+      "word": "analysis"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.6999999999999997,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 41,
+      "word": "of"
+    },
+    {
+      "alignedWord": "extensive",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.7,
+      "startOffset": 44,
+      "word": "extensive"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.91,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.58,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.33,
+      "startOffset": 54,
+      "word": "skywave"
+    },
+    {
+      "alignedWord": "measurement",
+      "case": "success",
+      "end": 4.45,
+      "endOffset": 73,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.95,
+      "startOffset": 62,
+      "word": "measurement"
+    },
+    {
+      "alignedWord": "data",
+      "case": "success",
+      "end": 4.79,
+      "endOffset": 78,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.45,
+      "startOffset": 74,
+      "word": "data"
+    }
+  ]
+}

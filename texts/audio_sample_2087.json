@@ -1,0 +1,285 @@
+{
+  "transcript": "afraid you'll lose your job if you don't keep your mouth shut\r\n",
+  "words": [
+    {
+      "alignedWord": "afraid",
+      "case": "success",
+      "end": 0.8500000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.2,
+      "startOffset": 0,
+      "word": "afraid"
+    },
+    {
+      "alignedWord": "you'll",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 7,
+      "word": "you'll"
+    },
+    {
+      "alignedWord": "lose",
+      "case": "success",
+      "end": 1.83,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 14,
+      "word": "lose"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 19,
+      "word": "your"
+    },
+    {
+      "alignedWord": "job",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "b_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 24,
+      "word": "job"
+    },
+    {
+      "alignedWord": "if",
+      "case": "success",
+      "end": 2.7199999999999998,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_E"
+        }
+      ],
+      "start": 2.53,
+      "startOffset": 28,
+      "word": "if"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.8600000000000003,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.72,
+      "startOffset": 31,
+      "word": "you"
+    },
+    {
+      "alignedWord": "don't",
+      "case": "success",
+      "end": 3.17,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.86,
+      "startOffset": 35,
+      "word": "don't"
+    },
+    {
+      "alignedWord": "keep",
+      "case": "success",
+      "end": 3.38,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.17,
+      "startOffset": 41,
+      "word": "keep"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 3.52,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.38,
+      "startOffset": 46,
+      "word": "your"
+    },
+    {
+      "alignedWord": "mouth",
+      "case": "success",
+      "end": 3.75,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.52,
+      "startOffset": 51,
+      "word": "mouth"
+    },
+    {
+      "alignedWord": "shut",
+      "case": "success",
+      "end": 4.17,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.75,
+      "startOffset": 57,
+      "word": "shut"
+    }
+  ]
+}

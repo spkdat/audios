@@ -1,0 +1,124 @@
+{
+  "transcript": "so he hides the mayonnaise\r\n",
+  "words": [
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 0.37,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.17,
+      "startOffset": 0,
+      "word": "so"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.51,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.37,
+      "startOffset": 3,
+      "word": "he"
+    },
+    {
+      "alignedWord": "hides",
+      "case": "success",
+      "end": 0.88,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.51,
+      "startOffset": 6,
+      "word": "hides"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.99,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 12,
+      "word": "the"
+    },
+    {
+      "alignedWord": "mayonnaise",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.99,
+      "startOffset": 16,
+      "word": "mayonnaise"
+    }
+  ]
+}

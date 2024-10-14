@@ -1,0 +1,151 @@
+{
+  "transcript": "please sing just the club theme\r\n",
+  "words": [
+    {
+      "alignedWord": "please",
+      "case": "success",
+      "end": 0.45,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "please"
+    },
+    {
+      "alignedWord": "sing",
+      "case": "success",
+      "end": 0.86,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.45,
+      "startOffset": 7,
+      "word": "sing"
+    },
+    {
+      "alignedWord": "just",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 12,
+      "word": "just"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.17,
+      "startOffset": 17,
+      "word": "the"
+    },
+    {
+      "alignedWord": "club",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "b_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 21,
+      "word": "club"
+    },
+    {
+      "alignedWord": "theme",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 26,
+      "word": "theme"
+    }
+  ]
+}

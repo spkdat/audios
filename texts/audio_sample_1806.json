@@ -1,0 +1,264 @@
+{
+  "transcript": "the mayan neoclassic scholar disappeared while surveying ancient ruins\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.22,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.06,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "mayan",
+      "case": "success",
+      "end": 0.64,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 4,
+      "word": "mayan"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.64,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 10,
+      "word": "neoclassic"
+    },
+    {
+      "alignedWord": "scholar",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 21,
+      "word": "scholar"
+    },
+    {
+      "alignedWord": "disappeared",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 29,
+      "word": "disappeared"
+    },
+    {
+      "alignedWord": "while",
+      "case": "success",
+      "end": 2.5700000000000003,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 41,
+      "word": "while"
+    },
+    {
+      "alignedWord": "surveying",
+      "case": "success",
+      "end": 3.1599999999999997,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.57,
+      "startOffset": 47,
+      "word": "surveying"
+    },
+    {
+      "alignedWord": "ancient",
+      "case": "success",
+      "end": 3.5900000000000003,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 57,
+      "word": "ancient"
+    },
+    {
+      "alignedWord": "ruins",
+      "case": "success",
+      "end": 4.26,
+      "endOffset": 70,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.59,
+      "startOffset": 65,
+      "word": "ruins"
+    }
+  ]
+}

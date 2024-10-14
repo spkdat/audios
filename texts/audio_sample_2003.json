@@ -1,0 +1,223 @@
+{
+  "transcript": "a moth zig zagged along the path through otto's garden\r\n",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.35,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.24,
+      "startOffset": 0,
+      "word": "a"
+    },
+    {
+      "alignedWord": "moth",
+      "case": "success",
+      "end": 0.7,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.35,
+      "startOffset": 2,
+      "word": "moth"
+    },
+    {
+      "alignedWord": "zig",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "z_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "g_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 7,
+      "word": "zig"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.4,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.42,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 11,
+      "word": "zagged"
+    },
+    {
+      "alignedWord": "along",
+      "case": "success",
+      "end": 1.77,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 18,
+      "word": "along"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.85,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.77,
+      "startOffset": 24,
+      "word": "the"
+    },
+    {
+      "alignedWord": "path",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 28,
+      "word": "path"
+    },
+    {
+      "alignedWord": "through",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 33,
+      "word": "through"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.8,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.38,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.42,
+      "startOffset": 41,
+      "word": "otto's"
+    },
+    {
+      "alignedWord": "garden",
+      "case": "success",
+      "end": 3.0999999999999996,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.82,
+      "startOffset": 48,
+      "word": "garden"
+    }
+  ]
+}

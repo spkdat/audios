@@ -1,0 +1,178 @@
+{
+  "transcript": "all nut kernels are rich in protein\r\n",
+  "words": [
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 0.44,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "all"
+    },
+    {
+      "alignedWord": "nut",
+      "case": "success",
+      "end": 0.7,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 4,
+      "word": "nut"
+    },
+    {
+      "alignedWord": "kernels",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 8,
+      "word": "kernels"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 16,
+      "word": "are"
+    },
+    {
+      "alignedWord": "rich",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 20,
+      "word": "rich"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.8699999999999999,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 25,
+      "word": "in"
+    },
+    {
+      "alignedWord": "protein",
+      "case": "success",
+      "end": 2.5100000000000002,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 28,
+      "word": "protein"
+    }
+  ]
+}

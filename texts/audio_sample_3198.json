@@ -1,0 +1,124 @@
+{
+  "transcript": "you don't eat enough honey\r\n",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.19,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "you"
+    },
+    {
+      "alignedWord": "don't",
+      "case": "success",
+      "end": 0.38,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.19,
+      "startOffset": 4,
+      "word": "don't"
+    },
+    {
+      "alignedWord": "eat",
+      "case": "success",
+      "end": 0.5700000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.38,
+      "startOffset": 10,
+      "word": "eat"
+    },
+    {
+      "alignedWord": "enough",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "f_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 14,
+      "word": "enough"
+    },
+    {
+      "alignedWord": "honey",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 21,
+      "word": "honey"
+    }
+  ]
+}

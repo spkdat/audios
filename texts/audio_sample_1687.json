@@ -1,0 +1,221 @@
+{
+  "transcript": "he remembered them well from his happy period\r\n",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.26,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "he"
+    },
+    {
+      "alignedWord": "remembered",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.26,
+      "startOffset": 3,
+      "word": "remembered"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 14,
+      "word": "them"
+    },
+    {
+      "alignedWord": "well",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 19,
+      "word": "well"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 1.47,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 24,
+      "word": "from"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.6199999999999999,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 29,
+      "word": "his"
+    },
+    {
+      "alignedWord": "happy",
+      "case": "success",
+      "end": 1.9000000000000001,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 33,
+      "word": "happy"
+    },
+    {
+      "alignedWord": "period",
+      "case": "success",
+      "end": 2.27,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 39,
+      "word": "period"
+    }
+  ]
+}

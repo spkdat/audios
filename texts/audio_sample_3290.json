@@ -1,0 +1,89 @@
+{
+  "transcript": "did you eat yet\r\n",
+  "words": [
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 0.29000000000000004,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "did"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.49,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.29,
+      "startOffset": 4,
+      "word": "you"
+    },
+    {
+      "alignedWord": "eat",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.49,
+      "startOffset": 8,
+      "word": "eat"
+    },
+    {
+      "alignedWord": "yet",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 12,
+      "word": "yet"
+    }
+  ]
+}

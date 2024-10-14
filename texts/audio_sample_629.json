@@ -1,0 +1,131 @@
+{
+  "transcript": "a flame would use up air\r\n",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.22,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "a"
+    },
+    {
+      "alignedWord": "flame",
+      "case": "success",
+      "end": 0.65,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 2,
+      "word": "flame"
+    },
+    {
+      "alignedWord": "would",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 8,
+      "word": "would"
+    },
+    {
+      "alignedWord": "use",
+      "case": "success",
+      "end": 1.09,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 14,
+      "word": "use"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 18,
+      "word": "up"
+    },
+    {
+      "alignedWord": "air",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 21,
+      "word": "air"
+    }
+  ]
+}

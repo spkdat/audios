@@ -1,0 +1,289 @@
+{
+  "transcript": "avowed atheists or freethinkers are so rare as to be a curiosity\r\n",
+  "words": [
+    {
+      "alignedWord": "avowed",
+      "case": "success",
+      "end": 0.61,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "avowed"
+    },
+    {
+      "alignedWord": "atheists",
+      "case": "success",
+      "end": 1.37,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 7,
+      "word": "atheists"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 16,
+      "word": "or"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.79,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 19,
+      "word": "freethinkers"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 2.7699999999999996,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.53,
+      "startOffset": 32,
+      "word": "are"
+    },
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 3.04,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.77,
+      "startOffset": 36,
+      "word": "so"
+    },
+    {
+      "alignedWord": "rare",
+      "case": "success",
+      "end": 3.4,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 39,
+      "word": "rare"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 3.62,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.41,
+      "startOffset": 44,
+      "word": "as"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.71,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.62,
+      "startOffset": 47,
+      "word": "to"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 3.87,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.71,
+      "startOffset": 50,
+      "word": "be"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.94,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.87,
+      "startOffset": 53,
+      "word": "a"
+    },
+    {
+      "alignedWord": "curiosity",
+      "case": "success",
+      "end": 4.62,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.94,
+      "startOffset": 55,
+      "word": "curiosity"
+    }
+  ]
+}

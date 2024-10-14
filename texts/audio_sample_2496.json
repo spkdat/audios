@@ -1,0 +1,151 @@
+{
+  "transcript": "jeff's toy go cart never worked\r\n",
+  "words": [
+    {
+      "alignedWord": "jeff's",
+      "case": "success",
+      "end": 0.65,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 0,
+      "word": "jeff's"
+    },
+    {
+      "alignedWord": "toy",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 7,
+      "word": "toy"
+    },
+    {
+      "alignedWord": "go",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 11,
+      "word": "go"
+    },
+    {
+      "alignedWord": "cart",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 14,
+      "word": "cart"
+    },
+    {
+      "alignedWord": "never",
+      "case": "success",
+      "end": 1.71,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 19,
+      "word": "never"
+    },
+    {
+      "alignedWord": "worked",
+      "case": "success",
+      "end": 2.16,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 25,
+      "word": "worked"
+    }
+  ]
+}

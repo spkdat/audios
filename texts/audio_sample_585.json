@@ -1,0 +1,166 @@
+{
+  "transcript": "but how little love we give him\r\n",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 0.27,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "but"
+    },
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 0.51,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.27,
+      "startOffset": 4,
+      "word": "how"
+    },
+    {
+      "alignedWord": "little",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 8,
+      "word": "little"
+    },
+    {
+      "alignedWord": "love",
+      "case": "success",
+      "end": 1.2,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 15,
+      "word": "love"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 20,
+      "word": "we"
+    },
+    {
+      "alignedWord": "give",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 23,
+      "word": "give"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 1.8,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 28,
+      "word": "him"
+    }
+  ]
+}

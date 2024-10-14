@@ -1,0 +1,228 @@
+{
+  "transcript": "it's hard to tell an original from a forgery\r\n",
+  "words": [
+    {
+      "alignedWord": "it's",
+      "case": "success",
+      "end": 0.28,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "it's"
+    },
+    {
+      "alignedWord": "hard",
+      "case": "success",
+      "end": 0.53,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 5,
+      "word": "hard"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 10,
+      "word": "to"
+    },
+    {
+      "alignedWord": "tell",
+      "case": "success",
+      "end": 0.9199999999999999,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 13,
+      "word": "tell"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 18,
+      "word": "an"
+    },
+    {
+      "alignedWord": "original",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 21,
+      "word": "original"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 1.8399999999999999,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 30,
+      "word": "from"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.9000000000000001,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 35,
+      "word": "a"
+    },
+    {
+      "alignedWord": "forgery",
+      "case": "success",
+      "end": 2.5999999999999996,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 37,
+      "word": "forgery"
+    }
+  ]
+}

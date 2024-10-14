@@ -1,0 +1,304 @@
+{
+  "transcript": "he may toss coins he may take slips paper from a grab bag\r\n",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.21000000000000002,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "he"
+    },
+    {
+      "alignedWord": "may",
+      "case": "success",
+      "end": 0.4,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.21,
+      "startOffset": 3,
+      "word": "may"
+    },
+    {
+      "alignedWord": "toss",
+      "case": "success",
+      "end": 0.6799999999999999,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.41,
+      "startOffset": 7,
+      "word": "toss"
+    },
+    {
+      "alignedWord": "coins",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 12,
+      "word": "coins"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 18,
+      "word": "he"
+    },
+    {
+      "alignedWord": "may",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 21,
+      "word": "may"
+    },
+    {
+      "alignedWord": "take",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 25,
+      "word": "take"
+    },
+    {
+      "alignedWord": "slips",
+      "case": "success",
+      "end": 2.01,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 30,
+      "word": "slips"
+    },
+    {
+      "alignedWord": "paper",
+      "case": "success",
+      "end": 2.3499999999999996,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.01,
+      "startOffset": 36,
+      "word": "paper"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 2.5500000000000003,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 42,
+      "word": "from"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.61,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 47,
+      "word": "a"
+    },
+    {
+      "alignedWord": "grab",
+      "case": "success",
+      "end": 2.8899999999999997,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "b_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 49,
+      "word": "grab"
+    },
+    {
+      "alignedWord": "bag",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "g_E"
+        }
+      ],
+      "start": 2.9,
+      "startOffset": 54,
+      "word": "bag"
+    }
+  ]
+}

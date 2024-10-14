@@ -1,0 +1,127 @@
+{
+  "transcript": "he will allow a rare lie\r\n",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.38,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "he"
+    },
+    {
+      "alignedWord": "will",
+      "case": "success",
+      "end": 0.5700000000000001,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.38,
+      "startOffset": 3,
+      "word": "will"
+    },
+    {
+      "alignedWord": "allow",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 8,
+      "word": "allow"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 14,
+      "word": "a"
+    },
+    {
+      "alignedWord": "rare",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 16,
+      "word": "rare"
+    },
+    {
+      "alignedWord": "lie",
+      "case": "success",
+      "end": 1.9,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.41,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 21,
+      "word": "lie"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "transcript": "the toddler found a clamshell near the camp site\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.24,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "toddler",
+      "case": "success",
+      "end": 0.64,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 4,
+      "word": "toddler"
+    },
+    {
+      "alignedWord": "found",
+      "case": "success",
+      "end": 0.92,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.64,
+      "startOffset": 12,
+      "word": "found"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.9700000000000001,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 18,
+      "word": "a"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.5899999999999999,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.62,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 20,
+      "word": "clamshell"
+    },
+    {
+      "alignedWord": "near",
+      "case": "success",
+      "end": 1.8,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 30,
+      "word": "near"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.9100000000000001,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 35,
+      "word": "the"
+    },
+    {
+      "alignedWord": "camp",
+      "case": "success",
+      "end": 2.2199999999999998,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 39,
+      "word": "camp"
+    },
+    {
+      "alignedWord": "site",
+      "case": "success",
+      "end": 2.6100000000000003,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 44,
+      "word": "site"
+    }
+  ]
+}

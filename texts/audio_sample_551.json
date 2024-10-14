@@ -1,0 +1,305 @@
+{
+  "transcript": "the jaded amorist conjured up pictures of the blasphemous rites with relish\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.24000000000000002,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "jaded",
+      "case": "success",
+      "end": 0.6799999999999999,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.24,
+      "startOffset": 4,
+      "word": "jaded"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.61,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 10,
+      "word": "amorist"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.8199999999999998,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.43,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 18,
+      "word": "conjured"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 27,
+      "word": "up"
+    },
+    {
+      "alignedWord": "pictures",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 30,
+      "word": "pictures"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.45,
+      "startOffset": 39,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.71,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 42,
+      "word": "the"
+    },
+    {
+      "alignedWord": "blasphemous",
+      "case": "success",
+      "end": 3.41,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.72,
+      "startOffset": 46,
+      "word": "blasphemous"
+    },
+    {
+      "alignedWord": "rites",
+      "case": "success",
+      "end": 3.83,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.43,
+      "startOffset": 58,
+      "word": "rites"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 4.03,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.83,
+      "startOffset": 64,
+      "word": "with"
+    },
+    {
+      "alignedWord": "relish",
+      "case": "success",
+      "end": 4.63,
+      "endOffset": 75,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 4.03,
+      "startOffset": 69,
+      "word": "relish"
+    }
+  ]
+}

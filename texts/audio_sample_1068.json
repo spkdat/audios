@@ -1,0 +1,93 @@
+{
+  "transcript": "who would take over\r\n",
+  "words": [
+    {
+      "alignedWord": "who",
+      "case": "success",
+      "end": 0.28,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "who"
+    },
+    {
+      "alignedWord": "would",
+      "case": "success",
+      "end": 0.45000000000000007,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 4,
+      "word": "would"
+    },
+    {
+      "alignedWord": "take",
+      "case": "success",
+      "end": 0.68,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.45,
+      "startOffset": 10,
+      "word": "take"
+    },
+    {
+      "alignedWord": "over",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 15,
+      "word": "over"
+    }
+  ]
+}

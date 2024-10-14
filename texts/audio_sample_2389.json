@@ -1,0 +1,184 @@
+{
+  "transcript": "a tiny handful never did make the concert\r\n",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.19,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "a"
+    },
+    {
+      "alignedWord": "tiny",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.19,
+      "startOffset": 2,
+      "word": "tiny"
+    },
+    {
+      "alignedWord": "handful",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 7,
+      "word": "handful"
+    },
+    {
+      "alignedWord": "never",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 15,
+      "word": "never"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 1.55,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 21,
+      "word": "did"
+    },
+    {
+      "alignedWord": "make",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 25,
+      "word": "make"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.87,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 30,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 34,
+      "word": "concert"
+    }
+  ]
+}

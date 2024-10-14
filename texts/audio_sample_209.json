@@ -1,0 +1,217 @@
+{
+  "transcript": "this tragic lad had forged his own shackles\r\n",
+  "words": [
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "this"
+    },
+    {
+      "alignedWord": "tragic",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.34,
+      "startOffset": 5,
+      "word": "tragic"
+    },
+    {
+      "alignedWord": "lad",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 12,
+      "word": "lad"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.36,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 16,
+      "word": "had"
+    },
+    {
+      "alignedWord": "forged",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 20,
+      "word": "forged"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 27,
+      "word": "his"
+    },
+    {
+      "alignedWord": "own",
+      "case": "success",
+      "end": 2.17,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 31,
+      "word": "own"
+    },
+    {
+      "alignedWord": "shackles",
+      "case": "success",
+      "end": 2.75,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 35,
+      "word": "shackles"
+    }
+  ]
+}

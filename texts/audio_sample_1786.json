@@ -1,0 +1,385 @@
+{
+  "transcript": "you should firmly insist that no bobby pins or hair pins be worn in the water\r\n",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "you"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 0.5700000000000001,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 4,
+      "word": "should"
+    },
+    {
+      "alignedWord": "firmly",
+      "case": "success",
+      "end": 0.99,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 11,
+      "word": "firmly"
+    },
+    {
+      "alignedWord": "insist",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.99,
+      "startOffset": 18,
+      "word": "insist"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.65,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 25,
+      "word": "that"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 1.89,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 30,
+      "word": "no"
+    },
+    {
+      "alignedWord": "bobby",
+      "case": "success",
+      "end": 2.28,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 33,
+      "word": "bobby"
+    },
+    {
+      "alignedWord": "pins",
+      "case": "success",
+      "end": 2.6799999999999997,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 39,
+      "word": "pins"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 2.83,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "er_S"
+        }
+      ],
+      "start": 2.68,
+      "startOffset": 44,
+      "word": "or"
+    },
+    {
+      "alignedWord": "hair",
+      "case": "success",
+      "end": 3.1,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.83,
+      "startOffset": 47,
+      "word": "hair"
+    },
+    {
+      "alignedWord": "pins",
+      "case": "success",
+      "end": 3.5,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 52,
+      "word": "pins"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 3.73,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.52,
+      "startOffset": 57,
+      "word": "be"
+    },
+    {
+      "alignedWord": "worn",
+      "case": "success",
+      "end": 4.06,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.73,
+      "startOffset": 60,
+      "word": "worn"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 4.25,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.07,
+      "startOffset": 65,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.34,
+      "endOffset": 71,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.25,
+      "startOffset": 68,
+      "word": "the"
+    },
+    {
+      "alignedWord": "water",
+      "case": "success",
+      "end": 4.81,
+      "endOffset": 77,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.34,
+      "startOffset": 72,
+      "word": "water"
+    }
+  ]
+}

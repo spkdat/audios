@@ -1,0 +1,227 @@
+{
+  "transcript": "he wore a brown knit sport shirt with no tie\r\n",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.5800000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 0,
+      "word": "he"
+    },
+    {
+      "alignedWord": "wore",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 3,
+      "word": "wore"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.9,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 8,
+      "word": "a"
+    },
+    {
+      "alignedWord": "brown",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 10,
+      "word": "brown"
+    },
+    {
+      "alignedWord": "knit",
+      "case": "success",
+      "end": 1.55,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 16,
+      "word": "knit"
+    },
+    {
+      "alignedWord": "sport",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 21,
+      "word": "sport"
+    },
+    {
+      "alignedWord": "shirt",
+      "case": "success",
+      "end": 2.38,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 27,
+      "word": "shirt"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 2.66,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 33,
+      "word": "with"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 2.9000000000000004,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 38,
+      "word": "no"
+    },
+    {
+      "alignedWord": "tie",
+      "case": "success",
+      "end": 3.4,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.37,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.9,
+      "startOffset": 41,
+      "word": "tie"
+    }
+  ]
+}

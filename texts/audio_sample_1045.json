@@ -1,0 +1,239 @@
+{
+  "transcript": "in short and to borrow an arboreal phrase slash timber\r\n",
+  "words": [
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.31,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "in"
+    },
+    {
+      "alignedWord": "short",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 3,
+      "word": "short"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 0.9400000000000001,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.77,
+      "startOffset": 9,
+      "word": "and"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 13,
+      "word": "to"
+    },
+    {
+      "alignedWord": "borrow",
+      "case": "success",
+      "end": 1.34,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 16,
+      "word": "borrow"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.34,
+      "startOffset": 23,
+      "word": "an"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.01,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.51,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 26,
+      "word": "arboreal"
+    },
+    {
+      "alignedWord": "phrase",
+      "case": "success",
+      "end": 2.61,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 35,
+      "word": "phrase"
+    },
+    {
+      "alignedWord": "slash",
+      "case": "success",
+      "end": 3.45,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 2.93,
+      "startOffset": 42,
+      "word": "slash"
+    },
+    {
+      "alignedWord": "timber",
+      "case": "success",
+      "end": 3.99,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.45,
+      "startOffset": 48,
+      "word": "timber"
+    }
+  ]
+}

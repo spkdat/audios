@@ -1,0 +1,232 @@
+{
+  "transcript": "it circled her thighs exploring with its icy tentacles\r\n",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.31000000000000005,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "it"
+    },
+    {
+      "alignedWord": "circled",
+      "case": "success",
+      "end": 0.73,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 3,
+      "word": "circled"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 0.84,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 11,
+      "word": "her"
+    },
+    {
+      "alignedWord": "thighs",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 15,
+      "word": "thighs"
+    },
+    {
+      "alignedWord": "exploring",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 22,
+      "word": "exploring"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 1.8599999999999999,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 32,
+      "word": "with"
+    },
+    {
+      "alignedWord": "its",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 37,
+      "word": "its"
+    },
+    {
+      "alignedWord": "icy",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 41,
+      "word": "icy"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.56,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 45,
+      "word": "tentacles"
+    }
+  ]
+}

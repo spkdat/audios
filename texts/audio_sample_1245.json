@@ -1,0 +1,166 @@
+{
+  "transcript": "do buy all purpose mugs or cups\r\n",
+  "words": [
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 0.28,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "do"
+    },
+    {
+      "alignedWord": "buy",
+      "case": "success",
+      "end": 0.5900000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 3,
+      "word": "buy"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 0.7999999999999999,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 7,
+      "word": "all"
+    },
+    {
+      "alignedWord": "purpose",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 11,
+      "word": "purpose"
+    },
+    {
+      "alignedWord": "mugs",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 19,
+      "word": "mugs"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 1.7599999999999998,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 24,
+      "word": "or"
+    },
+    {
+      "alignedWord": "cups",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 27,
+      "word": "cups"
+    }
+  ]
+}

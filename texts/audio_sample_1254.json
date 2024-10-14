@@ -1,0 +1,117 @@
+{
+  "transcript": "nobody else showed pleasure\r\n",
+  "words": [
+    {
+      "alignedWord": "nobody",
+      "case": "success",
+      "end": 0.57,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "nobody"
+    },
+    {
+      "alignedWord": "else",
+      "case": "success",
+      "end": 0.84,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 7,
+      "word": "else"
+    },
+    {
+      "alignedWord": "showed",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 12,
+      "word": "showed"
+    },
+    {
+      "alignedWord": "pleasure",
+      "case": "success",
+      "end": 1.83,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 19,
+      "word": "pleasure"
+    }
+  ]
+}

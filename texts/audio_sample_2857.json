@@ -1,0 +1,266 @@
+{
+  "transcript": "you may amaze yourself and acquire a real knack for it\r\n",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.26,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "you"
+    },
+    {
+      "alignedWord": "may",
+      "case": "success",
+      "end": 0.44,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.26,
+      "startOffset": 4,
+      "word": "may"
+    },
+    {
+      "alignedWord": "amaze",
+      "case": "success",
+      "end": 0.81,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 8,
+      "word": "amaze"
+    },
+    {
+      "alignedWord": "yourself",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 14,
+      "word": "yourself"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 23,
+      "word": "and"
+    },
+    {
+      "alignedWord": "acquire",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 27,
+      "word": "acquire"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.83,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 35,
+      "word": "a"
+    },
+    {
+      "alignedWord": "real",
+      "case": "success",
+      "end": 2.0700000000000003,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 37,
+      "word": "real"
+    },
+    {
+      "alignedWord": "knack",
+      "case": "success",
+      "end": 2.3499999999999996,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 42,
+      "word": "knack"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 48,
+      "word": "for"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 52,
+      "word": "it"
+    }
+  ]
+}

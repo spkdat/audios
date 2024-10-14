@@ -1,0 +1,208 @@
+{
+  "transcript": "i just saw jim near the new archeological museum\r\n",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.23,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "i"
+    },
+    {
+      "alignedWord": "just",
+      "case": "success",
+      "end": 0.45,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 2,
+      "word": "just"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 0.69,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 0.45,
+      "startOffset": 7,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "jim",
+      "case": "success",
+      "end": 0.96,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 11,
+      "word": "jim"
+    },
+    {
+      "alignedWord": "near",
+      "case": "success",
+      "end": 1.16,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 15,
+      "word": "near"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 20,
+      "word": "the"
+    },
+    {
+      "alignedWord": "new",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 24,
+      "word": "new"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.96,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 28,
+      "word": "archeological"
+    },
+    {
+      "alignedWord": "museum",
+      "case": "success",
+      "end": 3.08,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.46,
+      "startOffset": 42,
+      "word": "museum"
+    }
+  ]
+}

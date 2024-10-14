@@ -1,0 +1,274 @@
+{
+  "transcript": "an adult male baboon's teeth are not suitable for eating shellfish\r\n",
+  "words": [
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 0.27,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "an"
+    },
+    {
+      "alignedWord": "adult",
+      "case": "success",
+      "end": 0.6100000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.27,
+      "startOffset": 3,
+      "word": "adult"
+    },
+    {
+      "alignedWord": "male",
+      "case": "success",
+      "end": 0.9199999999999999,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 9,
+      "word": "male"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.44,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.51,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 14,
+      "word": "baboon's"
+    },
+    {
+      "alignedWord": "teeth",
+      "case": "success",
+      "end": 1.77,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 23,
+      "word": "teeth"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 1.9400000000000002,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "er_S"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 29,
+      "word": "are"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 2.21,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 33,
+      "word": "not"
+    },
+    {
+      "alignedWord": "suitable",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.21,
+      "startOffset": 37,
+      "word": "suitable"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 2.7600000000000002,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 46,
+      "word": "for"
+    },
+    {
+      "alignedWord": "eating",
+      "case": "success",
+      "end": 3.0599999999999996,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.76,
+      "startOffset": 50,
+      "word": "eating"
+    },
+    {
+      "alignedWord": "shellfish",
+      "case": "success",
+      "end": 3.81,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 3.06,
+      "startOffset": 57,
+      "word": "shellfish"
+    }
+  ]
+}

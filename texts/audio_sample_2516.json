@@ -1,0 +1,246 @@
+{
+  "transcript": "the football team coach has a watch thin as a dime\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.23,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "football",
+      "case": "success",
+      "end": 0.61,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 4,
+      "word": "football"
+    },
+    {
+      "alignedWord": "team",
+      "case": "success",
+      "end": 0.86,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 13,
+      "word": "team"
+    },
+    {
+      "alignedWord": "coach",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 18,
+      "word": "coach"
+    },
+    {
+      "alignedWord": "has",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 24,
+      "word": "has"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.57,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 28,
+      "word": "a"
+    },
+    {
+      "alignedWord": "watch",
+      "case": "success",
+      "end": 2.0300000000000002,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 30,
+      "word": "watch"
+    },
+    {
+      "alignedWord": "thin",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 36,
+      "word": "thin"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.33,
+      "startOffset": 41,
+      "word": "as"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.56,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 44,
+      "word": "a"
+    },
+    {
+      "alignedWord": "dime",
+      "case": "success",
+      "end": 3.0,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.56,
+      "startOffset": 46,
+      "word": "dime"
+    }
+  ]
+}

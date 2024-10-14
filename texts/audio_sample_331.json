@@ -1,0 +1,197 @@
+{
+  "transcript": "how oily do you like your salad dressing\r\n",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 0.39,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "how"
+    },
+    {
+      "alignedWord": "oily",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "oy_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.41,
+      "startOffset": 4,
+      "word": "oily"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 0.88,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 9,
+      "word": "do"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 12,
+      "word": "you"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 16,
+      "word": "like"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 1.43,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.28,
+      "startOffset": 21,
+      "word": "your"
+    },
+    {
+      "alignedWord": "salad",
+      "case": "success",
+      "end": 1.77,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 26,
+      "word": "salad"
+    },
+    {
+      "alignedWord": "dressing",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.77,
+      "startOffset": 32,
+      "word": "dressing"
+    }
+  ]
+}

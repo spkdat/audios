@@ -1,0 +1,184 @@
+{
+  "transcript": "to hold 'em in a compact mass was close herdin'\r\n",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 2,
+      "startOffset": 0,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 7,
+      "startOffset": 3,
+      "word": "hold"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 11,
+      "startOffset": 8,
+      "word": "'em"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.63,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.45,
+      "startOffset": 12,
+      "word": "in"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.68,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 15,
+      "word": "a"
+    },
+    {
+      "alignedWord": "compact",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 17,
+      "word": "compact"
+    },
+    {
+      "alignedWord": "mass",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 25,
+      "word": "mass"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.6600000000000001,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 30,
+      "word": "was"
+    },
+    {
+      "alignedWord": "close",
+      "case": "success",
+      "end": 1.8499999999999999,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 34,
+      "word": "close"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.3000000000000003,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.45,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 40,
+      "word": "herdin"
+    }
+  ]
+}

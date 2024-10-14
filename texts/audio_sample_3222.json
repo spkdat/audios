@@ -1,0 +1,158 @@
+{
+  "transcript": "he stole a dime from a beggar\r\n",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.3,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.11,
+      "startOffset": 0,
+      "word": "he"
+    },
+    {
+      "alignedWord": "stole",
+      "case": "success",
+      "end": 0.6699999999999999,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.3,
+      "startOffset": 3,
+      "word": "stole"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.7200000000000001,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 9,
+      "word": "a"
+    },
+    {
+      "alignedWord": "dime",
+      "case": "success",
+      "end": 1.16,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 11,
+      "word": "dime"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 16,
+      "word": "from"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 21,
+      "word": "a"
+    },
+    {
+      "alignedWord": "beggar",
+      "case": "success",
+      "end": 1.93,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 23,
+      "word": "beggar"
+    }
+  ]
+}

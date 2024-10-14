@@ -1,0 +1,189 @@
+{
+  "transcript": "ahah he thought a lush divorcee at last\r\n",
+  "words": [
+    {
+      "alignedWord": "ahah",
+      "case": "success",
+      "end": 0.8,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "hh_I"
+        },
+        {
+          "duration": 0.37,
+          "phone": "aa_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "ahah"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 5,
+      "word": "he"
+    },
+    {
+      "alignedWord": "thought",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 8,
+      "word": "thought"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 16,
+      "word": "a"
+    },
+    {
+      "alignedWord": "lush",
+      "case": "success",
+      "end": 2.27,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 1.77,
+      "startOffset": 18,
+      "word": "lush"
+    },
+    {
+      "alignedWord": "divorcee",
+      "case": "success",
+      "end": 3.4000000000000004,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.4,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 23,
+      "word": "divorcee"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 3.75,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.53,
+      "startOffset": 32,
+      "word": "at"
+    },
+    {
+      "alignedWord": "last",
+      "case": "success",
+      "end": 4.34,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.75,
+      "startOffset": 35,
+      "word": "last"
+    }
+  ]
+}

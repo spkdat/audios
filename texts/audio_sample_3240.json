@@ -1,0 +1,250 @@
+{
+  "transcript": "the tooth fairy forgot to come when roger's tooth fell out\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.22000000000000003,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "tooth",
+      "case": "success",
+      "end": 0.51,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 4,
+      "word": "tooth"
+    },
+    {
+      "alignedWord": "fairy",
+      "case": "success",
+      "end": 0.8400000000000001,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 10,
+      "word": "fairy"
+    },
+    {
+      "alignedWord": "forgot",
+      "case": "success",
+      "end": 1.23,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 16,
+      "word": "forgot"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 23,
+      "word": "to"
+    },
+    {
+      "alignedWord": "come",
+      "case": "success",
+      "end": 1.61,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 26,
+      "word": "come"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 31,
+      "word": "when"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.18,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.43,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 36,
+      "word": "roger's"
+    },
+    {
+      "alignedWord": "tooth",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 44,
+      "word": "tooth"
+    },
+    {
+      "alignedWord": "fell",
+      "case": "success",
+      "end": 2.76,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.51,
+      "startOffset": 50,
+      "word": "fell"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 3.01,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.76,
+      "startOffset": 55,
+      "word": "out"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "transcript": "only then did he decide he didn't want one\r\n",
+  "words": [
+    {
+      "alignedWord": "only",
+      "case": "success",
+      "end": 0.48000000000000004,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "only"
+    },
+    {
+      "alignedWord": "then",
+      "case": "success",
+      "end": 0.9199999999999999,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 5,
+      "word": "then"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 1.23,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 10,
+      "word": "did"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 14,
+      "word": "he"
+    },
+    {
+      "alignedWord": "decide",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 17,
+      "word": "decide"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 24,
+      "word": "he"
+    },
+    {
+      "alignedWord": "didn't",
+      "case": "success",
+      "end": 2.39,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 27,
+      "word": "didn't"
+    },
+    {
+      "alignedWord": "want",
+      "case": "success",
+      "end": 2.6900000000000004,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 34,
+      "word": "want"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 2.85,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.69,
+      "startOffset": 39,
+      "word": "one"
+    }
+  ]
+}

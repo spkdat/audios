@@ -1,0 +1,324 @@
+{
+  "transcript": "she looked crestfallen as if he had somehow disappointed the whole human race\r\n",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 0.31000000000000005,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "she"
+    },
+    {
+      "alignedWord": "looked",
+      "case": "success",
+      "end": 0.45999999999999996,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 4,
+      "word": "looked"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.66,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 11,
+      "word": "crestfallen"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 23,
+      "word": "as"
+    },
+    {
+      "alignedWord": "if",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 26,
+      "word": "if"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.67,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 29,
+      "word": "he"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 32,
+      "word": "had"
+    },
+    {
+      "alignedWord": "somehow",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "hh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 36,
+      "word": "somehow"
+    },
+    {
+      "alignedWord": "disappointed",
+      "case": "success",
+      "end": 2.8600000000000003,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 44,
+      "word": "disappointed"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.86,
+      "startOffset": 57,
+      "word": "the"
+    },
+    {
+      "alignedWord": "whole",
+      "case": "success",
+      "end": 3.14,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.92,
+      "startOffset": 61,
+      "word": "whole"
+    },
+    {
+      "alignedWord": "human",
+      "case": "success",
+      "end": 3.46,
+      "endOffset": 72,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 67,
+      "word": "human"
+    },
+    {
+      "alignedWord": "race",
+      "case": "success",
+      "end": 3.87,
+      "endOffset": 77,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.46,
+      "startOffset": 73,
+      "word": "race"
+    }
+  ]
+}

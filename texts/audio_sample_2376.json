@@ -1,0 +1,194 @@
+{
+  "transcript": "please dig my potatoes up before frost\r\n",
+  "words": [
+    {
+      "alignedWord": "please",
+      "case": "success",
+      "end": 0.42,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "please"
+    },
+    {
+      "alignedWord": "dig",
+      "case": "success",
+      "end": 0.64,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "g_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 7,
+      "word": "dig"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.64,
+      "startOffset": 11,
+      "word": "my"
+    },
+    {
+      "alignedWord": "potatoes",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 14,
+      "word": "potatoes"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 1.43,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.28,
+      "startOffset": 23,
+      "word": "up"
+    },
+    {
+      "alignedWord": "before",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 26,
+      "word": "before"
+    },
+    {
+      "alignedWord": "frost",
+      "case": "success",
+      "end": 2.22,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.79,
+      "startOffset": 33,
+      "word": "frost"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "transcript": "very austere yet racy\r\n",
+  "words": [
+    {
+      "alignedWord": "very",
+      "case": "success",
+      "end": 0.48,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.05,
+      "startOffset": 0,
+      "word": "very"
+    },
+    {
+      "alignedWord": "austere",
+      "case": "success",
+      "end": 1.0899999999999999,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.51,
+      "startOffset": 5,
+      "word": "austere"
+    },
+    {
+      "alignedWord": "yet",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 13,
+      "word": "yet"
+    },
+    {
+      "alignedWord": "racy",
+      "case": "success",
+      "end": 1.9100000000000001,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 17,
+      "word": "racy"
+    }
+  ]
+}

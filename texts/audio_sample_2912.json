@@ -1,0 +1,277 @@
+{
+  "transcript": "at right is a casual style in a crushed unlined white leather\r\n",
+  "words": [
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 0.4,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "at"
+    },
+    {
+      "alignedWord": "right",
+      "case": "success",
+      "end": 0.73,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 3,
+      "word": "right"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 0.9,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 9,
+      "word": "is"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 12,
+      "word": "a"
+    },
+    {
+      "alignedWord": "casual",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 14,
+      "word": "casual"
+    },
+    {
+      "alignedWord": "style",
+      "case": "success",
+      "end": 1.77,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 21,
+      "word": "style"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 27,
+      "word": "in"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.97,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 30,
+      "word": "a"
+    },
+    {
+      "alignedWord": "crushed",
+      "case": "success",
+      "end": 2.43,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 32,
+      "word": "crushed"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.93,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.46,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 40,
+      "word": "unlined"
+    },
+    {
+      "alignedWord": "white",
+      "case": "success",
+      "end": 3.21,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 48,
+      "word": "white"
+    },
+    {
+      "alignedWord": "leather",
+      "case": "success",
+      "end": 3.71,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.21,
+      "startOffset": 54,
+      "word": "leather"
+    }
+  ]
+}

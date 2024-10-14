@@ -1,0 +1,99 @@
+{
+  "transcript": "the lifeboats were stuck fast\r\n",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 3,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 0.7000000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.56,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 4,
+      "word": "lifeboats"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 14,
+      "word": "were"
+    },
+    {
+      "alignedWord": "stuck",
+      "case": "success",
+      "end": 1.18,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 19,
+      "word": "stuck"
+    },
+    {
+      "alignedWord": "fast",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 25,
+      "word": "fast"
+    }
+  ]
+}

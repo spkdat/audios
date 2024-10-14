@@ -1,0 +1,221 @@
+{
+  "transcript": "george is paranoid about a future gas shortage\r\n",
+  "words": [
+    {
+      "alignedWord": "george",
+      "case": "success",
+      "end": 0.48,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 0.17,
+      "startOffset": 0,
+      "word": "george"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 7,
+      "word": "is"
+    },
+    {
+      "alignedWord": "paranoid",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 10,
+      "word": "paranoid"
+    },
+    {
+      "alignedWord": "about",
+      "case": "success",
+      "end": 1.4300000000000002,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 19,
+      "word": "about"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 25,
+      "word": "a"
+    },
+    {
+      "alignedWord": "future",
+      "case": "success",
+      "end": 1.8599999999999999,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 27,
+      "word": "future"
+    },
+    {
+      "alignedWord": "gas",
+      "case": "success",
+      "end": 2.17,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 34,
+      "word": "gas"
+    },
+    {
+      "alignedWord": "shortage",
+      "case": "success",
+      "end": 2.51,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 38,
+      "word": "shortage"
+    }
+  ]
+}

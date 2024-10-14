@@ -1,0 +1,171 @@
+{
+  "transcript": "his sudden departure shocked the cast\r\n",
+  "words": [
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 0.28,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "his"
+    },
+    {
+      "alignedWord": "sudden",
+      "case": "success",
+      "end": 0.53,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 4,
+      "word": "sudden"
+    },
+    {
+      "alignedWord": "departure",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 11,
+      "word": "departure"
+    },
+    {
+      "alignedWord": "shocked",
+      "case": "success",
+      "end": 1.36,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 21,
+      "word": "shocked"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.4700000000000002,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 29,
+      "word": "the"
+    },
+    {
+      "alignedWord": "cast",
+      "case": "success",
+      "end": 1.8199999999999998,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 33,
+      "word": "cast"
+    }
+  ]
+}

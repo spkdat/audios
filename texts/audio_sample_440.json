@@ -1,0 +1,232 @@
+{
+  "transcript": "we like bleu cheese but victor prefers swiss cheese\r\n",
+  "words": [
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 0.25,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "we"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 0.48,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 3,
+      "word": "like"
+    },
+    {
+      "alignedWord": "bleu",
+      "case": "success",
+      "end": 0.69,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 8,
+      "word": "bleu"
+    },
+    {
+      "alignedWord": "cheese",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 13,
+      "word": "cheese"
+    },
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 1.1600000000000001,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 20,
+      "word": "but"
+    },
+    {
+      "alignedWord": "victor",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.17,
+      "startOffset": 24,
+      "word": "victor"
+    },
+    {
+      "alignedWord": "prefers",
+      "case": "success",
+      "end": 1.83,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 31,
+      "word": "prefers"
+    },
+    {
+      "alignedWord": "swiss",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 39,
+      "word": "swiss"
+    },
+    {
+      "alignedWord": "cheese",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 45,
+      "word": "cheese"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "transcript": "nor is she a wet boat\r\n",
+  "words": [
+    {
+      "alignedWord": "nor",
+      "case": "success",
+      "end": 1.07,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 0,
+      "word": "nor"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.2000000000000002,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 4,
+      "word": "is"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 7,
+      "word": "she"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 11,
+      "word": "a"
+    },
+    {
+      "alignedWord": "wet",
+      "case": "success",
+      "end": 1.82,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 13,
+      "word": "wet"
+    },
+    {
+      "alignedWord": "boat",
+      "case": "success",
+      "end": 2.1,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 17,
+      "word": "boat"
+    }
+  ]
+}

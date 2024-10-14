@@ -1,0 +1,221 @@
+{
+  "transcript": "taxicab broke down and caused a traffic jam\r\n",
+  "words": [
+    {
+      "alignedWord": "taxicab",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "b_E"
+        }
+      ],
+      "start": 0.18,
+      "startOffset": 0,
+      "word": "taxicab"
+    },
+    {
+      "alignedWord": "broke",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 8,
+      "word": "broke"
+    },
+    {
+      "alignedWord": "down",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 14,
+      "word": "down"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.4000000000000001,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 19,
+      "word": "and"
+    },
+    {
+      "alignedWord": "caused",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 23,
+      "word": "caused"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 30,
+      "word": "a"
+    },
+    {
+      "alignedWord": "traffic",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 32,
+      "word": "traffic"
+    },
+    {
+      "alignedWord": "jam",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 40,
+      "word": "jam"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "transcript": "how much allowance do you get\r\n",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 0.21,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "how"
+    },
+    {
+      "alignedWord": "much",
+      "case": "success",
+      "end": 0.39,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.21,
+      "startOffset": 4,
+      "word": "much"
+    },
+    {
+      "alignedWord": "allowance",
+      "case": "success",
+      "end": 0.76,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 9,
+      "word": "allowance"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 0.94,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 19,
+      "word": "do"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 22,
+      "word": "you"
+    },
+    {
+      "alignedWord": "get",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 26,
+      "word": "get"
+    }
+  ]
+}

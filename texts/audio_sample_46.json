@@ -1,0 +1,189 @@
+{
+  "transcript": "why accuse a shipmate of being behind this\r\n",
+  "words": [
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.19,
+      "startOffset": 0,
+      "word": "why"
+    },
+    {
+      "alignedWord": "accuse",
+      "case": "success",
+      "end": 0.95,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 4,
+      "word": "accuse"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 11,
+      "word": "a"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.3,
+      "startOffset": 13,
+      "word": "shipmate"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.65,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 22,
+      "word": "of"
+    },
+    {
+      "alignedWord": "being",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 25,
+      "word": "being"
+    },
+    {
+      "alignedWord": "behind",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "hh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 31,
+      "word": "behind"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 2.94,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.5,
+      "startOffset": 38,
+      "word": "this"
+    }
+  ]
+}

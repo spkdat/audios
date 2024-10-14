@@ -1,0 +1,124 @@
+{
+  "transcript": "or does he get exercise\r\n",
+  "words": [
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 0.25,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "er_S"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "or"
+    },
+    {
+      "alignedWord": "does",
+      "case": "success",
+      "end": 0.47,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 3,
+      "word": "does"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.57,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.47,
+      "startOffset": 8,
+      "word": "he"
+    },
+    {
+      "alignedWord": "get",
+      "case": "success",
+      "end": 0.72,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 11,
+      "word": "get"
+    },
+    {
+      "alignedWord": "exercise",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 15,
+      "word": "exercise"
+    }
+  ]
+}

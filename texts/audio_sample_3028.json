@@ -1,0 +1,240 @@
+{
+  "transcript": "the taxicab broke down and caused a traffic jam\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.21000000000000002,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "taxicab",
+      "case": "success",
+      "end": 0.84,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "b_E"
+        }
+      ],
+      "start": 0.21,
+      "startOffset": 4,
+      "word": "taxicab"
+    },
+    {
+      "alignedWord": "broke",
+      "case": "success",
+      "end": 1.16,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 12,
+      "word": "broke"
+    },
+    {
+      "alignedWord": "down",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 18,
+      "word": "down"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 23,
+      "word": "and"
+    },
+    {
+      "alignedWord": "caused",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 27,
+      "word": "caused"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.05,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 34,
+      "word": "a"
+    },
+    {
+      "alignedWord": "traffic",
+      "case": "success",
+      "end": 2.4699999999999998,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 36,
+      "word": "traffic"
+    },
+    {
+      "alignedWord": "jam",
+      "case": "success",
+      "end": 2.76,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 44,
+      "word": "jam"
+    }
+  ]
+}

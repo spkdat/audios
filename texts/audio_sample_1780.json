@@ -1,0 +1,267 @@
+{
+  "transcript": "another memo for sightseers bring your camera along to museums\r\n",
+  "words": [
+    {
+      "alignedWord": "another",
+      "case": "success",
+      "end": 0.5800000000000001,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "another"
+    },
+    {
+      "alignedWord": "memo",
+      "case": "success",
+      "end": 0.95,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 8,
+      "word": "memo"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 13,
+      "word": "for"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.77,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 17,
+      "word": "sightseers"
+    },
+    {
+      "alignedWord": "bring",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 28,
+      "word": "bring"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 2.4299999999999997,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 34,
+      "word": "your"
+    },
+    {
+      "alignedWord": "camera",
+      "case": "success",
+      "end": 2.8200000000000003,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 39,
+      "word": "camera"
+    },
+    {
+      "alignedWord": "along",
+      "case": "success",
+      "end": 3.1999999999999997,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.82,
+      "startOffset": 46,
+      "word": "along"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.37,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 52,
+      "word": "to"
+    },
+    {
+      "alignedWord": "museums",
+      "case": "success",
+      "end": 4.3,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.37,
+      "startOffset": 55,
+      "word": "museums"
+    }
+  ]
+}

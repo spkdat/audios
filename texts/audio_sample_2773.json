@@ -1,0 +1,220 @@
+{
+  "transcript": "to put it bluntly you are getting out moded\r\n",
+  "words": [
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.24,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "to"
+    },
+    {
+      "alignedWord": "put",
+      "case": "success",
+      "end": 0.42,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.24,
+      "startOffset": 3,
+      "word": "put"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.52,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.42,
+      "startOffset": 7,
+      "word": "it"
+    },
+    {
+      "alignedWord": "bluntly",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 10,
+      "word": "bluntly"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.3399999999999999,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 18,
+      "word": "you"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 1.4200000000000002,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "er_S"
+        }
+      ],
+      "start": 1.34,
+      "startOffset": 22,
+      "word": "are"
+    },
+    {
+      "alignedWord": "getting",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 26,
+      "word": "getting"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 34,
+      "word": "out"
+    },
+    {
+      "alignedWord": "moded",
+      "case": "success",
+      "end": 2.3,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 38,
+      "word": "moded"
+    }
+  ]
+}

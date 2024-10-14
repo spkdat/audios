@@ -1,0 +1,143 @@
+{
+  "transcript": "it sounded silly why go on\r\n",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.23,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "it"
+    },
+    {
+      "alignedWord": "sounded",
+      "case": "success",
+      "end": 0.67,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 3,
+      "word": "sounded"
+    },
+    {
+      "alignedWord": "silly",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 11,
+      "word": "silly"
+    },
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 1.47,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 17,
+      "word": "why"
+    },
+    {
+      "alignedWord": "go",
+      "case": "success",
+      "end": 1.67,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 21,
+      "word": "go"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 1.7999999999999998,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 24,
+      "word": "on"
+    }
+  ]
+}

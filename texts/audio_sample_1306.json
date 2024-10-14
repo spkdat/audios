@@ -1,0 +1,155 @@
+{
+  "transcript": "regulative norms governing subgroups and roles\r\n",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.1199999999999999,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 0,
+      "word": "regulative"
+    },
+    {
+      "alignedWord": "norms",
+      "case": "success",
+      "end": 1.64,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 11,
+      "word": "norms"
+    },
+    {
+      "alignedWord": "governing",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 17,
+      "word": "governing"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.19,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.89,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.3,
+      "startOffset": 27,
+      "word": "subgroups"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.31,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.19,
+      "startOffset": 37,
+      "word": "and"
+    },
+    {
+      "alignedWord": "roles",
+      "case": "success",
+      "end": 3.87,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.31,
+      "startOffset": 41,
+      "word": "roles"
+    }
+  ]
+}

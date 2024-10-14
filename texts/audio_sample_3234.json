@@ -1,0 +1,356 @@
+{
+  "transcript": "gus saw pine trees and redwoods on his walk through sequoia national forest\r\n",
+  "words": [
+    {
+      "alignedWord": "gus",
+      "case": "success",
+      "end": 0.36,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "gus"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 0.6,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 0.36,
+      "startOffset": 4,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "pine",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 8,
+      "word": "pine"
+    },
+    {
+      "alignedWord": "trees",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 13,
+      "word": "trees"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 19,
+      "word": "and"
+    },
+    {
+      "alignedWord": "redwoods",
+      "case": "success",
+      "end": 2.17,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 23,
+      "word": "redwoods"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 32,
+      "word": "on"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.75,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.62,
+      "startOffset": 35,
+      "word": "his"
+    },
+    {
+      "alignedWord": "walk",
+      "case": "success",
+      "end": 3.04,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.75,
+      "startOffset": 39,
+      "word": "walk"
+    },
+    {
+      "alignedWord": "through",
+      "case": "success",
+      "end": 3.2,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 44,
+      "word": "through"
+    },
+    {
+      "alignedWord": "sequoia",
+      "case": "success",
+      "end": 3.67,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 52,
+      "word": "sequoia"
+    },
+    {
+      "alignedWord": "national",
+      "case": "success",
+      "end": 4.1,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.67,
+      "startOffset": 60,
+      "word": "national"
+    },
+    {
+      "alignedWord": "forest",
+      "case": "success",
+      "end": 4.6899999999999995,
+      "endOffset": 75,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.1,
+      "startOffset": 69,
+      "word": "forest"
+    }
+  ]
+}

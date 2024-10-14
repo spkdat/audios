@@ -1,0 +1,252 @@
+{
+  "transcript": "sometimes he coincided with my father's being at home\r\n",
+  "words": [
+    {
+      "alignedWord": "sometimes",
+      "case": "success",
+      "end": 0.59,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "sometimes"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 10,
+      "word": "he"
+    },
+    {
+      "alignedWord": "coincided",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 13,
+      "word": "coincided"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 23,
+      "word": "with"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 28,
+      "word": "my"
+    },
+    {
+      "alignedWord": "father's",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 31,
+      "word": "father's"
+    },
+    {
+      "alignedWord": "being",
+      "case": "success",
+      "end": 2.1399999999999997,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 40,
+      "word": "being"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 46,
+      "word": "at"
+    },
+    {
+      "alignedWord": "home",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 49,
+      "word": "home"
+    }
+  ]
+}

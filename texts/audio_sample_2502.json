@@ -1,0 +1,166 @@
+{
+  "transcript": "why yell or worry over silly items\r\n",
+  "words": [
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 0.39,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "why"
+    },
+    {
+      "alignedWord": "yell",
+      "case": "success",
+      "end": 0.66,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 4,
+      "word": "yell"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "er_S"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 9,
+      "word": "or"
+    },
+    {
+      "alignedWord": "worry",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 12,
+      "word": "worry"
+    },
+    {
+      "alignedWord": "over",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 18,
+      "word": "over"
+    },
+    {
+      "alignedWord": "silly",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 23,
+      "word": "silly"
+    },
+    {
+      "alignedWord": "items",
+      "case": "success",
+      "end": 2.1799999999999997,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 29,
+      "word": "items"
+    }
+  ]
+}

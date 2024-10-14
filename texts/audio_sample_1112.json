@@ -1,0 +1,320 @@
+{
+  "transcript": "what had been the ambassador's suite was now jagged walls of blackened brick\r\n",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 0.31,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.11,
+      "startOffset": 0,
+      "word": "what"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 5,
+      "word": "had"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 9,
+      "word": "been"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.9400000000000001,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 14,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.8,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 18,
+      "word": "ambassador's"
+    },
+    {
+      "alignedWord": "suite",
+      "case": "success",
+      "end": 2.2,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 31,
+      "word": "suite"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.66,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 37,
+      "word": "was"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 2.97,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 41,
+      "word": "now"
+    },
+    {
+      "alignedWord": "jagged",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.98,
+      "startOffset": 45,
+      "word": "jagged"
+    },
+    {
+      "alignedWord": "walls",
+      "case": "success",
+      "end": 3.95,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.4,
+      "startOffset": 52,
+      "word": "walls"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 4.21,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.99,
+      "startOffset": 58,
+      "word": "of"
+    },
+    {
+      "alignedWord": "blackened",
+      "case": "success",
+      "end": 4.74,
+      "endOffset": 70,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.21,
+      "startOffset": 61,
+      "word": "blackened"
+    },
+    {
+      "alignedWord": "brick",
+      "case": "success",
+      "end": 5.18,
+      "endOffset": 76,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "k_E"
+        }
+      ],
+      "start": 4.75,
+      "startOffset": 71,
+      "word": "brick"
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "transcript": "in news items a man is less often shot in the body or head than in the suburbs\r\n",
+  "words": [
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.39,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.24,
+      "startOffset": 0,
+      "word": "in"
+    },
+    {
+      "alignedWord": "news",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 3,
+      "word": "news"
+    },
+    {
+      "alignedWord": "items",
+      "case": "success",
+      "end": 1.16,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 8,
+      "word": "items"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.23,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 14,
+      "word": "a"
+    },
+    {
+      "alignedWord": "man",
+      "case": "success",
+      "end": 1.47,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 16,
+      "word": "man"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 20,
+      "word": "is"
+    },
+    {
+      "alignedWord": "less",
+      "case": "success",
+      "end": 1.9,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 23,
+      "word": "less"
+    },
+    {
+      "alignedWord": "often",
+      "case": "success",
+      "end": 2.2399999999999998,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 28,
+      "word": "often"
+    },
+    {
+      "alignedWord": "shot",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.24,
+      "startOffset": 34,
+      "word": "shot"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.72,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 39,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.83,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.72,
+      "startOffset": 42,
+      "word": "the"
+    },
+    {
+      "alignedWord": "body",
+      "case": "success",
+      "end": 3.24,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.83,
+      "startOffset": 46,
+      "word": "body"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 3.3400000000000003,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "er_S"
+        }
+      ],
+      "start": 3.24,
+      "startOffset": 51,
+      "word": "or"
+    },
+    {
+      "alignedWord": "head",
+      "case": "success",
+      "end": 3.7399999999999998,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.34,
+      "startOffset": 54,
+      "word": "head"
+    },
+    {
+      "alignedWord": "than",
+      "case": "success",
+      "end": 4.2299999999999995,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.05,
+      "startOffset": 59,
+      "word": "than"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 4.3500000000000005,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.23,
+      "startOffset": 64,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.46,
+      "endOffset": 70,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.35,
+      "startOffset": 67,
+      "word": "the"
+    },
+    {
+      "alignedWord": "suburbs",
+      "case": "success",
+      "end": 5.18,
+      "endOffset": 78,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.46,
+      "startOffset": 71,
+      "word": "suburbs"
+    }
+  ]
+}

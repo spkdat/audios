@@ -1,0 +1,197 @@
+{
+  "transcript": "put the butcher block table in the garage\r\n",
+  "words": [
+    {
+      "alignedWord": "put",
+      "case": "success",
+      "end": 0.26,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "put"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.36,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.26,
+      "startOffset": 4,
+      "word": "the"
+    },
+    {
+      "alignedWord": "butcher",
+      "case": "success",
+      "end": 0.6699999999999999,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.37,
+      "startOffset": 8,
+      "word": "butcher"
+    },
+    {
+      "alignedWord": "block",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 16,
+      "word": "block"
+    },
+    {
+      "alignedWord": "table",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 22,
+      "word": "table"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.4300000000000002,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 28,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 31,
+      "word": "the"
+    },
+    {
+      "alignedWord": "garage",
+      "case": "success",
+      "end": 2.01,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "zh_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 35,
+      "word": "garage"
+    }
+  ]
+}

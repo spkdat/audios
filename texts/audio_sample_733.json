@@ -1,0 +1,309 @@
+{
+  "transcript": "how much will it cost to do any necessary modernizing and redecorating\r\n",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 0.27,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "how"
+    },
+    {
+      "alignedWord": "much",
+      "case": "success",
+      "end": 0.5800000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.27,
+      "startOffset": 4,
+      "word": "much"
+    },
+    {
+      "alignedWord": "will",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 9,
+      "word": "will"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 14,
+      "word": "it"
+    },
+    {
+      "alignedWord": "cost",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 17,
+      "word": "cost"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.37,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 22,
+      "word": "to"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 25,
+      "word": "do"
+    },
+    {
+      "alignedWord": "any",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 28,
+      "word": "any"
+    },
+    {
+      "alignedWord": "necessary",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 32,
+      "word": "necessary"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.75,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 42,
+      "word": "modernizing"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.31,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.16,
+      "startOffset": 54,
+      "word": "and"
+    },
+    {
+      "alignedWord": "redecorating",
+      "case": "success",
+      "end": 3.92,
+      "endOffset": 70,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.31,
+      "startOffset": 58,
+      "word": "redecorating"
+    }
+  ]
+}

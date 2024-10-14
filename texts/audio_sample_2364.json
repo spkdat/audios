@@ -1,0 +1,178 @@
+{
+  "transcript": "you saw them always together those years\r\n",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.26,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "you"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 0.48,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 0.26,
+      "startOffset": 4,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 0.6599999999999999,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 8,
+      "word": "them"
+    },
+    {
+      "alignedWord": "always",
+      "case": "success",
+      "end": 1.0,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 13,
+      "word": "always"
+    },
+    {
+      "alignedWord": "together",
+      "case": "success",
+      "end": 1.4,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 20,
+      "word": "together"
+    },
+    {
+      "alignedWord": "those",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 29,
+      "word": "those"
+    },
+    {
+      "alignedWord": "years",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 35,
+      "word": "years"
+    }
+  ]
+}

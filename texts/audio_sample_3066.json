@@ -1,0 +1,271 @@
+{
+  "transcript": "no girl would go this far to fool a man so she could kill him\r\n",
+  "words": [
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 0.3,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "no"
+    },
+    {
+      "alignedWord": "girl",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.3,
+      "startOffset": 3,
+      "word": "girl"
+    },
+    {
+      "alignedWord": "would",
+      "case": "success",
+      "end": 0.8,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 8,
+      "word": "would"
+    },
+    {
+      "alignedWord": "go",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 14,
+      "word": "go"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 1.23,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 17,
+      "word": "this"
+    },
+    {
+      "alignedWord": "far",
+      "case": "success",
+      "end": 1.57,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 22,
+      "word": "far"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.71,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 26,
+      "word": "to"
+    },
+    {
+      "alignedWord": "fool",
+      "case": "success",
+      "end": 1.99,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 29,
+      "word": "fool"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.99,
+      "startOffset": 34,
+      "word": "a"
+    },
+    {
+      "alignedWord": "man",
+      "case": "success",
+      "end": 2.36,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 36,
+      "word": "man"
+    },
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 2.55,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 40,
+      "word": "so"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 2.7199999999999998,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 43,
+      "word": "she"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 52,
+      "startOffset": 47,
+      "word": "could"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 57,
+      "startOffset": 53,
+      "word": "kill"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 61,
+      "startOffset": 58,
+      "word": "him"
+    }
+  ]
+}

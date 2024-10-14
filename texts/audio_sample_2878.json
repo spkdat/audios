@@ -1,0 +1,356 @@
+{
+  "transcript": "bathing the itching parts with kerosene gave relief and also killed the pests\r\n",
+  "words": [
+    {
+      "alignedWord": "bathing",
+      "case": "success",
+      "end": 0.52,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "bathing"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 8,
+      "word": "the"
+    },
+    {
+      "alignedWord": "itching",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 12,
+      "word": "itching"
+    },
+    {
+      "alignedWord": "parts",
+      "case": "success",
+      "end": 1.6300000000000001,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 20,
+      "word": "parts"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 1.77,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 26,
+      "word": "with"
+    },
+    {
+      "alignedWord": "kerosene",
+      "case": "success",
+      "end": 2.5300000000000002,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 31,
+      "word": "kerosene"
+    },
+    {
+      "alignedWord": "gave",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.53,
+      "startOffset": 40,
+      "word": "gave"
+    },
+    {
+      "alignedWord": "relief",
+      "case": "success",
+      "end": 3.2800000000000002,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_E"
+        }
+      ],
+      "start": 2.79,
+      "startOffset": 45,
+      "word": "relief"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.5,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.34,
+      "startOffset": 52,
+      "word": "and"
+    },
+    {
+      "alignedWord": "also",
+      "case": "success",
+      "end": 3.9,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 3.5,
+      "startOffset": 56,
+      "word": "also"
+    },
+    {
+      "alignedWord": "killed",
+      "case": "success",
+      "end": 4.28,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.9,
+      "startOffset": 61,
+      "word": "killed"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.38,
+      "endOffset": 71,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.28,
+      "startOffset": 68,
+      "word": "the"
+    },
+    {
+      "alignedWord": "pests",
+      "case": "success",
+      "end": 5.07,
+      "endOffset": 77,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.38,
+      "startOffset": 72,
+      "word": "pests"
+    }
+  ]
+}

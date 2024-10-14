@@ -1,0 +1,116 @@
+{
+  "transcript": "soon said the half man\r\n",
+  "words": [
+    {
+      "alignedWord": "soon",
+      "case": "success",
+      "end": 0.56,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "soon"
+    },
+    {
+      "alignedWord": "said",
+      "case": "success",
+      "end": 0.81,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.56,
+      "startOffset": 5,
+      "word": "said"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.8800000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 10,
+      "word": "the"
+    },
+    {
+      "alignedWord": "half",
+      "case": "success",
+      "end": 1.1600000000000001,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_E"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 14,
+      "word": "half"
+    },
+    {
+      "alignedWord": "man",
+      "case": "success",
+      "end": 1.5099999999999998,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 19,
+      "word": "man"
+    }
+  ]
+}

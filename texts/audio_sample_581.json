@@ -1,0 +1,337 @@
+{
+  "transcript": "his prescription hot and cold compresses to increase her absorption of water\r\n",
+  "words": [
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 0.39,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "his"
+    },
+    {
+      "alignedWord": "prescription",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 4,
+      "word": "prescription"
+    },
+    {
+      "alignedWord": "hot",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 17,
+      "word": "hot"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.89,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 21,
+      "word": "and"
+    },
+    {
+      "alignedWord": "cold",
+      "case": "success",
+      "end": 2.2199999999999998,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 25,
+      "word": "cold"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.74,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 30,
+      "word": "compresses"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.1300000000000003,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 2.99,
+      "startOffset": 41,
+      "word": "to"
+    },
+    {
+      "alignedWord": "increase",
+      "case": "success",
+      "end": 3.66,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 44,
+      "word": "increase"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 3.8000000000000003,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.66,
+      "startOffset": 53,
+      "word": "her"
+    },
+    {
+      "alignedWord": "absorption",
+      "case": "success",
+      "end": 4.39,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.8,
+      "startOffset": 57,
+      "word": "absorption"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 4.529999999999999,
+      "endOffset": 70,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.39,
+      "startOffset": 68,
+      "word": "of"
+    },
+    {
+      "alignedWord": "water",
+      "case": "success",
+      "end": 4.95,
+      "endOffset": 76,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.53,
+      "startOffset": 71,
+      "word": "water"
+    }
+  ]
+}

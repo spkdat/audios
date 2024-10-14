@@ -1,0 +1,78 @@
+{
+  "transcript": "she snarled warningly\r\n",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 0.33,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "she"
+    },
+    {
+      "alignedWord": "snarled",
+      "case": "success",
+      "end": 0.8400000000000001,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.33,
+      "startOffset": 4,
+      "word": "snarled"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.47,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 12,
+      "word": "warningly"
+    }
+  ]
+}

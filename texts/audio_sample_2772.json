@@ -1,0 +1,175 @@
+{
+  "transcript": "how ancient is this subway escalator\r\n",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "how"
+    },
+    {
+      "alignedWord": "ancient",
+      "case": "success",
+      "end": 0.77,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.34,
+      "startOffset": 4,
+      "word": "ancient"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 12,
+      "word": "is"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 15,
+      "word": "this"
+    },
+    {
+      "alignedWord": "subway",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 20,
+      "word": "subway"
+    },
+    {
+      "alignedWord": "escalator",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 27,
+      "word": "escalator"
+    }
+  ]
+}

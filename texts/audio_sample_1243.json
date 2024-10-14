@@ -1,0 +1,297 @@
+{
+  "transcript": "new self deceiving rags are hurriedly tossed on the too naked bones\r\n",
+  "words": [
+    {
+      "alignedWord": "new",
+      "case": "success",
+      "end": 0.37,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "new"
+    },
+    {
+      "alignedWord": "self",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 4,
+      "word": "self"
+    },
+    {
+      "alignedWord": "deceiving",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 9,
+      "word": "deceiving"
+    },
+    {
+      "alignedWord": "rags",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 19,
+      "word": "rags"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 1.8599999999999999,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 24,
+      "word": "are"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.42,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.56,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 28,
+      "word": "hurriedly"
+    },
+    {
+      "alignedWord": "tossed",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.45,
+      "startOffset": 38,
+      "word": "tossed"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 3.04,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.92,
+      "startOffset": 45,
+      "word": "on"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 48,
+      "word": "the"
+    },
+    {
+      "alignedWord": "too",
+      "case": "success",
+      "end": 3.4,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 52,
+      "word": "too"
+    },
+    {
+      "alignedWord": "naked",
+      "case": "success",
+      "end": 3.8,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.4,
+      "startOffset": 56,
+      "word": "naked"
+    },
+    {
+      "alignedWord": "bones",
+      "case": "success",
+      "end": 4.45,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.8,
+      "startOffset": 62,
+      "word": "bones"
+    }
+  ]
+}

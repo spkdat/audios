@@ -1,0 +1,367 @@
+{
+  "transcript": "only those story tellers will remain who can imitate the style of the virtuous\r\n",
+  "words": [
+    {
+      "alignedWord": "only",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.21,
+      "startOffset": 0,
+      "word": "only"
+    },
+    {
+      "alignedWord": "those",
+      "case": "success",
+      "end": 0.8500000000000001,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 5,
+      "word": "those"
+    },
+    {
+      "alignedWord": "story",
+      "case": "success",
+      "end": 1.23,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 11,
+      "word": "story"
+    },
+    {
+      "alignedWord": "tellers",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 17,
+      "word": "tellers"
+    },
+    {
+      "alignedWord": "will",
+      "case": "success",
+      "end": 1.9,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 25,
+      "word": "will"
+    },
+    {
+      "alignedWord": "remain",
+      "case": "success",
+      "end": 2.4899999999999998,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 30,
+      "word": "remain"
+    },
+    {
+      "alignedWord": "who",
+      "case": "success",
+      "end": 2.7600000000000002,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 37,
+      "word": "who"
+    },
+    {
+      "alignedWord": "can",
+      "case": "success",
+      "end": 2.9899999999999998,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.76,
+      "startOffset": 41,
+      "word": "can"
+    },
+    {
+      "alignedWord": "imitate",
+      "case": "success",
+      "end": 3.58,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 45,
+      "word": "imitate"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.73,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.6,
+      "startOffset": 53,
+      "word": "the"
+    },
+    {
+      "alignedWord": "style",
+      "case": "success",
+      "end": 4.24,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.73,
+      "startOffset": 57,
+      "word": "style"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 4.2700000000000005,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.24,
+      "startOffset": 63,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.39,
+      "endOffset": 69,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.29,
+      "startOffset": 66,
+      "word": "the"
+    },
+    {
+      "alignedWord": "virtuous",
+      "case": "success",
+      "end": 5.18,
+      "endOffset": 78,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.39,
+      "startOffset": 70,
+      "word": "virtuous"
+    }
+  ]
+}

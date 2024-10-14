@@ -1,0 +1,297 @@
+{
+  "transcript": "here he is quite persuasively the very embodiment of meanness and slyness\r\n",
+  "words": [
+    {
+      "alignedWord": "here",
+      "case": "success",
+      "end": 0.44,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "here"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.65,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 5,
+      "word": "he"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 8,
+      "word": "is"
+    },
+    {
+      "alignedWord": "quite",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 11,
+      "word": "quite"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.43,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 1.07,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 17,
+      "word": "persuasively"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.46,
+      "startOffset": 30,
+      "word": "the"
+    },
+    {
+      "alignedWord": "very",
+      "case": "success",
+      "end": 2.89,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 34,
+      "word": "very"
+    },
+    {
+      "alignedWord": "embodiment",
+      "case": "success",
+      "end": 3.56,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.89,
+      "startOffset": 39,
+      "word": "embodiment"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.77,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.59,
+      "startOffset": 50,
+      "word": "of"
+    },
+    {
+      "alignedWord": "meanness",
+      "case": "success",
+      "end": 4.36,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.77,
+      "startOffset": 53,
+      "word": "meanness"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.529999999999999,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.39,
+      "startOffset": 62,
+      "word": "and"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.37,
+      "endOffset": 73,
+      "phones": [
+        {
+          "duration": 0.83,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.54,
+      "startOffset": 66,
+      "word": "slyness"
+    }
+  ]
+}

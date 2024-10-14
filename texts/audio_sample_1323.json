@@ -1,0 +1,275 @@
+{
+  "transcript": "neither are beds thanks to air mattresses and sleeping bags\r\n",
+  "words": [
+    {
+      "alignedWord": "neither",
+      "case": "success",
+      "end": 0.55,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.2,
+      "startOffset": 0,
+      "word": "neither"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 0.66,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.55,
+      "startOffset": 8,
+      "word": "are"
+    },
+    {
+      "alignedWord": "beds",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 12,
+      "word": "beds"
+    },
+    {
+      "alignedWord": "thanks",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 17,
+      "word": "thanks"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.5999999999999999,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 24,
+      "word": "to"
+    },
+    {
+      "alignedWord": "air",
+      "case": "success",
+      "end": 1.7200000000000002,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 27,
+      "word": "air"
+    },
+    {
+      "alignedWord": "mattresses",
+      "case": "success",
+      "end": 2.35,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 31,
+      "word": "mattresses"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 42,
+      "word": "and"
+    },
+    {
+      "alignedWord": "sleeping",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.5,
+      "startOffset": 46,
+      "word": "sleeping"
+    },
+    {
+      "alignedWord": "bags",
+      "case": "success",
+      "end": 3.1799999999999997,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 55,
+      "word": "bags"
+    }
+  ]
+}

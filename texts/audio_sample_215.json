@@ -1,0 +1,132 @@
+{
+  "transcript": "it all seemed rather hopeless\r\n",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.39,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.2,
+      "startOffset": 0,
+      "word": "it"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 0.5800000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 3,
+      "word": "all"
+    },
+    {
+      "alignedWord": "seemed",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 7,
+      "word": "seemed"
+    },
+    {
+      "alignedWord": "rather",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 14,
+      "word": "rather"
+    },
+    {
+      "alignedWord": "hopeless",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 21,
+      "word": "hopeless"
+    }
+  ]
+}

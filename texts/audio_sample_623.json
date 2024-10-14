@@ -1,0 +1,174 @@
+{
+  "transcript": "the cat's meow always hurts my ears\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.24000000000000002,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "cat's",
+      "case": "success",
+      "end": 0.56,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.24,
+      "startOffset": 4,
+      "word": "cat's"
+    },
+    {
+      "alignedWord": "meow",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 10,
+      "word": "meow"
+    },
+    {
+      "alignedWord": "always",
+      "case": "success",
+      "end": 1.44,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 15,
+      "word": "always"
+    },
+    {
+      "alignedWord": "hurts",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 22,
+      "word": "hurts"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 28,
+      "word": "my"
+    },
+    {
+      "alignedWord": "ears",
+      "case": "success",
+      "end": 2.42,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 31,
+      "word": "ears"
+    }
+  ]
+}

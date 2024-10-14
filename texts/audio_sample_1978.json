@@ -1,0 +1,209 @@
+{
+  "transcript": "let us differentiate a few of these ideas\r\n",
+  "words": [
+    {
+      "alignedWord": "let",
+      "case": "success",
+      "end": 0.25,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "let"
+    },
+    {
+      "alignedWord": "us",
+      "case": "success",
+      "end": 0.4,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 4,
+      "word": "us"
+    },
+    {
+      "alignedWord": "differentiate",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 7,
+      "word": "differentiate"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.32,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 21,
+      "word": "a"
+    },
+    {
+      "alignedWord": "few",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 23,
+      "word": "few"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 27,
+      "word": "of"
+    },
+    {
+      "alignedWord": "these",
+      "case": "success",
+      "end": 1.95,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 30,
+      "word": "these"
+    },
+    {
+      "alignedWord": "ideas",
+      "case": "success",
+      "end": 2.59,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 36,
+      "word": "ideas"
+    }
+  ]
+}

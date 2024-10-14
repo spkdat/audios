@@ -1,0 +1,198 @@
+{
+  "transcript": "two other cases also were under advisement\r\n",
+  "words": [
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 0.32999999999999996,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "two"
+    },
+    {
+      "alignedWord": "other",
+      "case": "success",
+      "end": 0.5900000000000001,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.33,
+      "startOffset": 4,
+      "word": "other"
+    },
+    {
+      "alignedWord": "cases",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 10,
+      "word": "cases"
+    },
+    {
+      "alignedWord": "also",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.1,
+      "startOffset": 16,
+      "word": "also"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 21,
+      "word": "were"
+    },
+    {
+      "alignedWord": "under",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 26,
+      "word": "under"
+    },
+    {
+      "alignedWord": "advisement",
+      "case": "success",
+      "end": 2.56,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 32,
+      "word": "advisement"
+    }
+  ]
+}

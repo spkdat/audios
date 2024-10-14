@@ -1,0 +1,215 @@
+{
+  "transcript": "to be passive to be girlishly shy was palpably absurd\r\n",
+  "words": [
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.25,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "to"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 0.42000000000000004,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 3,
+      "word": "be"
+    },
+    {
+      "alignedWord": "passive",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.42,
+      "startOffset": 6,
+      "word": "passive"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.35,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 14,
+      "word": "to"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.55,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 17,
+      "word": "be"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.57,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 20,
+      "word": "girlishly"
+    },
+    {
+      "alignedWord": "shy",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 30,
+      "word": "shy"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.52,
+      "startOffset": 34,
+      "word": "was"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.59,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.65,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 38,
+      "word": "palpably"
+    },
+    {
+      "alignedWord": "absurd",
+      "case": "success",
+      "end": 4.3,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.6,
+      "startOffset": 47,
+      "word": "absurd"
+    }
+  ]
+}

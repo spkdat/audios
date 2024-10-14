@@ -1,0 +1,223 @@
+{
+  "transcript": "as such it acts as an anchor for the people\r\n",
+  "words": [
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 0.31000000000000005,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "as"
+    },
+    {
+      "alignedWord": "such",
+      "case": "success",
+      "end": 0.5800000000000001,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 3,
+      "word": "such"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.6599999999999999,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 8,
+      "word": "it"
+    },
+    {
+      "alignedWord": "acts",
+      "case": "success",
+      "end": 0.91,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 11,
+      "word": "acts"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 16,
+      "word": "as"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 19,
+      "word": "an"
+    },
+    {
+      "alignedWord": "anchor",
+      "case": "success",
+      "end": 1.4000000000000001,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 22,
+      "word": "anchor"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 29,
+      "word": "for"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.6500000000000001,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 33,
+      "word": "the"
+    },
+    {
+      "alignedWord": "people",
+      "case": "success",
+      "end": 2.07,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 37,
+      "word": "people"
+    }
+  ]
+}

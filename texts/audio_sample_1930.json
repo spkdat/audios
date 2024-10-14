@@ -1,0 +1,179 @@
+{
+  "transcript": "youngsters love common candy as treats\r\n",
+  "words": [
+    {
+      "alignedWord": "youngsters",
+      "case": "success",
+      "end": 0.9,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "youngsters"
+    },
+    {
+      "alignedWord": "love",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 11,
+      "word": "love"
+    },
+    {
+      "alignedWord": "common",
+      "case": "success",
+      "end": 1.82,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 16,
+      "word": "common"
+    },
+    {
+      "alignedWord": "candy",
+      "case": "success",
+      "end": 2.38,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 23,
+      "word": "candy"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 2.6399999999999997,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 29,
+      "word": "as"
+    },
+    {
+      "alignedWord": "treats",
+      "case": "success",
+      "end": 3.05,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 32,
+      "word": "treats"
+    }
+  ]
+}

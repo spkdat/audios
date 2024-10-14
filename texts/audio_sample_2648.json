@@ -1,0 +1,228 @@
+{
+  "transcript": "the surplus shoes were sold at a discount price\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.26,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "surplus",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.26,
+      "startOffset": 4,
+      "word": "surplus"
+    },
+    {
+      "alignedWord": "shoes",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 12,
+      "word": "shoes"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 1.1300000000000001,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 18,
+      "word": "were"
+    },
+    {
+      "alignedWord": "sold",
+      "case": "success",
+      "end": 1.4899999999999998,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 23,
+      "word": "sold"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 28,
+      "word": "at"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.58,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 31,
+      "word": "a"
+    },
+    {
+      "alignedWord": "discount",
+      "case": "success",
+      "end": 2.0300000000000002,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.58,
+      "startOffset": 33,
+      "word": "discount"
+    },
+    {
+      "alignedWord": "price",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 42,
+      "word": "price"
+    }
+  ]
+}

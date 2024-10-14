@@ -1,0 +1,186 @@
+{
+  "transcript": "he ate four extra eggs for breakfast\r\n",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.38,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.11,
+      "startOffset": 0,
+      "word": "he"
+    },
+    {
+      "alignedWord": "ate",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.38,
+      "startOffset": 3,
+      "word": "ate"
+    },
+    {
+      "alignedWord": "four",
+      "case": "success",
+      "end": 1.1099999999999999,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 7,
+      "word": "four"
+    },
+    {
+      "alignedWord": "extra",
+      "case": "success",
+      "end": 1.67,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.17,
+      "startOffset": 12,
+      "word": "extra"
+    },
+    {
+      "alignedWord": "eggs",
+      "case": "success",
+      "end": 2.18,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 18,
+      "word": "eggs"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 2.3800000000000003,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 23,
+      "word": "for"
+    },
+    {
+      "alignedWord": "breakfast",
+      "case": "success",
+      "end": 3.1,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.39,
+      "startOffset": 27,
+      "word": "breakfast"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "transcript": "there's still such a thing as mental illness\r\n",
+  "words": [
+    {
+      "alignedWord": "there's",
+      "case": "success",
+      "end": 0.26,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "there's"
+    },
+    {
+      "alignedWord": "still",
+      "case": "success",
+      "end": 0.5700000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.27,
+      "startOffset": 8,
+      "word": "still"
+    },
+    {
+      "alignedWord": "such",
+      "case": "success",
+      "end": 0.8599999999999999,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 14,
+      "word": "such"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 19,
+      "word": "a"
+    },
+    {
+      "alignedWord": "thing",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 21,
+      "word": "thing"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 1.43,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 27,
+      "word": "as"
+    },
+    {
+      "alignedWord": "mental",
+      "case": "success",
+      "end": 1.8599999999999999,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 30,
+      "word": "mental"
+    },
+    {
+      "alignedWord": "illness",
+      "case": "success",
+      "end": 2.24,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 37,
+      "word": "illness"
+    }
+  ]
+}

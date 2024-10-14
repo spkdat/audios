@@ -1,0 +1,158 @@
+{
+  "transcript": "if dark came they would lose her\r\n",
+  "words": [
+    {
+      "alignedWord": "if",
+      "case": "success",
+      "end": 0.29000000000000004,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "if"
+    },
+    {
+      "alignedWord": "dark",
+      "case": "success",
+      "end": 0.5700000000000001,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 3,
+      "word": "dark"
+    },
+    {
+      "alignedWord": "came",
+      "case": "success",
+      "end": 0.9199999999999999,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 8,
+      "word": "came"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 13,
+      "word": "they"
+    },
+    {
+      "alignedWord": "would",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 18,
+      "word": "would"
+    },
+    {
+      "alignedWord": "lose",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 24,
+      "word": "lose"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 1.59,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 29,
+      "word": "her"
+    }
+  ]
+}

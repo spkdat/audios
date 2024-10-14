@@ -1,0 +1,201 @@
+{
+  "transcript": "ant bites were eased by applying liquid bluing\r\n",
+  "words": [
+    {
+      "alignedWord": "ant",
+      "case": "success",
+      "end": 0.36,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "ant"
+    },
+    {
+      "alignedWord": "bites",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.36,
+      "startOffset": 4,
+      "word": "bites"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 10,
+      "word": "were"
+    },
+    {
+      "alignedWord": "eased",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 15,
+      "word": "eased"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 1.1800000000000002,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 21,
+      "word": "by"
+    },
+    {
+      "alignedWord": "applying",
+      "case": "success",
+      "end": 1.5999999999999999,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 24,
+      "word": "applying"
+    },
+    {
+      "alignedWord": "liquid",
+      "case": "success",
+      "end": 1.9300000000000002,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 33,
+      "word": "liquid"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.33,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 40,
+      "word": "bluing"
+    }
+  ]
+}

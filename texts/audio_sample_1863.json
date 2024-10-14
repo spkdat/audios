@@ -1,0 +1,193 @@
+{
+  "transcript": "jane may earn more money by working hard\r\n",
+  "words": [
+    {
+      "alignedWord": "jane",
+      "case": "success",
+      "end": 0.49,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "jane"
+    },
+    {
+      "alignedWord": "may",
+      "case": "success",
+      "end": 0.6799999999999999,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.49,
+      "startOffset": 5,
+      "word": "may"
+    },
+    {
+      "alignedWord": "earn",
+      "case": "success",
+      "end": 0.8300000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 9,
+      "word": "earn"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 14,
+      "word": "more"
+    },
+    {
+      "alignedWord": "money",
+      "case": "success",
+      "end": 1.3,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 19,
+      "word": "money"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 1.44,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.3,
+      "startOffset": 25,
+      "word": "by"
+    },
+    {
+      "alignedWord": "working",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 28,
+      "word": "working"
+    },
+    {
+      "alignedWord": "hard",
+      "case": "success",
+      "end": 2.21,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 36,
+      "word": "hard"
+    }
+  ]
+}

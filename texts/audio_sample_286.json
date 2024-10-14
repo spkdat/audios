@@ -1,0 +1,228 @@
+{
+  "transcript": "it's fun to roast marshmallows on a gas burner\r\n",
+  "words": [
+    {
+      "alignedWord": "it's",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "it's"
+    },
+    {
+      "alignedWord": "fun",
+      "case": "success",
+      "end": 0.5700000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 5,
+      "word": "fun"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.69,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 9,
+      "word": "to"
+    },
+    {
+      "alignedWord": "roast",
+      "case": "success",
+      "end": 1.0,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 12,
+      "word": "roast"
+    },
+    {
+      "alignedWord": "marshmallows",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 18,
+      "word": "marshmallows"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 1.91,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 31,
+      "word": "on"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.97,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 34,
+      "word": "a"
+    },
+    {
+      "alignedWord": "gas",
+      "case": "success",
+      "end": 2.3,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 36,
+      "word": "gas"
+    },
+    {
+      "alignedWord": "burner",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.3,
+      "startOffset": 40,
+      "word": "burner"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "transcript": "there was much embracing much exclaiming\r\n",
+  "words": [
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 0.23,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "there"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 0.37,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 6,
+      "word": "was"
+    },
+    {
+      "alignedWord": "much",
+      "case": "success",
+      "end": 0.6,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.37,
+      "startOffset": 10,
+      "word": "much"
+    },
+    {
+      "alignedWord": "embracing",
+      "case": "success",
+      "end": 1.18,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 15,
+      "word": "embracing"
+    },
+    {
+      "alignedWord": "much",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 25,
+      "word": "much"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.48,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 30,
+      "word": "exclaiming"
+    }
+  ]
+}

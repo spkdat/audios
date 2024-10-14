@@ -1,0 +1,232 @@
+{
+  "transcript": "by that time perhaps something better can be done\r\n",
+  "words": [
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 0.25,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.11,
+      "startOffset": 0,
+      "word": "by"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 0.53,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 3,
+      "word": "that"
+    },
+    {
+      "alignedWord": "time",
+      "case": "success",
+      "end": 0.8600000000000001,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 8,
+      "word": "time"
+    },
+    {
+      "alignedWord": "perhaps",
+      "case": "success",
+      "end": 1.2,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "hh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 13,
+      "word": "perhaps"
+    },
+    {
+      "alignedWord": "something",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 21,
+      "word": "something"
+    },
+    {
+      "alignedWord": "better",
+      "case": "success",
+      "end": 1.85,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 31,
+      "word": "better"
+    },
+    {
+      "alignedWord": "can",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 38,
+      "word": "can"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 2.16,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.04,
+      "startOffset": 42,
+      "word": "be"
+    },
+    {
+      "alignedWord": "done",
+      "case": "success",
+      "end": 2.3800000000000003,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.16,
+      "startOffset": 45,
+      "word": "done"
+    }
+  ]
+}

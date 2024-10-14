@@ -1,0 +1,279 @@
+{
+  "transcript": "he wondered if it wore the old anxiety or the old taut stoicism\r\n",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.29,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.11,
+      "startOffset": 0,
+      "word": "he"
+    },
+    {
+      "alignedWord": "wondered",
+      "case": "success",
+      "end": 0.6499999999999999,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.3,
+      "startOffset": 3,
+      "word": "wondered"
+    },
+    {
+      "alignedWord": "if",
+      "case": "success",
+      "end": 0.81,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 12,
+      "word": "if"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.9400000000000001,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 15,
+      "word": "it"
+    },
+    {
+      "alignedWord": "wore",
+      "case": "success",
+      "end": 1.2,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 18,
+      "word": "wore"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.3699999999999999,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 23,
+      "word": "the"
+    },
+    {
+      "alignedWord": "old",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 27,
+      "word": "old"
+    },
+    {
+      "alignedWord": "anxiety",
+      "case": "success",
+      "end": 2.47,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 31,
+      "word": "anxiety"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 2.6799999999999997,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "er_S"
+        }
+      ],
+      "start": 2.57,
+      "startOffset": 39,
+      "word": "or"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.8200000000000003,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.68,
+      "startOffset": 42,
+      "word": "the"
+    },
+    {
+      "alignedWord": "old",
+      "case": "success",
+      "end": 3.21,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.82,
+      "startOffset": 46,
+      "word": "old"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.06,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.78,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.28,
+      "startOffset": 50,
+      "word": "taut"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 63,
+      "startOffset": 55,
+      "word": "stoicism"
+    }
+  ]
+}

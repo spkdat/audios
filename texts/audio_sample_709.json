@@ -1,0 +1,220 @@
+{
+  "transcript": "that brings its per year cost down mighty low\r\n",
+  "words": [
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 0.35,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.06,
+      "startOffset": 0,
+      "word": "that"
+    },
+    {
+      "alignedWord": "brings",
+      "case": "success",
+      "end": 0.6499999999999999,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.35,
+      "startOffset": 5,
+      "word": "brings"
+    },
+    {
+      "alignedWord": "its",
+      "case": "success",
+      "end": 0.8200000000000001,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 12,
+      "word": "its"
+    },
+    {
+      "alignedWord": "per",
+      "case": "success",
+      "end": 0.96,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 16,
+      "word": "per"
+    },
+    {
+      "alignedWord": "year",
+      "case": "success",
+      "end": 1.23,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 20,
+      "word": "year"
+    },
+    {
+      "alignedWord": "cost",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 25,
+      "word": "cost"
+    },
+    {
+      "alignedWord": "down",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 30,
+      "word": "down"
+    },
+    {
+      "alignedWord": "mighty",
+      "case": "success",
+      "end": 2.63,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 35,
+      "word": "mighty"
+    },
+    {
+      "alignedWord": "low",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.63,
+      "startOffset": 42,
+      "word": "low"
+    }
+  ]
+}

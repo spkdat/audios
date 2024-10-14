@@ -1,0 +1,234 @@
+{
+  "transcript": "she slipped and sprained her ankle on the steep slope\r\n",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 0,
+      "word": "she"
+    },
+    {
+      "alignedWord": "slipped",
+      "case": "success",
+      "end": 0.9199999999999999,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 4,
+      "word": "slipped"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 12,
+      "word": "and"
+    },
+    {
+      "alignedWord": "sprained",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 16,
+      "word": "sprained"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 1.5299999999999998,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 25,
+      "word": "her"
+    },
+    {
+      "alignedWord": "ankle",
+      "case": "success",
+      "end": 1.9100000000000001,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 29,
+      "word": "ankle"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 35,
+      "word": "on"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.04,
+      "startOffset": 38,
+      "word": "the"
+    },
+    {
+      "alignedWord": "steep",
+      "case": "success",
+      "end": 2.53,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.15,
+      "startOffset": 42,
+      "word": "steep"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 53,
+      "startOffset": 48,
+      "word": "slope"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "transcript": "teaching guides are included with each record\r\n",
+  "words": [
+    {
+      "alignedWord": "teaching",
+      "case": "success",
+      "end": 0.51,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "teaching"
+    },
+    {
+      "alignedWord": "guides",
+      "case": "success",
+      "end": 0.88,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 9,
+      "word": "guides"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 0.95,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "er_S"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 16,
+      "word": "are"
+    },
+    {
+      "alignedWord": "included",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 20,
+      "word": "included"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 1.66,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 29,
+      "word": "with"
+    },
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 34,
+      "word": "each"
+    },
+    {
+      "alignedWord": "record",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 39,
+      "word": "record"
+    }
+  ]
+}

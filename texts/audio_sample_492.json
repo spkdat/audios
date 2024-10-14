@@ -1,0 +1,137 @@
+{
+  "transcript": "how on earth do you manage it\r\n",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 0.4,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "how"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 0.61,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 4,
+      "word": "on"
+    },
+    {
+      "alignedWord": "earth",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 7,
+      "word": "earth"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 13,
+      "word": "do"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.14,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 16,
+      "word": "you"
+    },
+    {
+      "alignedWord": "manage",
+      "case": "success",
+      "end": 1.6199999999999999,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 20,
+      "word": "manage"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 29,
+      "startOffset": 27,
+      "word": "it"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "transcript": "a slug had torn half of his stirrup guard away\r\n",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.24,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "a"
+    },
+    {
+      "alignedWord": "slug",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "g_E"
+        }
+      ],
+      "start": 0.24,
+      "startOffset": 2,
+      "word": "slug"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 0.8899999999999999,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 7,
+      "word": "had"
+    },
+    {
+      "alignedWord": "torn",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 11,
+      "word": "torn"
+    },
+    {
+      "alignedWord": "half",
+      "case": "success",
+      "end": 1.6300000000000001,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 16,
+      "word": "half"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.7899999999999998,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 21,
+      "word": "of"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.79,
+      "startOffset": 24,
+      "word": "his"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.41,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.27,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 28,
+      "word": "stirrup"
+    },
+    {
+      "alignedWord": "guard",
+      "case": "success",
+      "end": 2.85,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 36,
+      "word": "guard"
+    },
+    {
+      "alignedWord": "away",
+      "case": "success",
+      "end": 3.54,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.41,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 2.85,
+      "startOffset": 42,
+      "word": "away"
+    }
+  ]
+}

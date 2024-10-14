@@ -1,0 +1,196 @@
+{
+  "transcript": "it looks like we did when we made blastdown\r\n",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.2,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "it"
+    },
+    {
+      "alignedWord": "looks",
+      "case": "success",
+      "end": 0.38,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.2,
+      "startOffset": 3,
+      "word": "looks"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 0.56,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.38,
+      "startOffset": 9,
+      "word": "like"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 0.68,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.56,
+      "startOffset": 14,
+      "word": "we"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 1.1300000000000001,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 17,
+      "word": "did"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 1.3699999999999999,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 21,
+      "word": "when"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 1.4900000000000002,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 26,
+      "word": "we"
+    },
+    {
+      "alignedWord": "made",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 29,
+      "word": "made"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.69,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 34,
+      "word": "blastdown"
+    }
+  ]
+}

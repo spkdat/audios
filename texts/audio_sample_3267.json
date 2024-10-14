@@ -1,0 +1,153 @@
+{
+  "transcript": "a foolish thought came into his head\r\n",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.22000000000000003,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "a"
+    },
+    {
+      "alignedWord": "foolish",
+      "case": "success",
+      "end": 0.63,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 2,
+      "word": "foolish"
+    },
+    {
+      "alignedWord": "thought",
+      "case": "success",
+      "end": 0.96,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 10,
+      "word": "thought"
+    },
+    {
+      "alignedWord": "came",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 18,
+      "word": "came"
+    },
+    {
+      "alignedWord": "into",
+      "case": "success",
+      "end": 1.7599999999999998,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 23,
+      "word": "into"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 28,
+      "word": "his"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 36,
+      "startOffset": 32,
+      "word": "head"
+    }
+  ]
+}

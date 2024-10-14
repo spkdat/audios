@@ -1,0 +1,262 @@
+{
+  "transcript": "right now may not be the best time for business mergers\r\n",
+  "words": [
+    {
+      "alignedWord": "right",
+      "case": "success",
+      "end": 0.37,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "right"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.37,
+      "startOffset": 6,
+      "word": "now"
+    },
+    {
+      "alignedWord": "may",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 10,
+      "word": "may"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 14,
+      "word": "not"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.0899999999999999,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 18,
+      "word": "be"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.1800000000000002,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 21,
+      "word": "the"
+    },
+    {
+      "alignedWord": "best",
+      "case": "success",
+      "end": 1.43,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 25,
+      "word": "best"
+    },
+    {
+      "alignedWord": "time",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 30,
+      "word": "time"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 1.8599999999999999,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 35,
+      "word": "for"
+    },
+    {
+      "alignedWord": "business",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 39,
+      "word": "business"
+    },
+    {
+      "alignedWord": "mergers",
+      "case": "success",
+      "end": 2.71,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 48,
+      "word": "mergers"
+    }
+  ]
+}

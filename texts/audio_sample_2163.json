@@ -1,0 +1,162 @@
+{
+  "transcript": "draw each graph on a new axis\r\n",
+  "words": [
+    {
+      "alignedWord": "draw",
+      "case": "success",
+      "end": 0.43,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 0.08,
+      "startOffset": 0,
+      "word": "draw"
+    },
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 0.6699999999999999,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 5,
+      "word": "each"
+    },
+    {
+      "alignedWord": "graph",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "f_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 10,
+      "word": "graph"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 1.44,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 16,
+      "word": "on"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 19,
+      "word": "a"
+    },
+    {
+      "alignedWord": "new",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 21,
+      "word": "new"
+    },
+    {
+      "alignedWord": "axis",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 25,
+      "word": "axis"
+    }
+  ]
+}

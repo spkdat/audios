@@ -1,0 +1,209 @@
+{
+  "transcript": "iris thinks the zoo has eleven spanish zebras\r\n",
+  "words": [
+    {
+      "alignedWord": "iris",
+      "case": "success",
+      "end": 0.46,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "iris"
+    },
+    {
+      "alignedWord": "thinks",
+      "case": "success",
+      "end": 0.77,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 5,
+      "word": "thinks"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.77,
+      "startOffset": 12,
+      "word": "the"
+    },
+    {
+      "alignedWord": "zoo",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "z_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 16,
+      "word": "zoo"
+    },
+    {
+      "alignedWord": "has",
+      "case": "success",
+      "end": 1.3399999999999999,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 20,
+      "word": "has"
+    },
+    {
+      "alignedWord": "eleven",
+      "case": "success",
+      "end": 1.7000000000000002,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.34,
+      "startOffset": 24,
+      "word": "eleven"
+    },
+    {
+      "alignedWord": "spanish",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 31,
+      "word": "spanish"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.16,
+      "startOffset": 39,
+      "word": "zebras"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "transcript": "of course you can have another tunafish sandwich\r\n",
+  "words": [
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 0.28,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "of"
+    },
+    {
+      "alignedWord": "course",
+      "case": "success",
+      "end": 0.5900000000000001,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 3,
+      "word": "course"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.7,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 10,
+      "word": "you"
+    },
+    {
+      "alignedWord": "can",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 14,
+      "word": "can"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 18,
+      "word": "have"
+    },
+    {
+      "alignedWord": "another",
+      "case": "success",
+      "end": 1.4300000000000002,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 23,
+      "word": "another"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.55,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 31,
+      "word": "tunafish"
+    },
+    {
+      "alignedWord": "sandwich",
+      "case": "success",
+      "end": 2.59,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.99,
+      "startOffset": 40,
+      "word": "sandwich"
+    }
+  ]
+}

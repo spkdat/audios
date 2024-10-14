@@ -1,0 +1,142 @@
+{
+  "transcript": "the emblem depicts the acropolis all aglow\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.27,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "emblem",
+      "case": "success",
+      "end": 0.53,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.27,
+      "startOffset": 4,
+      "word": "emblem"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 11,
+      "word": "depicts"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.9500000000000001,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 19,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.31,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 23,
+      "word": "acropolis"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 33,
+      "word": "all"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.67,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.27,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 37,
+      "word": "aglow"
+    }
+  ]
+}

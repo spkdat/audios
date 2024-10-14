@@ -1,0 +1,321 @@
+{
+  "transcript": "those were especially the ones that all other grownups laughed at loudest\r\n",
+  "words": [
+    {
+      "alignedWord": "those",
+      "case": "success",
+      "end": 0.33999999999999997,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "those"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 0.48,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.35,
+      "startOffset": 6,
+      "word": "were"
+    },
+    {
+      "alignedWord": "especially",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 11,
+      "word": "especially"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 22,
+      "word": "the"
+    },
+    {
+      "alignedWord": "ones",
+      "case": "success",
+      "end": 1.44,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 26,
+      "word": "ones"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.5899999999999999,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 31,
+      "word": "that"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 1.83,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 36,
+      "word": "all"
+    },
+    {
+      "alignedWord": "other",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 40,
+      "word": "other"
+    },
+    {
+      "alignedWord": "grownups",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 46,
+      "word": "grownups"
+    },
+    {
+      "alignedWord": "laughed",
+      "case": "success",
+      "end": 2.7800000000000002,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 55,
+      "word": "laughed"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 63,
+      "word": "at"
+    },
+    {
+      "alignedWord": "loudest",
+      "case": "success",
+      "end": 3.4299999999999997,
+      "endOffset": 73,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 66,
+      "word": "loudest"
+    }
+  ]
+}

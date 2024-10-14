@@ -1,0 +1,239 @@
+{
+  "transcript": "rob sat by the pond and sketched the stray geese\r\n",
+  "words": [
+    {
+      "alignedWord": "rob",
+      "case": "success",
+      "end": 0.41000000000000003,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "b_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "rob"
+    },
+    {
+      "alignedWord": "sat",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.41,
+      "startOffset": 4,
+      "word": "sat"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 8,
+      "word": "by"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 11,
+      "word": "the"
+    },
+    {
+      "alignedWord": "pond",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 15,
+      "word": "pond"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.37,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 20,
+      "word": "and"
+    },
+    {
+      "alignedWord": "sketched",
+      "case": "success",
+      "end": 1.8699999999999999,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 24,
+      "word": "sketched"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 33,
+      "word": "the"
+    },
+    {
+      "alignedWord": "stray",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 37,
+      "word": "stray"
+    },
+    {
+      "alignedWord": "geese",
+      "case": "success",
+      "end": 2.7399999999999998,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 43,
+      "word": "geese"
+    }
+  ]
+}

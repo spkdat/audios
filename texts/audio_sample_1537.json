@@ -1,0 +1,85 @@
+{
+  "transcript": "i honor my mom\r\n",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.01,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.0,
+      "startOffset": 0,
+      "word": "i"
+    },
+    {
+      "alignedWord": "honor",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.38,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.24,
+      "startOffset": 2,
+      "word": "honor"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 8,
+      "word": "my"
+    },
+    {
+      "alignedWord": "mom",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 11,
+      "word": "mom"
+    }
+  ]
+}

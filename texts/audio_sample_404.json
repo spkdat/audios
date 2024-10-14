@@ -1,0 +1,220 @@
+{
+  "transcript": "be careful not to plow over the flower beds\r\n",
+  "words": [
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 0.25,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "be"
+    },
+    {
+      "alignedWord": "careful",
+      "case": "success",
+      "end": 0.77,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 3,
+      "word": "careful"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.77,
+      "startOffset": 11,
+      "word": "not"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 0.99,
+      "startOffset": 15,
+      "word": "to"
+    },
+    {
+      "alignedWord": "plow",
+      "case": "success",
+      "end": 1.7000000000000002,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.38,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 18,
+      "word": "plow"
+    },
+    {
+      "alignedWord": "over",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 23,
+      "word": "over"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.8900000000000001,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 28,
+      "word": "the"
+    },
+    {
+      "alignedWord": "flower",
+      "case": "success",
+      "end": 2.3899999999999997,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 32,
+      "word": "flower"
+    },
+    {
+      "alignedWord": "beds",
+      "case": "success",
+      "end": 2.8000000000000003,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.39,
+      "startOffset": 39,
+      "word": "beds"
+    }
+  ]
+}

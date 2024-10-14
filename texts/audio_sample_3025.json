@@ -1,0 +1,211 @@
+{
+  "transcript": "he thought he saw a pale face at a window\r\n",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.24,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "he"
+    },
+    {
+      "alignedWord": "thought",
+      "case": "success",
+      "end": 0.53,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.24,
+      "startOffset": 3,
+      "word": "thought"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.7000000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 11,
+      "word": "he"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 1.0,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 14,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 18,
+      "word": "a"
+    },
+    {
+      "alignedWord": "pale",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 20,
+      "word": "pale"
+    },
+    {
+      "alignedWord": "face",
+      "case": "success",
+      "end": 1.6300000000000001,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 25,
+      "word": "face"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.8199999999999998,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 30,
+      "word": "at"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.8800000000000001,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 33,
+      "word": "a"
+    },
+    {
+      "alignedWord": "window",
+      "case": "success",
+      "end": 2.1399999999999997,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 35,
+      "word": "window"
+    }
+  ]
+}

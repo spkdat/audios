@@ -1,0 +1,116 @@
+{
+  "transcript": "we're here to transact business\r\n",
+  "words": [
+    {
+      "alignedWord": "we're",
+      "case": "success",
+      "end": 0.29000000000000004,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "we're"
+    },
+    {
+      "alignedWord": "here",
+      "case": "success",
+      "end": 0.5,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.29,
+      "startOffset": 6,
+      "word": "here"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.61,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.5,
+      "startOffset": 11,
+      "word": "to"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.1099999999999999,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.5,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 14,
+      "word": "transact"
+    },
+    {
+      "alignedWord": "business",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 23,
+      "word": "business"
+    }
+  ]
+}

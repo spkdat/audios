@@ -1,0 +1,112 @@
+{
+  "transcript": "at law school the same\r\n",
+  "words": [
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 0.38,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 0,
+      "word": "at"
+    },
+    {
+      "alignedWord": "law",
+      "case": "success",
+      "end": 0.61,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 3,
+      "word": "law"
+    },
+    {
+      "alignedWord": "school",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 7,
+      "word": "school"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.4,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 14,
+      "word": "the"
+    },
+    {
+      "alignedWord": "same",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 18,
+      "word": "same"
+    }
+  ]
+}

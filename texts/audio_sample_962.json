@@ -1,0 +1,231 @@
+{
+  "transcript": "like enough we'll all be up on top by sundown\r\n",
+  "words": [
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 0.37,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "like"
+    },
+    {
+      "alignedWord": "enough",
+      "case": "success",
+      "end": 0.72,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "f_E"
+        }
+      ],
+      "start": 0.37,
+      "startOffset": 5,
+      "word": "enough"
+    },
+    {
+      "alignedWord": "we'll",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 12,
+      "word": "we'll"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 18,
+      "word": "all"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 22,
+      "word": "be"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 1.3699999999999999,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 25,
+      "word": "up"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 1.5100000000000002,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 28,
+      "word": "on"
+    },
+    {
+      "alignedWord": "top",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 31,
+      "word": "top"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 1.9300000000000002,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.79,
+      "startOffset": 35,
+      "word": "by"
+    },
+    {
+      "alignedWord": "sundown",
+      "case": "success",
+      "end": 2.4699999999999998,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 38,
+      "word": "sundown"
+    }
+  ]
+}

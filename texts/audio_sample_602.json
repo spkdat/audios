@@ -1,0 +1,144 @@
+{
+  "transcript": "this theory eventually proved inexact\r\n",
+  "words": [
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 1.5899999999999999,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 0,
+      "word": "this"
+    },
+    {
+      "alignedWord": "theory",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 5,
+      "word": "theory"
+    },
+    {
+      "alignedWord": "eventually",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 12,
+      "word": "eventually"
+    },
+    {
+      "alignedWord": "proved",
+      "case": "success",
+      "end": 3.1999999999999997,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.63,
+      "startOffset": 23,
+      "word": "proved"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.03,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.82,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.21,
+      "startOffset": 30,
+      "word": "inexact"
+    }
+  ]
+}

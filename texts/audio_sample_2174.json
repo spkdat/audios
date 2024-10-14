@@ -1,0 +1,323 @@
+{
+  "transcript": "further it has its work cut out stopping anarchy where it is now garrisoned\r\n",
+  "words": [
+    {
+      "alignedWord": "further",
+      "case": "success",
+      "end": 0.39999999999999997,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.11,
+      "startOffset": 0,
+      "word": "further"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.5700000000000001,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 8,
+      "word": "it"
+    },
+    {
+      "alignedWord": "has",
+      "case": "success",
+      "end": 0.9099999999999999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 11,
+      "word": "has"
+    },
+    {
+      "alignedWord": "its",
+      "case": "success",
+      "end": 1.11,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 15,
+      "word": "its"
+    },
+    {
+      "alignedWord": "work",
+      "case": "success",
+      "end": 1.36,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 19,
+      "word": "work"
+    },
+    {
+      "alignedWord": "cut",
+      "case": "success",
+      "end": 1.61,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 24,
+      "word": "cut"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 1.9200000000000002,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 28,
+      "word": "out"
+    },
+    {
+      "alignedWord": "stopping",
+      "case": "success",
+      "end": 2.38,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 32,
+      "word": "stopping"
+    },
+    {
+      "alignedWord": "anarchy",
+      "case": "success",
+      "end": 3.02,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 41,
+      "word": "anarchy"
+    },
+    {
+      "alignedWord": "where",
+      "case": "success",
+      "end": 3.22,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.02,
+      "startOffset": 49,
+      "word": "where"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 3.35,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.22,
+      "startOffset": 55,
+      "word": "it"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 3.58,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.35,
+      "startOffset": 58,
+      "word": "is"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 3.9,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 3.58,
+      "startOffset": 61,
+      "word": "now"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.66,
+      "endOffset": 75,
+      "phones": [
+        {
+          "duration": 0.74,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.92,
+      "startOffset": 65,
+      "word": "garrisoned"
+    }
+  ]
+}

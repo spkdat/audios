@@ -1,0 +1,127 @@
+{
+  "transcript": "inflammatory cells were strikingly absent\r\n",
+  "words": [
+    {
+      "alignedWord": "inflammatory",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "inflammatory"
+    },
+    {
+      "alignedWord": "cells",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 13,
+      "word": "cells"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 1.8099999999999998,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 19,
+      "word": "were"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.81,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 1.0,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 24,
+      "word": "strikingly"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 35,
+      "word": "absent"
+    }
+  ]
+}

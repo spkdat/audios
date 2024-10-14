@@ -1,0 +1,286 @@
+{
+  "transcript": "quince seed gum is the main ingredient in wave setting lotions\r\n",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 0.43,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.29,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "quince"
+    },
+    {
+      "alignedWord": "seed",
+      "case": "success",
+      "end": 0.8200000000000001,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 7,
+      "word": "seed"
+    },
+    {
+      "alignedWord": "gum",
+      "case": "success",
+      "end": 1.1199999999999999,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 12,
+      "word": "gum"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.3,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 16,
+      "word": "is"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.4000000000000001,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.3,
+      "startOffset": 19,
+      "word": "the"
+    },
+    {
+      "alignedWord": "main",
+      "case": "success",
+      "end": 1.65,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 23,
+      "word": "main"
+    },
+    {
+      "alignedWord": "ingredient",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 28,
+      "word": "ingredient"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.15,
+      "startOffset": 39,
+      "word": "in"
+    },
+    {
+      "alignedWord": "wave",
+      "case": "success",
+      "end": 2.5999999999999996,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 42,
+      "word": "wave"
+    },
+    {
+      "alignedWord": "setting",
+      "case": "success",
+      "end": 2.99,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 47,
+      "word": "setting"
+    },
+    {
+      "alignedWord": "lotions",
+      "case": "success",
+      "end": 3.7300000000000004,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.34,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.99,
+      "startOffset": 55,
+      "word": "lotions"
+    }
+  ]
+}

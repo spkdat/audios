@@ -1,0 +1,172 @@
+{
+  "transcript": "why else would danny allow others to go\r\n",
+  "words": [
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 0.44,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.2,
+      "startOffset": 0,
+      "word": "why"
+    },
+    {
+      "alignedWord": "else",
+      "case": "success",
+      "end": 0.7,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 4,
+      "word": "else"
+    },
+    {
+      "alignedWord": "would",
+      "case": "success",
+      "end": 0.83,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 9,
+      "word": "would"
+    },
+    {
+      "alignedWord": "danny",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 15,
+      "word": "danny"
+    },
+    {
+      "alignedWord": "allow",
+      "case": "success",
+      "end": 1.6,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 21,
+      "word": "allow"
+    },
+    {
+      "alignedWord": "others",
+      "case": "success",
+      "end": 1.85,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 27,
+      "word": "others"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.9900000000000002,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 34,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 39,
+      "startOffset": 37,
+      "word": "go"
+    }
+  ]
+}

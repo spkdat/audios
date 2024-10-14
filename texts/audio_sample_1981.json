@@ -1,0 +1,213 @@
+{
+  "transcript": "each plane carried two five hundred pound bombs\r\n",
+  "words": [
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 0.43000000000000005,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "each"
+    },
+    {
+      "alignedWord": "plane",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 5,
+      "word": "plane"
+    },
+    {
+      "alignedWord": "carried",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 11,
+      "word": "carried"
+    },
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 19,
+      "word": "two"
+    },
+    {
+      "alignedWord": "five",
+      "case": "success",
+      "end": 1.8,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 23,
+      "word": "five"
+    },
+    {
+      "alignedWord": "hundred",
+      "case": "success",
+      "end": 2.1,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 28,
+      "word": "hundred"
+    },
+    {
+      "alignedWord": "pound",
+      "case": "success",
+      "end": 2.41,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.1,
+      "startOffset": 36,
+      "word": "pound"
+    },
+    {
+      "alignedWord": "bombs",
+      "case": "success",
+      "end": 2.9400000000000004,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.41,
+      "startOffset": 42,
+      "word": "bombs"
+    }
+  ]
+}

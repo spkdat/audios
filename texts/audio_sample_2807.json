@@ -1,0 +1,258 @@
+{
+  "transcript": "with her sharp tongue she'd have cut his pompousness to ribbons\r\n",
+  "words": [
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 0.27,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "with"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 0.37,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.27,
+      "startOffset": 5,
+      "word": "her"
+    },
+    {
+      "alignedWord": "sharp",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 9,
+      "word": "sharp"
+    },
+    {
+      "alignedWord": "tongue",
+      "case": "success",
+      "end": 1.13,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.77,
+      "startOffset": 15,
+      "word": "tongue"
+    },
+    {
+      "alignedWord": "she'd",
+      "case": "success",
+      "end": 1.3499999999999999,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 22,
+      "word": "she'd"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 28,
+      "word": "have"
+    },
+    {
+      "alignedWord": "cut",
+      "case": "success",
+      "end": 1.72,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 33,
+      "word": "cut"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.89,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 37,
+      "word": "his"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.56,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.63,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 41,
+      "word": "pompousness"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.69,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.57,
+      "startOffset": 53,
+      "word": "to"
+    },
+    {
+      "alignedWord": "ribbons",
+      "case": "success",
+      "end": 3.2199999999999998,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.69,
+      "startOffset": 56,
+      "word": "ribbons"
+    }
+  ]
+}

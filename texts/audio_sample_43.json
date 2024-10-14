@@ -1,0 +1,242 @@
+{
+  "transcript": "now don't tell me what a good ball player you are\r\n",
+  "words": [
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 0.41000000000000003,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 0,
+      "word": "now"
+    },
+    {
+      "alignedWord": "don't",
+      "case": "success",
+      "end": 0.63,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.41,
+      "startOffset": 4,
+      "word": "don't"
+    },
+    {
+      "alignedWord": "tell",
+      "case": "success",
+      "end": 0.8700000000000001,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 10,
+      "word": "tell"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 1.1099999999999999,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 15,
+      "word": "me"
+    },
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 18,
+      "word": "what"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.28,
+      "startOffset": 23,
+      "word": "a"
+    },
+    {
+      "alignedWord": "good",
+      "case": "success",
+      "end": 1.55,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 25,
+      "word": "good"
+    },
+    {
+      "alignedWord": "ball",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 30,
+      "word": "ball"
+    },
+    {
+      "alignedWord": "player",
+      "case": "success",
+      "end": 2.07,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 35,
+      "word": "player"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 42,
+      "word": "you"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 46,
+      "word": "are"
+    }
+  ]
+}

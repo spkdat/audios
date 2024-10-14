@@ -1,0 +1,120 @@
+{
+  "transcript": "you took me by surprise\r\n",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.27,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "you"
+    },
+    {
+      "alignedWord": "took",
+      "case": "success",
+      "end": 0.46,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.27,
+      "startOffset": 4,
+      "word": "took"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 0.5900000000000001,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 9,
+      "word": "me"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 12,
+      "word": "by"
+    },
+    {
+      "alignedWord": "surprise",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 15,
+      "word": "surprise"
+    }
+  ]
+}

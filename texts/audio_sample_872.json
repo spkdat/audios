@@ -1,0 +1,275 @@
+{
+  "transcript": "sometimes although by no means always these are indeed alkaline\r\n",
+  "words": [
+    {
+      "alignedWord": "sometimes",
+      "case": "success",
+      "end": 0.7,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "sometimes"
+    },
+    {
+      "alignedWord": "although",
+      "case": "success",
+      "end": 1.0699999999999998,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 10,
+      "word": "although"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 1.32,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 19,
+      "word": "by"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 22,
+      "word": "no"
+    },
+    {
+      "alignedWord": "means",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 25,
+      "word": "means"
+    },
+    {
+      "alignedWord": "always",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 31,
+      "word": "always"
+    },
+    {
+      "alignedWord": "these",
+      "case": "success",
+      "end": 2.37,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 38,
+      "word": "these"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 2.47,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "er_S"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 44,
+      "word": "are"
+    },
+    {
+      "alignedWord": "indeed",
+      "case": "success",
+      "end": 2.8200000000000003,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 48,
+      "word": "indeed"
+    },
+    {
+      "alignedWord": "alkaline",
+      "case": "success",
+      "end": 3.34,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.82,
+      "startOffset": 55,
+      "word": "alkaline"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "transcript": "i'd ride the subway but i haven't enough change\r\n",
+  "words": [
+    {
+      "alignedWord": "i'd",
+      "case": "success",
+      "end": 0.33999999999999997,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "i'd"
+    },
+    {
+      "alignedWord": "ride",
+      "case": "success",
+      "end": 0.55,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.34,
+      "startOffset": 4,
+      "word": "ride"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.64,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.55,
+      "startOffset": 9,
+      "word": "the"
+    },
+    {
+      "alignedWord": "subway",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.64,
+      "startOffset": 13,
+      "word": "subway"
+    },
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.1,
+      "startOffset": 20,
+      "word": "but"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 24,
+      "word": "i"
+    },
+    {
+      "alignedWord": "haven't",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 26,
+      "word": "haven't"
+    },
+    {
+      "alignedWord": "enough",
+      "case": "success",
+      "end": 1.89,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 34,
+      "word": "enough"
+    },
+    {
+      "alignedWord": "change",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 41,
+      "word": "change"
+    }
+  ]
+}

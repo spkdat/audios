@@ -1,0 +1,158 @@
+{
+  "transcript": "in a way he couldn't blame her\r\n",
+  "words": [
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 0,
+      "word": "in"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.7,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 3,
+      "word": "a"
+    },
+    {
+      "alignedWord": "way",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 5,
+      "word": "way"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 9,
+      "word": "he"
+    },
+    {
+      "alignedWord": "couldn't",
+      "case": "success",
+      "end": 1.47,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.17,
+      "startOffset": 12,
+      "word": "couldn't"
+    },
+    {
+      "alignedWord": "blame",
+      "case": "success",
+      "end": 1.83,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 21,
+      "word": "blame"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 1.9200000000000002,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 27,
+      "word": "her"
+    }
+  ]
+}

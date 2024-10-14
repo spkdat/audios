@@ -1,0 +1,155 @@
+{
+  "transcript": "a huge power outage rarely occurs\r\n",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.25,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "a"
+    },
+    {
+      "alignedWord": "huge",
+      "case": "success",
+      "end": 0.61,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 2,
+      "word": "huge"
+    },
+    {
+      "alignedWord": "power",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 7,
+      "word": "power"
+    },
+    {
+      "alignedWord": "outage",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 13,
+      "word": "outage"
+    },
+    {
+      "alignedWord": "rarely",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.58,
+      "startOffset": 20,
+      "word": "rarely"
+    },
+    {
+      "alignedWord": "occurs",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 27,
+      "word": "occurs"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "transcript": "my dad did it and he lived to a great age\r\n",
+  "words": [
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 0.26,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "my"
+    },
+    {
+      "alignedWord": "dad",
+      "case": "success",
+      "end": 0.5700000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.26,
+      "startOffset": 3,
+      "word": "dad"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 0.76,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 7,
+      "word": "did"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 11,
+      "word": "it"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 14,
+      "word": "and"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 18,
+      "word": "he"
+    },
+    {
+      "alignedWord": "lived",
+      "case": "success",
+      "end": 1.43,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 21,
+      "word": "lived"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.58,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 27,
+      "word": "to"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.6500000000000001,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.58,
+      "startOffset": 30,
+      "word": "a"
+    },
+    {
+      "alignedWord": "great",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 32,
+      "word": "great"
+    },
+    {
+      "alignedWord": "age",
+      "case": "success",
+      "end": 2.41,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 38,
+      "word": "age"
+    }
+  ]
+}

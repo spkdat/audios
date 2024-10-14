@@ -1,0 +1,296 @@
+{
+  "transcript": "one looked down on a sea of leaves a breaking wave of flower\r\n",
+  "words": [
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 0.45999999999999996,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.17,
+      "startOffset": 0,
+      "word": "one"
+    },
+    {
+      "alignedWord": "looked",
+      "case": "success",
+      "end": 0.66,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 4,
+      "word": "looked"
+    },
+    {
+      "alignedWord": "down",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 11,
+      "word": "down"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 1.18,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 16,
+      "word": "on"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 19,
+      "word": "a"
+    },
+    {
+      "alignedWord": "sea",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 21,
+      "word": "sea"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 25,
+      "word": "of"
+    },
+    {
+      "alignedWord": "leaves",
+      "case": "success",
+      "end": 2.17,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 28,
+      "word": "leaves"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.36,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 2.21,
+      "startOffset": 35,
+      "word": "a"
+    },
+    {
+      "alignedWord": "breaking",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 37,
+      "word": "breaking"
+    },
+    {
+      "alignedWord": "wave",
+      "case": "success",
+      "end": 3.23,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.87,
+      "startOffset": 46,
+      "word": "wave"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.36,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 51,
+      "word": "of"
+    },
+    {
+      "alignedWord": "flower",
+      "case": "success",
+      "end": 3.9699999999999998,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.36,
+      "startOffset": 54,
+      "word": "flower"
+    }
+  ]
+}

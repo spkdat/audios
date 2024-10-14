@@ -1,0 +1,108 @@
+{
+  "transcript": "why should this be so\r\n",
+  "words": [
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 0.3,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "why"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 0.51,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.3,
+      "startOffset": 4,
+      "word": "should"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 0.69,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.51,
+      "startOffset": 11,
+      "word": "this"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 0.86,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 16,
+      "word": "be"
+    },
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 19,
+      "word": "so"
+    }
+  ]
+}

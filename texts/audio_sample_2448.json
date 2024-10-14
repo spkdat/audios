@@ -1,0 +1,132 @@
+{
+  "transcript": "broil or toast as usual\r\n",
+  "words": [
+    {
+      "alignedWord": "broil",
+      "case": "success",
+      "end": 0.58,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "broil"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 0.76,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 6,
+      "word": "or"
+    },
+    {
+      "alignedWord": "toast",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 9,
+      "word": "toast"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 1.2999999999999998,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.17,
+      "startOffset": 15,
+      "word": "as"
+    },
+    {
+      "alignedWord": "usual",
+      "case": "success",
+      "end": 1.6300000000000001,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.3,
+      "startOffset": 18,
+      "word": "usual"
+    }
+  ]
+}

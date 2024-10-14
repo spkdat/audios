@@ -1,0 +1,352 @@
+{
+  "transcript": "his eyes were dark fluid fearful and he gave a sigh as my knife went in\r\n",
+  "words": [
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 0.37,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.11,
+      "startOffset": 0,
+      "word": "his"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 0.59,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.37,
+      "startOffset": 4,
+      "word": "eyes"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 9,
+      "word": "were"
+    },
+    {
+      "alignedWord": "dark",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 14,
+      "word": "dark"
+    },
+    {
+      "alignedWord": "fluid",
+      "case": "success",
+      "end": 1.77,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 19,
+      "word": "fluid"
+    },
+    {
+      "alignedWord": "fearful",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 25,
+      "word": "fearful"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.7,
+      "startOffset": 33,
+      "word": "and"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.97,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.87,
+      "startOffset": 37,
+      "word": "he"
+    },
+    {
+      "alignedWord": "gave",
+      "case": "success",
+      "end": 3.2,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.97,
+      "startOffset": 40,
+      "word": "gave"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.2800000000000002,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 45,
+      "word": "a"
+    },
+    {
+      "alignedWord": "sigh",
+      "case": "success",
+      "end": 3.6999999999999997,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.28,
+      "startOffset": 47,
+      "word": "sigh"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 3.91,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.71,
+      "startOffset": 52,
+      "word": "as"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 4.09,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.91,
+      "startOffset": 55,
+      "word": "my"
+    },
+    {
+      "alignedWord": "knife",
+      "case": "success",
+      "end": 4.42,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_E"
+        }
+      ],
+      "start": 4.09,
+      "startOffset": 58,
+      "word": "knife"
+    },
+    {
+      "alignedWord": "went",
+      "case": "success",
+      "end": 4.61,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.42,
+      "startOffset": 64,
+      "word": "went"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 71,
+      "startOffset": 69,
+      "word": "in"
+    }
+  ]
+}

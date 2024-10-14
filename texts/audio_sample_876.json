@@ -1,0 +1,197 @@
+{
+  "transcript": "are your grades higher or lower than nancy's\r\n",
+  "words": [
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 0.33,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.17,
+      "startOffset": 0,
+      "word": "are"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 0.55,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.33,
+      "startOffset": 4,
+      "word": "your"
+    },
+    {
+      "alignedWord": "grades",
+      "case": "success",
+      "end": 0.8700000000000001,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.56,
+      "startOffset": 9,
+      "word": "grades"
+    },
+    {
+      "alignedWord": "higher",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 16,
+      "word": "higher"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 1.4200000000000002,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "er_S"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 23,
+      "word": "or"
+    },
+    {
+      "alignedWord": "lower",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 26,
+      "word": "lower"
+    },
+    {
+      "alignedWord": "than",
+      "case": "success",
+      "end": 1.91,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 32,
+      "word": "than"
+    },
+    {
+      "alignedWord": "nancy's",
+      "case": "success",
+      "end": 2.78,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 37,
+      "word": "nancy's"
+    }
+  ]
+}

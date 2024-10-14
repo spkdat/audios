@@ -1,0 +1,235 @@
+{
+  "transcript": "count the number of teaspoons of soysauce that you add\r\n",
+  "words": [
+    {
+      "alignedWord": "count",
+      "case": "success",
+      "end": 0.35,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "count"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.43,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.35,
+      "startOffset": 6,
+      "word": "the"
+    },
+    {
+      "alignedWord": "number",
+      "case": "success",
+      "end": 0.65,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 10,
+      "word": "number"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 17,
+      "word": "of"
+    },
+    {
+      "alignedWord": "teaspoons",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 20,
+      "word": "teaspoons"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.4400000000000002,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 30,
+      "word": "of"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.16,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.72,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 33,
+      "word": "soysauce"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 2.3600000000000003,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.2,
+      "startOffset": 42,
+      "word": "that"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 47,
+      "word": "you"
+    },
+    {
+      "alignedWord": "add",
+      "case": "success",
+      "end": 2.9,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.54,
+      "startOffset": 51,
+      "word": "add"
+    }
+  ]
+}

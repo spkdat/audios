@@ -1,0 +1,278 @@
+{
+  "transcript": "the rich should invest in black zircons instead of stylish shoes\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.21000000000000002,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "rich",
+      "case": "success",
+      "end": 0.44999999999999996,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.21,
+      "startOffset": 4,
+      "word": "rich"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 0.66,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 9,
+      "word": "should"
+    },
+    {
+      "alignedWord": "invest",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 16,
+      "word": "invest"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.1900000000000002,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 23,
+      "word": "in"
+    },
+    {
+      "alignedWord": "black",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 26,
+      "word": "black"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.16,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.74,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 32,
+      "word": "zircons"
+    },
+    {
+      "alignedWord": "instead",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.2,
+      "startOffset": 40,
+      "word": "instead"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.66,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.52,
+      "startOffset": 48,
+      "word": "of"
+    },
+    {
+      "alignedWord": "stylish",
+      "case": "success",
+      "end": 3.02,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 51,
+      "word": "stylish"
+    },
+    {
+      "alignedWord": "shoes",
+      "case": "success",
+      "end": 3.56,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.02,
+      "startOffset": 59,
+      "word": "shoes"
+    }
+  ]
+}

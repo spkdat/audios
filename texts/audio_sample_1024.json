@@ -1,0 +1,177 @@
+{
+  "transcript": "allow each child to have an ice pop\r\n",
+  "words": [
+    {
+      "alignedWord": "allow",
+      "case": "success",
+      "end": 0.53,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "allow"
+    },
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 6,
+      "word": "each"
+    },
+    {
+      "alignedWord": "child",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 11,
+      "word": "child"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 17,
+      "word": "to"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 20,
+      "word": "have"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 25,
+      "word": "an"
+    },
+    {
+      "alignedWord": "ice",
+      "case": "success",
+      "end": 1.9000000000000001,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 28,
+      "word": "ice"
+    },
+    {
+      "alignedWord": "pop",
+      "case": "success",
+      "end": 2.4299999999999997,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 32,
+      "word": "pop"
+    }
+  ]
+}

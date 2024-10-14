@@ -1,0 +1,193 @@
+{
+  "transcript": "beg that guard for one gallon of gas\r\n",
+  "words": [
+    {
+      "alignedWord": "beg",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "beg"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 0.53,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 4,
+      "word": "that"
+    },
+    {
+      "alignedWord": "guard",
+      "case": "success",
+      "end": 0.8300000000000001,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 9,
+      "word": "guard"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 15,
+      "word": "for"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 19,
+      "word": "one"
+    },
+    {
+      "alignedWord": "gallon",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 23,
+      "word": "gallon"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 30,
+      "word": "of"
+    },
+    {
+      "alignedWord": "gas",
+      "case": "success",
+      "end": 2.0100000000000002,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 33,
+      "word": "gas"
+    }
+  ]
+}

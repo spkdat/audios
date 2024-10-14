@@ -1,0 +1,116 @@
+{
+  "transcript": "oh we managed she said\r\n",
+  "words": [
+    {
+      "alignedWord": "oh",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.57,
+          "phone": "ow_S"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "oh"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 3,
+      "word": "we"
+    },
+    {
+      "alignedWord": "managed",
+      "case": "success",
+      "end": 2.6399999999999997,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 6,
+      "word": "managed"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 2.98,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.71,
+      "startOffset": 14,
+      "word": "she"
+    },
+    {
+      "alignedWord": "said",
+      "case": "success",
+      "end": 3.45,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.98,
+      "startOffset": 18,
+      "word": "said"
+    }
+  ]
+}

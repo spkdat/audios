@@ -1,0 +1,269 @@
+{
+  "transcript": "if it ever got behind me the beep turned to a buzz\r\n",
+  "words": [
+    {
+      "alignedWord": "if",
+      "case": "success",
+      "end": 0.39,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_E"
+        }
+      ],
+      "start": 0.2,
+      "startOffset": 0,
+      "word": "if"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.49,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 3,
+      "word": "it"
+    },
+    {
+      "alignedWord": "ever",
+      "case": "success",
+      "end": 0.69,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.49,
+      "startOffset": 6,
+      "word": "ever"
+    },
+    {
+      "alignedWord": "got",
+      "case": "success",
+      "end": 0.9099999999999999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 11,
+      "word": "got"
+    },
+    {
+      "alignedWord": "behind",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "hh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 15,
+      "word": "behind"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 1.43,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 22,
+      "word": "me"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 25,
+      "word": "the"
+    },
+    {
+      "alignedWord": "beep",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 29,
+      "word": "beep"
+    },
+    {
+      "alignedWord": "turned",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 34,
+      "word": "turned"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.2199999999999998,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 41,
+      "word": "to"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.2800000000000002,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 44,
+      "word": "a"
+    },
+    {
+      "alignedWord": "buzz",
+      "case": "success",
+      "end": 2.76,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 46,
+      "word": "buzz"
+    }
+  ]
+}

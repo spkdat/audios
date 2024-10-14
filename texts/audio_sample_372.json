@@ -1,0 +1,224 @@
+{
+  "transcript": "i'd rather not buy these shoes than be overcharged\r\n",
+  "words": [
+    {
+      "alignedWord": "i'd",
+      "case": "success",
+      "end": 0.34,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.17,
+      "startOffset": 0,
+      "word": "i'd"
+    },
+    {
+      "alignedWord": "rather",
+      "case": "success",
+      "end": 0.6100000000000001,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.34,
+      "startOffset": 4,
+      "word": "rather"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 0.77,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 11,
+      "word": "not"
+    },
+    {
+      "alignedWord": "buy",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 15,
+      "word": "buy"
+    },
+    {
+      "alignedWord": "these",
+      "case": "success",
+      "end": 1.23,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 19,
+      "word": "these"
+    },
+    {
+      "alignedWord": "shoes",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 25,
+      "word": "shoes"
+    },
+    {
+      "alignedWord": "than",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 31,
+      "word": "than"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.91,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 36,
+      "word": "be"
+    },
+    {
+      "alignedWord": "overcharged",
+      "case": "success",
+      "end": 2.7399999999999998,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 39,
+      "word": "overcharged"
+    }
+  ]
+}

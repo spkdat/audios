@@ -1,0 +1,124 @@
+{
+  "transcript": "her tail no longer lashed\r\n",
+  "words": [
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "her"
+    },
+    {
+      "alignedWord": "tail",
+      "case": "success",
+      "end": 0.66,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 4,
+      "word": "tail"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 0.8400000000000001,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 9,
+      "word": "no"
+    },
+    {
+      "alignedWord": "longer",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 12,
+      "word": "longer"
+    },
+    {
+      "alignedWord": "lashed",
+      "case": "success",
+      "end": 1.67,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 19,
+      "word": "lashed"
+    }
+  ]
+}

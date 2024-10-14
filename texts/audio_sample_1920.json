@@ -1,0 +1,154 @@
+{
+  "transcript": "eyes like hot honey eyes that sizzled\r\n",
+  "words": [
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 0.96,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.32,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 0,
+      "word": "eyes"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 5,
+      "word": "like"
+    },
+    {
+      "alignedWord": "hot",
+      "case": "success",
+      "end": 1.6,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 10,
+      "word": "hot"
+    },
+    {
+      "alignedWord": "honey",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 14,
+      "word": "honey"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 2.6100000000000003,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.31,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 20,
+      "word": "eyes"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 2.84,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 25,
+      "word": "that"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.4899999999999998,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.65,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.84,
+      "startOffset": 30,
+      "word": "sizzled"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "transcript": "a crab challenged me but a quick stab vanquished him\r\n",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.2,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "a"
+    },
+    {
+      "alignedWord": "crab",
+      "case": "success",
+      "end": 0.56,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "b_E"
+        }
+      ],
+      "start": 0.2,
+      "startOffset": 2,
+      "word": "crab"
+    },
+    {
+      "alignedWord": "challenged",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.56,
+      "startOffset": 7,
+      "word": "challenged"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 1.36,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 18,
+      "word": "me"
+    },
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 21,
+      "word": "but"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.6600000000000001,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 25,
+      "word": "a"
+    },
+    {
+      "alignedWord": "quick",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 27,
+      "word": "quick"
+    },
+    {
+      "alignedWord": "stab",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 33,
+      "word": "stab"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.56,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 38,
+      "word": "vanquished"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 3.06,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 49,
+      "word": "him"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "transcript": "do they allow atheists in church\r\n",
+  "words": [
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 0.34,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 0,
+      "word": "do"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.52,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.34,
+      "startOffset": 3,
+      "word": "they"
+    },
+    {
+      "alignedWord": "allow",
+      "case": "success",
+      "end": 0.8500000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 8,
+      "word": "allow"
+    },
+    {
+      "alignedWord": "atheists",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 14,
+      "word": "atheists"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.5699999999999998,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 23,
+      "word": "in"
+    },
+    {
+      "alignedWord": "church",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 26,
+      "word": "church"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "transcript": "bricks are an alternative\r\n",
+  "words": [
+    {
+      "alignedWord": "bricks",
+      "case": "success",
+      "end": 0.47,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.11,
+      "startOffset": 0,
+      "word": "bricks"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 0.69,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.5,
+      "startOffset": 7,
+      "word": "are"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 0.84,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 11,
+      "word": "an"
+    },
+    {
+      "alignedWord": "alternative",
+      "case": "success",
+      "end": 1.66,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 14,
+      "word": "alternative"
+    }
+  ]
+}

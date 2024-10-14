@@ -1,0 +1,140 @@
+{
+  "transcript": "rich purchased several signed lithographs\r\n",
+  "words": [
+    {
+      "alignedWord": "rich",
+      "case": "success",
+      "end": 0.41000000000000003,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "rich"
+    },
+    {
+      "alignedWord": "purchased",
+      "case": "success",
+      "end": 0.8300000000000001,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 5,
+      "word": "purchased"
+    },
+    {
+      "alignedWord": "several",
+      "case": "success",
+      "end": 1.18,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 15,
+      "word": "several"
+    },
+    {
+      "alignedWord": "signed",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 23,
+      "word": "signed"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.53,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 30,
+      "word": "lithographs"
+    }
+  ]
+}

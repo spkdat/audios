@@ -1,0 +1,285 @@
+{
+  "transcript": "x ray films of the vertebral column showed progression of the demineralization\r\n",
+  "words": [
+    {
+      "alignedWord": "x",
+      "case": "success",
+      "end": 0.52,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 0,
+      "word": "x"
+    },
+    {
+      "alignedWord": "ray",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 2,
+      "word": "ray"
+    },
+    {
+      "alignedWord": "films",
+      "case": "success",
+      "end": 1.1099999999999999,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 6,
+      "word": "films"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.1800000000000002,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 12,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 15,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.41,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 19,
+      "word": "vertebral"
+    },
+    {
+      "alignedWord": "column",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 29,
+      "word": "column"
+    },
+    {
+      "alignedWord": "showed",
+      "case": "success",
+      "end": 2.55,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 36,
+      "word": "showed"
+    },
+    {
+      "alignedWord": "progression",
+      "case": "success",
+      "end": 3.17,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.56,
+      "startOffset": 43,
+      "word": "progression"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.4000000000000004,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.22,
+      "startOffset": 55,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.57,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.4,
+      "startOffset": 58,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.82,
+      "endOffset": 78,
+      "phones": [
+        {
+          "duration": 1.19,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.63,
+      "startOffset": 62,
+      "word": "demineralization"
+    }
+  ]
+}

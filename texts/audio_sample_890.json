@@ -1,0 +1,120 @@
+{
+  "transcript": "she uses both names interchangeably\r\n",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 0.4,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.21,
+      "startOffset": 0,
+      "word": "she"
+    },
+    {
+      "alignedWord": "uses",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 4,
+      "word": "uses"
+    },
+    {
+      "alignedWord": "both",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 9,
+      "word": "both"
+    },
+    {
+      "alignedWord": "names",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 14,
+      "word": "names"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.85,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 20,
+      "word": "interchangeably"
+    }
+  ]
+}

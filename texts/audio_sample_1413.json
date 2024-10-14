@@ -1,0 +1,196 @@
+{
+  "transcript": "the small boy put the worm on the hook\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.21,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "small",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.21,
+      "startOffset": 4,
+      "word": "small"
+    },
+    {
+      "alignedWord": "boy",
+      "case": "success",
+      "end": 0.8600000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 10,
+      "word": "boy"
+    },
+    {
+      "alignedWord": "put",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 14,
+      "word": "put"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.1600000000000001,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 18,
+      "word": "the"
+    },
+    {
+      "alignedWord": "worm",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 22,
+      "word": "worm"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 1.57,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 27,
+      "word": "on"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.6500000000000001,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 30,
+      "word": "the"
+    },
+    {
+      "alignedWord": "hook",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 34,
+      "word": "hook"
+    }
+  ]
+}

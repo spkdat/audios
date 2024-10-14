@@ -1,0 +1,147 @@
+{
+  "transcript": "carl lives in a lively home\r\n",
+  "words": [
+    {
+      "alignedWord": "carl",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "carl"
+    },
+    {
+      "alignedWord": "lives",
+      "case": "success",
+      "end": 0.96,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 5,
+      "word": "lives"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 11,
+      "word": "in"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.1800000000000002,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.1,
+      "startOffset": 14,
+      "word": "a"
+    },
+    {
+      "alignedWord": "lively",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 16,
+      "word": "lively"
+    },
+    {
+      "alignedWord": "home",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 23,
+      "word": "home"
+    }
+  ]
+}

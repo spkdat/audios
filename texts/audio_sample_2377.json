@@ -1,0 +1,251 @@
+{
+  "transcript": "in fact our whole defensive unit did a good job\r\n",
+  "words": [
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.29000000000000004,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "in"
+    },
+    {
+      "alignedWord": "fact",
+      "case": "success",
+      "end": 0.69,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.29,
+      "startOffset": 3,
+      "word": "fact"
+    },
+    {
+      "alignedWord": "our",
+      "case": "success",
+      "end": 0.7999999999999999,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 8,
+      "word": "our"
+    },
+    {
+      "alignedWord": "whole",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 12,
+      "word": "whole"
+    },
+    {
+      "alignedWord": "defensive",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 18,
+      "word": "defensive"
+    },
+    {
+      "alignedWord": "unit",
+      "case": "success",
+      "end": 1.87,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 28,
+      "word": "unit"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 2.07,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 33,
+      "word": "did"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 37,
+      "word": "a"
+    },
+    {
+      "alignedWord": "good",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 39,
+      "word": "good"
+    },
+    {
+      "alignedWord": "job",
+      "case": "success",
+      "end": 2.68,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "b_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 44,
+      "word": "job"
+    }
+  ]
+}

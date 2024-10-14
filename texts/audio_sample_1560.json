@@ -1,0 +1,270 @@
+{
+  "transcript": "he really crucified him he nailed it for a yard loss\r\n",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.28,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.07,
+      "startOffset": 0,
+      "word": "he"
+    },
+    {
+      "alignedWord": "really",
+      "case": "success",
+      "end": 0.64,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 3,
+      "word": "really"
+    },
+    {
+      "alignedWord": "crucified",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.64,
+      "startOffset": 10,
+      "word": "crucified"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 20,
+      "word": "him"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 24,
+      "word": "he"
+    },
+    {
+      "alignedWord": "nailed",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 27,
+      "word": "nailed"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 2.64,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.46,
+      "startOffset": 34,
+      "word": "it"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 3.02,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 37,
+      "word": "for"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.12,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 3.02,
+      "startOffset": 41,
+      "word": "a"
+    },
+    {
+      "alignedWord": "yard",
+      "case": "success",
+      "end": 3.47,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.12,
+      "startOffset": 43,
+      "word": "yard"
+    },
+    {
+      "alignedWord": "loss",
+      "case": "success",
+      "end": 3.99,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.47,
+      "startOffset": 48,
+      "word": "loss"
+    }
+  ]
+}

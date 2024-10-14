@@ -1,0 +1,178 @@
+{
+  "transcript": "westchester is a county in new york\r\n",
+  "words": [
+    {
+      "alignedWord": "westchester",
+      "case": "success",
+      "end": 0.72,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "westchester"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 0.82,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 12,
+      "word": "is"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.8899999999999999,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 15,
+      "word": "a"
+    },
+    {
+      "alignedWord": "county",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 17,
+      "word": "county"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 24,
+      "word": "in"
+    },
+    {
+      "alignedWord": "new",
+      "case": "success",
+      "end": 1.4500000000000002,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 27,
+      "word": "new"
+    },
+    {
+      "alignedWord": "york",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 31,
+      "word": "york"
+    }
+  ]
+}

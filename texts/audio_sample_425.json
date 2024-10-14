@@ -1,0 +1,217 @@
+{
+  "transcript": "let all projects dry slowly for several days\r\n",
+  "words": [
+    {
+      "alignedWord": "let",
+      "case": "success",
+      "end": 0.45,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 0,
+      "word": "let"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 0.5900000000000001,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.45,
+      "startOffset": 4,
+      "word": "all"
+    },
+    {
+      "alignedWord": "projects",
+      "case": "success",
+      "end": 1.16,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 8,
+      "word": "projects"
+    },
+    {
+      "alignedWord": "dry",
+      "case": "success",
+      "end": 1.41,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 17,
+      "word": "dry"
+    },
+    {
+      "alignedWord": "slowly",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 21,
+      "word": "slowly"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 1.95,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.79,
+      "startOffset": 28,
+      "word": "for"
+    },
+    {
+      "alignedWord": "several",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 32,
+      "word": "several"
+    },
+    {
+      "alignedWord": "days",
+      "case": "success",
+      "end": 2.7800000000000002,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 40,
+      "word": "days"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "transcript": "norwegian sweaters are made of lamb's wool\r\n",
+  "words": [
+    {
+      "alignedWord": "norwegian",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.24,
+      "startOffset": 0,
+      "word": "norwegian"
+    },
+    {
+      "alignedWord": "sweaters",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 10,
+      "word": "sweaters"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.28,
+      "startOffset": 19,
+      "word": "are"
+    },
+    {
+      "alignedWord": "made",
+      "case": "success",
+      "end": 1.6199999999999999,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 23,
+      "word": "made"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 28,
+      "word": "of"
+    },
+    {
+      "alignedWord": "lamb's",
+      "case": "success",
+      "end": 2.22,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 31,
+      "word": "lamb's"
+    },
+    {
+      "alignedWord": "wool",
+      "case": "success",
+      "end": 2.3600000000000003,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 38,
+      "word": "wool"
+    }
+  ]
+}

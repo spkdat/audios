@@ -1,0 +1,92 @@
+{
+  "transcript": "somebody'll hafta start thinkin\r\n",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 11,
+      "startOffset": 0,
+      "word": "somebody'll"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.83,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 12,
+      "word": "hafta"
+    },
+    {
+      "alignedWord": "start",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 18,
+      "word": "start"
+    },
+    {
+      "alignedWord": "thinkin",
+      "case": "success",
+      "end": 1.8299999999999998,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 24,
+      "word": "thinkin"
+    }
+  ]
+}

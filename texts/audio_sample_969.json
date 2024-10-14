@@ -1,0 +1,143 @@
+{
+  "transcript": "they enjoy it when i audition\r\n",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "they"
+    },
+    {
+      "alignedWord": "enjoy",
+      "case": "success",
+      "end": 0.6699999999999999,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 5,
+      "word": "enjoy"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.7200000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 11,
+      "word": "it"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 0.9600000000000001,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 14,
+      "word": "when"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.1099999999999999,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 19,
+      "word": "i"
+    },
+    {
+      "alignedWord": "audition",
+      "case": "success",
+      "end": 1.6,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 21,
+      "word": "audition"
+    }
+  ]
+}

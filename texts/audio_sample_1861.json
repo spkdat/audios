@@ -1,0 +1,205 @@
+{
+  "transcript": "or more rhythmically the swarthy witches are laughing\r\n",
+  "words": [
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 0.46,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "or"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 0.77,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.5,
+      "startOffset": 3,
+      "word": "more"
+    },
+    {
+      "alignedWord": "rhythmically",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.77,
+      "startOffset": 8,
+      "word": "rhythmically"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.3800000000000003,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 21,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.8899999999999997,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.51,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 25,
+      "word": "swarthy"
+    },
+    {
+      "alignedWord": "witches",
+      "case": "success",
+      "end": 3.28,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.9,
+      "startOffset": 33,
+      "word": "witches"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 3.4699999999999998,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.3,
+      "startOffset": 41,
+      "word": "are"
+    },
+    {
+      "alignedWord": "laughing",
+      "case": "success",
+      "end": 3.9000000000000004,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.47,
+      "startOffset": 45,
+      "word": "laughing"
+    }
+  ]
+}

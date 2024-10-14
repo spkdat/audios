@@ -1,0 +1,194 @@
+{
+  "transcript": "muscular abdomen is good for your back\r\n",
+  "words": [
+    {
+      "alignedWord": "muscular",
+      "case": "success",
+      "end": 0.72,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "muscular"
+    },
+    {
+      "alignedWord": "abdomen",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 9,
+      "word": "abdomen"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.3,
+      "startOffset": 17,
+      "word": "is"
+    },
+    {
+      "alignedWord": "good",
+      "case": "success",
+      "end": 1.86,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 20,
+      "word": "good"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 2.0100000000000002,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 25,
+      "word": "for"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 2.1599999999999997,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.01,
+      "startOffset": 29,
+      "word": "your"
+    },
+    {
+      "alignedWord": "back",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 34,
+      "word": "back"
+    }
+  ]
+}

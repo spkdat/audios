@@ -1,0 +1,182 @@
+{
+  "transcript": "with each song he gave verbal footnotes\r\n",
+  "words": [
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 0.31000000000000005,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "with"
+    },
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 0.48,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 5,
+      "word": "each"
+    },
+    {
+      "alignedWord": "song",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 10,
+      "word": "song"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 15,
+      "word": "he"
+    },
+    {
+      "alignedWord": "gave",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 18,
+      "word": "gave"
+    },
+    {
+      "alignedWord": "verbal",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 23,
+      "word": "verbal"
+    },
+    {
+      "alignedWord": "footnotes",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 30,
+      "word": "footnotes"
+    }
+  ]
+}

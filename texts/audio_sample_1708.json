@@ -1,0 +1,209 @@
+{
+  "transcript": "he kissed her also and with deep tenderness\r\n",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.29,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.08,
+      "startOffset": 0,
+      "word": "he"
+    },
+    {
+      "alignedWord": "kissed",
+      "case": "success",
+      "end": 0.58,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.29,
+      "startOffset": 3,
+      "word": "kissed"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 10,
+      "word": "her"
+    },
+    {
+      "alignedWord": "also",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 14,
+      "word": "also"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 19,
+      "word": "and"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 1.5499999999999998,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 23,
+      "word": "with"
+    },
+    {
+      "alignedWord": "deep",
+      "case": "success",
+      "end": 1.8,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 28,
+      "word": "deep"
+    },
+    {
+      "alignedWord": "tenderness",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 33,
+      "word": "tenderness"
+    }
+  ]
+}

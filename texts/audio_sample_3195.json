@@ -1,0 +1,136 @@
+{
+  "transcript": "does creole cooking use curry\r\n",
+  "words": [
+    {
+      "alignedWord": "does",
+      "case": "success",
+      "end": 0.4,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "does"
+    },
+    {
+      "alignedWord": "creole",
+      "case": "success",
+      "end": 0.8200000000000001,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 5,
+      "word": "creole"
+    },
+    {
+      "alignedWord": "cooking",
+      "case": "success",
+      "end": 1.18,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 12,
+      "word": "cooking"
+    },
+    {
+      "alignedWord": "use",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 20,
+      "word": "use"
+    },
+    {
+      "alignedWord": "curry",
+      "case": "success",
+      "end": 1.8499999999999999,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 24,
+      "word": "curry"
+    }
+  ]
+}

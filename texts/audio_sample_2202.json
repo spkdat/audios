@@ -1,0 +1,281 @@
+{
+  "transcript": "her face seemed to float in an implausibly bright shaft of sunlight\r\n",
+  "words": [
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 0.26,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "her"
+    },
+    {
+      "alignedWord": "face",
+      "case": "success",
+      "end": 0.5700000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.26,
+      "startOffset": 4,
+      "word": "face"
+    },
+    {
+      "alignedWord": "seemed",
+      "case": "success",
+      "end": 0.83,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 9,
+      "word": "seemed"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.95,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 16,
+      "word": "to"
+    },
+    {
+      "alignedWord": "float",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 19,
+      "word": "float"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.4300000000000002,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.3,
+      "startOffset": 25,
+      "word": "in"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 1.5499999999999998,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 28,
+      "word": "an"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.27,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.71,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 31,
+      "word": "implausibly"
+    },
+    {
+      "alignedWord": "bright",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.27,
+      "startOffset": 43,
+      "word": "bright"
+    },
+    {
+      "alignedWord": "shaft",
+      "case": "success",
+      "end": 2.94,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 50,
+      "word": "shaft"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.07,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 56,
+      "word": "of"
+    },
+    {
+      "alignedWord": "sunlight",
+      "case": "success",
+      "end": 3.59,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.07,
+      "startOffset": 59,
+      "word": "sunlight"
+    }
+  ]
+}

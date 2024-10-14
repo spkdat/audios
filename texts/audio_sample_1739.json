@@ -1,0 +1,169 @@
+{
+  "transcript": "a roll of wire lay near the wall\r\n",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.30000000000000004,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "a"
+    },
+    {
+      "alignedWord": "roll",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.3,
+      "startOffset": 2,
+      "word": "roll"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 0.84,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 7,
+      "word": "of"
+    },
+    {
+      "alignedWord": "wire",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 10,
+      "word": "wire"
+    },
+    {
+      "alignedWord": "lay",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 15,
+      "word": "lay"
+    },
+    {
+      "alignedWord": "near",
+      "case": "success",
+      "end": 1.71,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 19,
+      "word": "near"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 24,
+      "word": "the"
+    },
+    {
+      "alignedWord": "wall",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 28,
+      "word": "wall"
+    }
+  ]
+}

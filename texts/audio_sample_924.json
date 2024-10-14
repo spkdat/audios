@@ -1,0 +1,197 @@
+{
+  "transcript": "his shoulder felt as if it were broken\r\n",
+  "words": [
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 0.29000000000000004,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "his"
+    },
+    {
+      "alignedWord": "shoulder",
+      "case": "success",
+      "end": 0.6499999999999999,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.29,
+      "startOffset": 4,
+      "word": "shoulder"
+    },
+    {
+      "alignedWord": "felt",
+      "case": "success",
+      "end": 0.91,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 13,
+      "word": "felt"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 18,
+      "word": "as"
+    },
+    {
+      "alignedWord": "if",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 21,
+      "word": "if"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 24,
+      "word": "it"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 27,
+      "word": "were"
+    },
+    {
+      "alignedWord": "broken",
+      "case": "success",
+      "end": 1.68,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 32,
+      "word": "broken"
+    }
+  ]
+}

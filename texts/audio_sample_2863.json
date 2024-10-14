@@ -1,0 +1,235 @@
+{
+  "transcript": "a woman met a famous author at a literary tea\r\n",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.21000000000000002,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "a"
+    },
+    {
+      "alignedWord": "woman",
+      "case": "success",
+      "end": 0.55,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.21,
+      "startOffset": 2,
+      "word": "woman"
+    },
+    {
+      "alignedWord": "met",
+      "case": "success",
+      "end": 0.7200000000000001,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.55,
+      "startOffset": 8,
+      "word": "met"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 12,
+      "word": "a"
+    },
+    {
+      "alignedWord": "famous",
+      "case": "success",
+      "end": 1.2000000000000002,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 14,
+      "word": "famous"
+    },
+    {
+      "alignedWord": "author",
+      "case": "success",
+      "end": 1.5499999999999998,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 21,
+      "word": "author"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.71,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 28,
+      "word": "at"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.83,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 31,
+      "word": "a"
+    },
+    {
+      "alignedWord": "literary",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 33,
+      "word": "literary"
+    },
+    {
+      "alignedWord": "tea",
+      "case": "success",
+      "end": 2.71,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 42,
+      "word": "tea"
+    }
+  ]
+}

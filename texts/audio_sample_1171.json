@@ -1,0 +1,150 @@
+{
+  "transcript": "it gave her a lewd winking effect\r\n",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "it"
+    },
+    {
+      "alignedWord": "gave",
+      "case": "success",
+      "end": 0.6000000000000001,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.33,
+      "startOffset": 3,
+      "word": "gave"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 8,
+      "word": "her"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 12,
+      "word": "a"
+    },
+    {
+      "alignedWord": "lewd",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 14,
+      "word": "lewd"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.7199999999999998,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.59,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 19,
+      "word": "winking"
+    },
+    {
+      "alignedWord": "effect",
+      "case": "success",
+      "end": 2.2199999999999998,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 27,
+      "word": "effect"
+    }
+  ]
+}

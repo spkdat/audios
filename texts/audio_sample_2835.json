@@ -1,0 +1,312 @@
+{
+  "transcript": "to keep 'em scattered somewhat and yet herd 'em was called loose herdin'\r\n",
+  "words": [
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.4,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.38,
+      "startOffset": 0,
+      "word": "to"
+    },
+    {
+      "alignedWord": "keep",
+      "case": "success",
+      "end": 0.48000000000000004,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 3,
+      "word": "keep"
+    },
+    {
+      "alignedWord": "'em",
+      "case": "success",
+      "end": 0.65,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 8,
+      "word": "'em"
+    },
+    {
+      "alignedWord": "scattered",
+      "case": "success",
+      "end": 1.1800000000000002,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 12,
+      "word": "scattered"
+    },
+    {
+      "alignedWord": "somewhat",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 22,
+      "word": "somewhat"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.89,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 31,
+      "word": "and"
+    },
+    {
+      "alignedWord": "yet",
+      "case": "success",
+      "end": 2.1,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 35,
+      "word": "yet"
+    },
+    {
+      "alignedWord": "herd",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.1,
+      "startOffset": 39,
+      "word": "herd"
+    },
+    {
+      "alignedWord": "'em",
+      "case": "success",
+      "end": 2.57,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 44,
+      "word": "'em"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.78,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.57,
+      "startOffset": 48,
+      "word": "was"
+    },
+    {
+      "alignedWord": "called",
+      "case": "success",
+      "end": 3.07,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 52,
+      "word": "called"
+    },
+    {
+      "alignedWord": "loose",
+      "case": "success",
+      "end": 3.3099999999999996,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.07,
+      "startOffset": 59,
+      "word": "loose"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.6999999999999997,
+      "endOffset": 71,
+      "phones": [
+        {
+          "duration": 0.38,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.32,
+      "startOffset": 65,
+      "word": "herdin"
+    }
+  ]
+}

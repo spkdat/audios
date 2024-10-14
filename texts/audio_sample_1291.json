@@ -1,0 +1,108 @@
+{
+  "transcript": "how safe is too safe\r\n",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "how"
+    },
+    {
+      "alignedWord": "safe",
+      "case": "success",
+      "end": 0.6799999999999999,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 4,
+      "word": "safe"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 0.8200000000000001,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 9,
+      "word": "is"
+    },
+    {
+      "alignedWord": "too",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 12,
+      "word": "too"
+    },
+    {
+      "alignedWord": "safe",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 16,
+      "word": "safe"
+    }
+  ]
+}

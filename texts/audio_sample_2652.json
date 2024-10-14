@@ -1,0 +1,302 @@
+{
+  "transcript": "the gunman kept his victim cornered at gunpoint for three hours\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.22,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "gunman",
+      "case": "success",
+      "end": 0.65,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 4,
+      "word": "gunman"
+    },
+    {
+      "alignedWord": "kept",
+      "case": "success",
+      "end": 0.94,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 11,
+      "word": "kept"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.1099999999999999,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 16,
+      "word": "his"
+    },
+    {
+      "alignedWord": "victim",
+      "case": "success",
+      "end": 1.7400000000000002,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 20,
+      "word": "victim"
+    },
+    {
+      "alignedWord": "cornered",
+      "case": "success",
+      "end": 2.8200000000000003,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 27,
+      "word": "cornered"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 3.0999999999999996,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.86,
+      "startOffset": 36,
+      "word": "at"
+    },
+    {
+      "alignedWord": "gunpoint",
+      "case": "success",
+      "end": 3.84,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 39,
+      "word": "gunpoint"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 4.07,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.85,
+      "startOffset": 48,
+      "word": "for"
+    },
+    {
+      "alignedWord": "three",
+      "case": "success",
+      "end": 4.4799999999999995,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.1,
+      "startOffset": 52,
+      "word": "three"
+    },
+    {
+      "alignedWord": "hours",
+      "case": "success",
+      "end": 5.290000000000001,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.31,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.34,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.48,
+      "startOffset": 58,
+      "word": "hours"
+    }
+  ]
+}

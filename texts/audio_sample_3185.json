@@ -1,0 +1,169 @@
+{
+  "transcript": "a connoisseur will enjoy this shellfish dish\r\n",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.25,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "a"
+    },
+    {
+      "alignedWord": "connoisseur",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 2,
+      "word": "connoisseur"
+    },
+    {
+      "alignedWord": "will",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 14,
+      "word": "will"
+    },
+    {
+      "alignedWord": "enjoy",
+      "case": "success",
+      "end": 1.4900000000000002,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 1.1,
+      "startOffset": 19,
+      "word": "enjoy"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 1.71,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 25,
+      "word": "this"
+    },
+    {
+      "alignedWord": "shellfish",
+      "case": "success",
+      "end": 2.38,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 30,
+      "word": "shellfish"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 44,
+      "startOffset": 40,
+      "word": "dish"
+    }
+  ]
+}

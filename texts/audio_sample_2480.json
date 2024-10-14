@@ -1,0 +1,185 @@
+{
+  "transcript": "but she suffered in her off duty hours\r\n",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 0.28,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "but"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 0.47000000000000003,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 4,
+      "word": "she"
+    },
+    {
+      "alignedWord": "suffered",
+      "case": "success",
+      "end": 0.8899999999999999,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.47,
+      "startOffset": 8,
+      "word": "suffered"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 17,
+      "word": "in"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 20,
+      "word": "her"
+    },
+    {
+      "alignedWord": "off",
+      "case": "success",
+      "end": 1.55,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 24,
+      "word": "off"
+    },
+    {
+      "alignedWord": "duty",
+      "case": "success",
+      "end": 1.87,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 28,
+      "word": "duty"
+    },
+    {
+      "alignedWord": "hours",
+      "case": "success",
+      "end": 2.37,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 33,
+      "word": "hours"
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "transcript": "the electron optical system may be either a magnetic or electrostatic one\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.23,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "electron",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 4,
+      "word": "electron"
+    },
+    {
+      "alignedWord": "optical",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 13,
+      "word": "optical"
+    },
+    {
+      "alignedWord": "system",
+      "case": "success",
+      "end": 1.82,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.28,
+      "startOffset": 21,
+      "word": "system"
+    },
+    {
+      "alignedWord": "may",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 28,
+      "word": "may"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 2.3400000000000003,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 32,
+      "word": "be"
+    },
+    {
+      "alignedWord": "either",
+      "case": "success",
+      "end": 2.75,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 35,
+      "word": "either"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.93,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 2.75,
+      "startOffset": 42,
+      "word": "a"
+    },
+    {
+      "alignedWord": "magnetic",
+      "case": "success",
+      "end": 3.56,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.93,
+      "startOffset": 44,
+      "word": "magnetic"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 3.8499999999999996,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.59,
+      "startOffset": 53,
+      "word": "or"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.86,
+      "endOffset": 69,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.85,
+      "startOffset": 56,
+      "word": "electrostatic"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 5.0,
+      "endOffset": 73,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.7299999999999995,
+      "startOffset": 70,
+      "word": "one"
+    }
+  ]
+}

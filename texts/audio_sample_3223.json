@@ -1,0 +1,322 @@
+{
+  "transcript": "why the hell didn't you come out when you saw them gang up on me\r\n",
+  "words": [
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 0.27999999999999997,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.04,
+      "startOffset": 0,
+      "word": "why"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.41,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.29,
+      "startOffset": 4,
+      "word": "the"
+    },
+    {
+      "alignedWord": "hell",
+      "case": "success",
+      "end": 0.6,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.41,
+      "startOffset": 8,
+      "word": "hell"
+    },
+    {
+      "alignedWord": "didn't",
+      "case": "success",
+      "end": 0.8899999999999999,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 13,
+      "word": "didn't"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 20,
+      "word": "you"
+    },
+    {
+      "alignedWord": "come",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 24,
+      "word": "come"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 29,
+      "word": "out"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 1.72,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 33,
+      "word": "when"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.8699999999999999,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 38,
+      "word": "you"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 42,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 2.3200000000000003,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 46,
+      "word": "them"
+    },
+    {
+      "alignedWord": "gang",
+      "case": "success",
+      "end": 2.6199999999999997,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 51,
+      "word": "gang"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 2.81,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.62,
+      "startOffset": 56,
+      "word": "up"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 3.0,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.81,
+      "startOffset": 59,
+      "word": "on"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 3.24,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.0,
+      "startOffset": 62,
+      "word": "me"
+    }
+  ]
+}

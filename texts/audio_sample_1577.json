@@ -1,0 +1,178 @@
+{
+  "transcript": "one wonders about its applicability to people\r\n",
+  "words": [
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 0.34,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.08,
+      "startOffset": 0,
+      "word": "one"
+    },
+    {
+      "alignedWord": "wonders",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.34,
+      "startOffset": 4,
+      "word": "wonders"
+    },
+    {
+      "alignedWord": "about",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 12,
+      "word": "about"
+    },
+    {
+      "alignedWord": "its",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 18,
+      "word": "its"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.89,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 22,
+      "word": "applicability"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.51,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 36,
+      "word": "to"
+    },
+    {
+      "alignedWord": "people",
+      "case": "success",
+      "end": 2.9899999999999998,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.51,
+      "startOffset": 39,
+      "word": "people"
+    }
+  ]
+}

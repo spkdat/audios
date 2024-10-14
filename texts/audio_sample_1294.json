@@ -1,0 +1,144 @@
+{
+  "transcript": "nor were his manners barbaric\r\n",
+  "words": [
+    {
+      "alignedWord": "nor",
+      "case": "success",
+      "end": 0.41000000000000003,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "nor"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 0.59,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.41,
+      "startOffset": 4,
+      "word": "were"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 9,
+      "word": "his"
+    },
+    {
+      "alignedWord": "manners",
+      "case": "success",
+      "end": 1.32,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 13,
+      "word": "manners"
+    },
+    {
+      "alignedWord": "barbaric",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 21,
+      "word": "barbaric"
+    }
+  ]
+}

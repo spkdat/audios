@@ -1,0 +1,266 @@
+{
+  "transcript": "the keelson made of two three inch widths is next installed\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.26,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.71,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.26,
+      "startOffset": 4,
+      "word": "keelson"
+    },
+    {
+      "alignedWord": "made",
+      "case": "success",
+      "end": 1.4,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.17,
+      "startOffset": 12,
+      "word": "made"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.5599999999999998,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 17,
+      "word": "of"
+    },
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 1.87,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 20,
+      "word": "two"
+    },
+    {
+      "alignedWord": "three",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 24,
+      "word": "three"
+    },
+    {
+      "alignedWord": "inch",
+      "case": "success",
+      "end": 2.4299999999999997,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 30,
+      "word": "inch"
+    },
+    {
+      "alignedWord": "widths",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.46,
+      "startOffset": 35,
+      "word": "widths"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 3.3,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.05,
+      "startOffset": 42,
+      "word": "is"
+    },
+    {
+      "alignedWord": "next",
+      "case": "success",
+      "end": 3.6599999999999997,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.3,
+      "startOffset": 45,
+      "word": "next"
+    },
+    {
+      "alignedWord": "installed",
+      "case": "success",
+      "end": 4.26,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.66,
+      "startOffset": 50,
+      "word": "installed"
+    }
+  ]
+}

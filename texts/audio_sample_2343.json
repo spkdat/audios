@@ -1,0 +1,116 @@
+{
+  "transcript": "a rabbit punch redoubled him\r\n",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.23,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "a"
+    },
+    {
+      "alignedWord": "rabbit",
+      "case": "success",
+      "end": 0.55,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 2,
+      "word": "rabbit"
+    },
+    {
+      "alignedWord": "punch",
+      "case": "success",
+      "end": 0.8500000000000001,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.55,
+      "startOffset": 9,
+      "word": "punch"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.35,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.5,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 15,
+      "word": "redoubled"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 25,
+      "word": "him"
+    }
+  ]
+}

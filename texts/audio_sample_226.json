@@ -1,0 +1,299 @@
+{
+  "transcript": "do you love to run up a hem sew on buttons make neat buttonholes\r\n",
+  "words": [
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 0.2,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "do"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.39,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.2,
+      "startOffset": 3,
+      "word": "you"
+    },
+    {
+      "alignedWord": "love",
+      "case": "success",
+      "end": 0.72,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 7,
+      "word": "love"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 12,
+      "word": "to"
+    },
+    {
+      "alignedWord": "run",
+      "case": "success",
+      "end": 1.09,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 15,
+      "word": "run"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 19,
+      "word": "up"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 22,
+      "word": "a"
+    },
+    {
+      "alignedWord": "hem",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 24,
+      "word": "hem"
+    },
+    {
+      "alignedWord": "sew",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 28,
+      "word": "sew"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 32,
+      "word": "on"
+    },
+    {
+      "alignedWord": "buttons",
+      "case": "success",
+      "end": 3.04,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.46,
+      "startOffset": 35,
+      "word": "buttons"
+    },
+    {
+      "alignedWord": "make",
+      "case": "success",
+      "end": 3.44,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.12,
+      "startOffset": 43,
+      "word": "make"
+    },
+    {
+      "alignedWord": "neat",
+      "case": "success",
+      "end": 3.64,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.44,
+      "startOffset": 48,
+      "word": "neat"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.3,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.6,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.7,
+      "startOffset": 53,
+      "word": "buttonholes"
+    }
+  ]
+}

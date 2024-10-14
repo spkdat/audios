@@ -1,0 +1,200 @@
+{
+  "transcript": "the gallant half city is dying on its feet\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.28,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 0.66,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.38,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 4,
+      "word": "gallant"
+    },
+    {
+      "alignedWord": "half",
+      "case": "success",
+      "end": 0.9500000000000001,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 12,
+      "word": "half"
+    },
+    {
+      "alignedWord": "city",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 17,
+      "word": "city"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 22,
+      "word": "is"
+    },
+    {
+      "alignedWord": "dying",
+      "case": "success",
+      "end": 2.0300000000000002,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 25,
+      "word": "dying"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 2.1399999999999997,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 31,
+      "word": "on"
+    },
+    {
+      "alignedWord": "its",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 34,
+      "word": "its"
+    },
+    {
+      "alignedWord": "feet",
+      "case": "success",
+      "end": 2.67,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 38,
+      "word": "feet"
+    }
+  ]
+}

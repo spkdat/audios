@@ -1,0 +1,306 @@
+{
+  "transcript": "to further his prestige he occasionally reads the wall street journal\r\n",
+  "words": [
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.24,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "to"
+    },
+    {
+      "alignedWord": "further",
+      "case": "success",
+      "end": 0.6,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.24,
+      "startOffset": 3,
+      "word": "further"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 0.82,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 11,
+      "word": "his"
+    },
+    {
+      "alignedWord": "prestige",
+      "case": "success",
+      "end": 1.5299999999999998,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "zh_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 15,
+      "word": "prestige"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 24,
+      "word": "he"
+    },
+    {
+      "alignedWord": "occasionally",
+      "case": "success",
+      "end": 2.35,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 27,
+      "word": "occasionally"
+    },
+    {
+      "alignedWord": "reads",
+      "case": "success",
+      "end": 2.68,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 40,
+      "word": "reads"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.7800000000000002,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.68,
+      "startOffset": 46,
+      "word": "the"
+    },
+    {
+      "alignedWord": "wall",
+      "case": "success",
+      "end": 3.05,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 50,
+      "word": "wall"
+    },
+    {
+      "alignedWord": "street",
+      "case": "success",
+      "end": 3.36,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.05,
+      "startOffset": 55,
+      "word": "street"
+    },
+    {
+      "alignedWord": "journal",
+      "case": "success",
+      "end": 3.82,
+      "endOffset": 69,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.38,
+      "startOffset": 62,
+      "word": "journal"
+    }
+  ]
+}

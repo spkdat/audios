@@ -1,0 +1,227 @@
+{
+  "transcript": "by the look of him he wasn't that far gone\r\n",
+  "words": [
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 0.22999999999999998,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.11,
+      "startOffset": 0,
+      "word": "by"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.37,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 3,
+      "word": "the"
+    },
+    {
+      "alignedWord": "look",
+      "case": "success",
+      "end": 0.61,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.37,
+      "startOffset": 7,
+      "word": "look"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 0.76,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 12,
+      "word": "of"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 0.89,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 15,
+      "word": "him"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.99,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 19,
+      "word": "he"
+    },
+    {
+      "alignedWord": "wasn't",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.99,
+      "startOffset": 22,
+      "word": "wasn't"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.57,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 29,
+      "word": "that"
+    },
+    {
+      "alignedWord": "far",
+      "case": "success",
+      "end": 1.8,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 34,
+      "word": "far"
+    },
+    {
+      "alignedWord": "gone",
+      "case": "success",
+      "end": 2.22,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 38,
+      "word": "gone"
+    }
+  ]
+}

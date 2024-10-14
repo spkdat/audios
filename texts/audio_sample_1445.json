@@ -1,0 +1,128 @@
+{
+  "transcript": "how good is your endurance\r\n",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 0.29000000000000004,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "how"
+    },
+    {
+      "alignedWord": "good",
+      "case": "success",
+      "end": 0.43999999999999995,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.29,
+      "startOffset": 4,
+      "word": "good"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 0.53,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 9,
+      "word": "is"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 0.66,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 12,
+      "word": "your"
+    },
+    {
+      "alignedWord": "endurance",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 17,
+      "word": "endurance"
+    }
+  ]
+}

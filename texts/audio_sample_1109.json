@@ -1,0 +1,200 @@
+{
+  "transcript": "he rubbed his eyes sleepily with one huge paw\r\n",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.26,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "he"
+    },
+    {
+      "alignedWord": "rubbed",
+      "case": "success",
+      "end": 0.45,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.26,
+      "startOffset": 3,
+      "word": "rubbed"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 0.63,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.45,
+      "startOffset": 10,
+      "word": "his"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 14,
+      "word": "eyes"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.55,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 19,
+      "word": "sleepily"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 28,
+      "word": "with"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 1.89,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 33,
+      "word": "one"
+    },
+    {
+      "alignedWord": "huge",
+      "case": "success",
+      "end": 2.27,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 37,
+      "word": "huge"
+    },
+    {
+      "alignedWord": "paw",
+      "case": "success",
+      "end": 2.71,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.31,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 2.3,
+      "startOffset": 42,
+      "word": "paw"
+    }
+  ]
+}

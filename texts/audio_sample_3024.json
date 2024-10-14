@@ -1,0 +1,231 @@
+{
+  "transcript": "ten years ago they blew up some of our ditches\r\n",
+  "words": [
+    {
+      "alignedWord": "ten",
+      "case": "success",
+      "end": 0.28,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "ten"
+    },
+    {
+      "alignedWord": "years",
+      "case": "success",
+      "end": 0.52,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 4,
+      "word": "years"
+    },
+    {
+      "alignedWord": "ago",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 10,
+      "word": "ago"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.89,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 14,
+      "word": "they"
+    },
+    {
+      "alignedWord": "blew",
+      "case": "success",
+      "end": 1.09,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 19,
+      "word": "blew"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 24,
+      "word": "up"
+    },
+    {
+      "alignedWord": "some",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 27,
+      "word": "some"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 32,
+      "word": "of"
+    },
+    {
+      "alignedWord": "our",
+      "case": "success",
+      "end": 1.6600000000000001,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 35,
+      "word": "our"
+    },
+    {
+      "alignedWord": "ditches",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 39,
+      "word": "ditches"
+    }
+  ]
+}

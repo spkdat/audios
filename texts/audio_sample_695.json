@@ -1,0 +1,108 @@
+{
+  "transcript": "the meeting is now adjourned\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.22000000000000003,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "meeting",
+      "case": "success",
+      "end": 0.57,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 4,
+      "word": "meeting"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 0.73,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 12,
+      "word": "is"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 1.07,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 15,
+      "word": "now"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.61,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 19,
+      "word": "adjourned"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "transcript": "not when i was a kid\r\n",
+  "words": [
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 0.44,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.18,
+      "startOffset": 0,
+      "word": "not"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 0.59,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 4,
+      "word": "when"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 9,
+      "word": "i"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 0.9199999999999999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 11,
+      "word": "was"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.0,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 15,
+      "word": "a"
+    },
+    {
+      "alignedWord": "kid",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 17,
+      "word": "kid"
+    }
+  ]
+}

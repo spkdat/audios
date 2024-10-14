@@ -1,0 +1,159 @@
+{
+  "transcript": "objects made of pewter are beautiful\r\n",
+  "words": [
+    {
+      "alignedWord": "objects",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "objects"
+    },
+    {
+      "alignedWord": "made",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 8,
+      "word": "made"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 13,
+      "word": "of"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.36,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 16,
+      "word": "pewter"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 1.71,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "er_S"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 23,
+      "word": "are"
+    },
+    {
+      "alignedWord": "beautiful",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 27,
+      "word": "beautiful"
+    }
+  ]
+}

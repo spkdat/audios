@@ -1,0 +1,291 @@
+{
+  "transcript": "the good man chortled appreciatively and decided the trip was worth his time\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.22,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "good",
+      "case": "success",
+      "end": 0.48,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 4,
+      "word": "good"
+    },
+    {
+      "alignedWord": "man",
+      "case": "success",
+      "end": 0.76,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 9,
+      "word": "man"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 21,
+      "startOffset": 13,
+      "word": "chortled"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.27,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 1.5,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.77,
+      "startOffset": 22,
+      "word": "appreciatively"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.74,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.54,
+      "startOffset": 37,
+      "word": "and"
+    },
+    {
+      "alignedWord": "decided",
+      "case": "success",
+      "end": 3.24,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.74,
+      "startOffset": 41,
+      "word": "decided"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.31,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.24,
+      "startOffset": 49,
+      "word": "the"
+    },
+    {
+      "alignedWord": "trip",
+      "case": "success",
+      "end": 3.64,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.31,
+      "startOffset": 53,
+      "word": "trip"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 3.8200000000000003,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.64,
+      "startOffset": 58,
+      "word": "was"
+    },
+    {
+      "alignedWord": "worth",
+      "case": "success",
+      "end": 4.06,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.82,
+      "startOffset": 62,
+      "word": "worth"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 4.28,
+      "endOffset": 71,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.07,
+      "startOffset": 68,
+      "word": "his"
+    },
+    {
+      "alignedWord": "time",
+      "case": "success",
+      "end": 4.680000000000001,
+      "endOffset": 76,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.28,
+      "startOffset": 72,
+      "word": "time"
+    }
+  ]
+}

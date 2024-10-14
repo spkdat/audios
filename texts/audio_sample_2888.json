@@ -1,0 +1,131 @@
+{
+  "transcript": "she is thinner than i am\r\n",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 0.57,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "she"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 0.82,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 4,
+      "word": "is"
+    },
+    {
+      "alignedWord": "thinner",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 7,
+      "word": "thinner"
+    },
+    {
+      "alignedWord": "than",
+      "case": "success",
+      "end": 1.47,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 15,
+      "word": "than"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 20,
+      "word": "i"
+    },
+    {
+      "alignedWord": "am",
+      "case": "success",
+      "end": 2.2199999999999998,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 22,
+      "word": "am"
+    }
+  ]
+}

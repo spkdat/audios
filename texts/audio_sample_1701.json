@@ -1,0 +1,119 @@
+{
+  "transcript": "this is known as conformational entropy\r\n",
+  "words": [
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 0.31,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "this"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 0.48,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 5,
+      "word": "is"
+    },
+    {
+      "alignedWord": "known",
+      "case": "success",
+      "end": 0.81,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 8,
+      "word": "known"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 0.9700000000000001,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 14,
+      "word": "as"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.72,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 17,
+      "word": "conformational"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.2,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.46,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 32,
+      "word": "entropy"
+    }
+  ]
+}

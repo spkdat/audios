@@ -1,0 +1,286 @@
+{
+  "transcript": "rob made hungarian goulash for dinner and gooseberry pie for dessert\r\n",
+  "words": [
+    {
+      "alignedWord": "rob",
+      "case": "success",
+      "end": 0.5900000000000001,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "b_E"
+        }
+      ],
+      "start": 0.05,
+      "startOffset": 0,
+      "word": "rob"
+    },
+    {
+      "alignedWord": "made",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 4,
+      "word": "made"
+    },
+    {
+      "alignedWord": "hungarian",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 9,
+      "word": "hungarian"
+    },
+    {
+      "alignedWord": "goulash",
+      "case": "success",
+      "end": 2.05,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 19,
+      "word": "goulash"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 27,
+      "word": "for"
+    },
+    {
+      "alignedWord": "dinner",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 31,
+      "word": "dinner"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.1500000000000004,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.93,
+      "startOffset": 38,
+      "word": "and"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.67,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.52,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 42,
+      "word": "gooseberry"
+    },
+    {
+      "alignedWord": "pie",
+      "case": "success",
+      "end": 4.03,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.67,
+      "startOffset": 53,
+      "word": "pie"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 4.18,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.05,
+      "startOffset": 57,
+      "word": "for"
+    },
+    {
+      "alignedWord": "dessert",
+      "case": "success",
+      "end": 4.62,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.18,
+      "startOffset": 61,
+      "word": "dessert"
+    }
+  ]
+}

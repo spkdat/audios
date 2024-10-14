@@ -1,0 +1,101 @@
+{
+  "transcript": "it is awe inspiring\r\n",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 0,
+      "word": "it"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 3,
+      "word": "is"
+    },
+    {
+      "alignedWord": "awe",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "ao_S"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 6,
+      "word": "awe"
+    },
+    {
+      "alignedWord": "inspiring",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 10,
+      "word": "inspiring"
+    }
+  ]
+}

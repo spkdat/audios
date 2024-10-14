@@ -1,0 +1,197 @@
+{
+  "transcript": "the angry boy answered but didn't look up\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.22,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.07,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "angry",
+      "case": "success",
+      "end": 0.48,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 4,
+      "word": "angry"
+    },
+    {
+      "alignedWord": "boy",
+      "case": "success",
+      "end": 0.6799999999999999,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 10,
+      "word": "boy"
+    },
+    {
+      "alignedWord": "answered",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 14,
+      "word": "answered"
+    },
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 23,
+      "word": "but"
+    },
+    {
+      "alignedWord": "didn't",
+      "case": "success",
+      "end": 1.41,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 27,
+      "word": "didn't"
+    },
+    {
+      "alignedWord": "look",
+      "case": "success",
+      "end": 1.5799999999999998,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 34,
+      "word": "look"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.58,
+      "startOffset": 39,
+      "word": "up"
+    }
+  ]
+}

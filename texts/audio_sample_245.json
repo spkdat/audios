@@ -1,0 +1,209 @@
+{
+  "transcript": "that noise problem grows more annoying each day\r\n",
+  "words": [
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 0.30000000000000004,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "that"
+    },
+    {
+      "alignedWord": "noise",
+      "case": "success",
+      "end": 0.6499999999999999,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.3,
+      "startOffset": 5,
+      "word": "noise"
+    },
+    {
+      "alignedWord": "problem",
+      "case": "success",
+      "end": 1.07,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 11,
+      "word": "problem"
+    },
+    {
+      "alignedWord": "grows",
+      "case": "success",
+      "end": 1.36,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 19,
+      "word": "grows"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 25,
+      "word": "more"
+    },
+    {
+      "alignedWord": "annoying",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 30,
+      "word": "annoying"
+    },
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 2.3000000000000003,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 39,
+      "word": "each"
+    },
+    {
+      "alignedWord": "day",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 2.3,
+      "startOffset": 44,
+      "word": "day"
+    }
+  ]
+}

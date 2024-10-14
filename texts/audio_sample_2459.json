@@ -1,0 +1,159 @@
+{
+  "transcript": "dogs did something to one's ego\r\n",
+  "words": [
+    {
+      "alignedWord": "dogs",
+      "case": "success",
+      "end": 0.6,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "dogs"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 0.82,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 5,
+      "word": "did"
+    },
+    {
+      "alignedWord": "something",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 9,
+      "word": "something"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 19,
+      "word": "to"
+    },
+    {
+      "alignedWord": "one's",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 22,
+      "word": "one's"
+    },
+    {
+      "alignedWord": "ego",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 28,
+      "word": "ego"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "transcript": "how do oysters make pearls\r\n",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 0.33999999999999997,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "how"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 0.49,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.34,
+      "startOffset": 4,
+      "word": "do"
+    },
+    {
+      "alignedWord": "oysters",
+      "case": "success",
+      "end": 0.8999999999999999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "oy_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.49,
+      "startOffset": 7,
+      "word": "oysters"
+    },
+    {
+      "alignedWord": "make",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 15,
+      "word": "make"
+    },
+    {
+      "alignedWord": "pearls",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 20,
+      "word": "pearls"
+    }
+  ]
+}

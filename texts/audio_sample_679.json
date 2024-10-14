@@ -1,0 +1,163 @@
+{
+  "transcript": "most young rise early every morning\r\n",
+  "words": [
+    {
+      "alignedWord": "most",
+      "case": "success",
+      "end": 0.42,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.11,
+      "startOffset": 0,
+      "word": "most"
+    },
+    {
+      "alignedWord": "young",
+      "case": "success",
+      "end": 0.69,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.42,
+      "startOffset": 5,
+      "word": "young"
+    },
+    {
+      "alignedWord": "rise",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 11,
+      "word": "rise"
+    },
+    {
+      "alignedWord": "early",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 16,
+      "word": "early"
+    },
+    {
+      "alignedWord": "every",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 22,
+      "word": "every"
+    },
+    {
+      "alignedWord": "morning",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 28,
+      "word": "morning"
+    }
+  ]
+}

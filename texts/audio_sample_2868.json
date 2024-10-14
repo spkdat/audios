@@ -1,0 +1,189 @@
+{
+  "transcript": "heave on those ropes the boat's come unstuck\r\n",
+  "words": [
+    {
+      "alignedWord": "heave",
+      "case": "success",
+      "end": 0.44,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "heave"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 0.59,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 6,
+      "word": "on"
+    },
+    {
+      "alignedWord": "those",
+      "case": "success",
+      "end": 0.8999999999999999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 9,
+      "word": "those"
+    },
+    {
+      "alignedWord": "ropes",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.3,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 15,
+      "word": "ropes"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.8099999999999998,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 21,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.33,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 25,
+      "word": "boat's"
+    },
+    {
+      "alignedWord": "come",
+      "case": "success",
+      "end": 2.42,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.16,
+      "startOffset": 32,
+      "word": "come"
+    },
+    {
+      "alignedWord": "unstuck",
+      "case": "success",
+      "end": 3.2399999999999998,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.42,
+      "startOffset": 37,
+      "word": "unstuck"
+    }
+  ]
+}

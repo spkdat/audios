@@ -1,0 +1,235 @@
+{
+  "transcript": "he picked up nine pairs of socks for each brother\r\n",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.27,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "he"
+    },
+    {
+      "alignedWord": "picked",
+      "case": "success",
+      "end": 0.51,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.27,
+      "startOffset": 3,
+      "word": "picked"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 0.65,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.51,
+      "startOffset": 10,
+      "word": "up"
+    },
+    {
+      "alignedWord": "nine",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 13,
+      "word": "nine"
+    },
+    {
+      "alignedWord": "pairs",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 18,
+      "word": "pairs"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 24,
+      "word": "of"
+    },
+    {
+      "alignedWord": "socks",
+      "case": "success",
+      "end": 1.71,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 27,
+      "word": "socks"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 1.8699999999999999,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 33,
+      "word": "for"
+    },
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 37,
+      "word": "each"
+    },
+    {
+      "alignedWord": "brother",
+      "case": "success",
+      "end": 2.27,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.04,
+      "startOffset": 42,
+      "word": "brother"
+    }
+  ]
+}

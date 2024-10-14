@@ -1,0 +1,82 @@
+{
+  "transcript": "thoroughly wised up\r\n",
+  "words": [
+    {
+      "alignedWord": "thoroughly",
+      "case": "success",
+      "end": 0.47000000000000003,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "thoroughly"
+    },
+    {
+      "alignedWord": "wised",
+      "case": "success",
+      "end": 0.86,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.47,
+      "startOffset": 11,
+      "word": "wised"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 17,
+      "word": "up"
+    }
+  ]
+}

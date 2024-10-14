@@ -1,0 +1,116 @@
+{
+  "transcript": "was it a birthday ball\r\n",
+  "words": [
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 0.27,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "was"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.4,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.27,
+      "startOffset": 4,
+      "word": "it"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.43000000000000005,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 7,
+      "word": "a"
+    },
+    {
+      "alignedWord": "birthday",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 9,
+      "word": "birthday"
+    },
+    {
+      "alignedWord": "ball",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 18,
+      "word": "ball"
+    }
+  ]
+}

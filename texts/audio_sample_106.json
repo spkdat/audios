@@ -1,0 +1,202 @@
+{
+  "transcript": "they went downstairs loaded a tray lavishly\r\n",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.25,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "they"
+    },
+    {
+      "alignedWord": "went",
+      "case": "success",
+      "end": 0.45,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 5,
+      "word": "went"
+    },
+    {
+      "alignedWord": "downstairs",
+      "case": "success",
+      "end": 1.1300000000000001,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.45,
+      "startOffset": 10,
+      "word": "downstairs"
+    },
+    {
+      "alignedWord": "loaded",
+      "case": "success",
+      "end": 1.41,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 21,
+      "word": "loaded"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 28,
+      "word": "a"
+    },
+    {
+      "alignedWord": "tray",
+      "case": "success",
+      "end": 1.77,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 30,
+      "word": "tray"
+    },
+    {
+      "alignedWord": "lavishly",
+      "case": "success",
+      "end": 2.39,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.79,
+      "startOffset": 35,
+      "word": "lavishly"
+    }
+  ]
+}

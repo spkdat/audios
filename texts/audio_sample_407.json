@@ -1,0 +1,140 @@
+{
+  "transcript": "although always alone we survive\r\n",
+  "words": [
+    {
+      "alignedWord": "although",
+      "case": "success",
+      "end": 0.44,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "although"
+    },
+    {
+      "alignedWord": "always",
+      "case": "success",
+      "end": 0.77,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 9,
+      "word": "always"
+    },
+    {
+      "alignedWord": "alone",
+      "case": "success",
+      "end": 1.35,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.77,
+      "startOffset": 16,
+      "word": "alone"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 1.6199999999999999,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 22,
+      "word": "we"
+    },
+    {
+      "alignedWord": "survive",
+      "case": "success",
+      "end": 2.2600000000000002,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 25,
+      "word": "survive"
+    }
+  ]
+}

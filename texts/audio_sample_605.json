@@ -1,0 +1,209 @@
+{
+  "transcript": "gently place jim's foam sculpture in the box\r\n",
+  "words": [
+    {
+      "alignedWord": "gently",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.07,
+      "startOffset": 0,
+      "word": "gently"
+    },
+    {
+      "alignedWord": "place",
+      "case": "success",
+      "end": 0.99,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 7,
+      "word": "place"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.48,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 13,
+      "word": "jim's"
+    },
+    {
+      "alignedWord": "foam",
+      "case": "success",
+      "end": 1.93,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 19,
+      "word": "foam"
+    },
+    {
+      "alignedWord": "sculpture",
+      "case": "success",
+      "end": 2.59,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 24,
+      "word": "sculpture"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.7800000000000002,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 34,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 37,
+      "word": "the"
+    },
+    {
+      "alignedWord": "box",
+      "case": "success",
+      "end": 3.27,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 41,
+      "word": "box"
+    }
+  ]
+}

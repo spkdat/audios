@@ -1,0 +1,154 @@
+{
+  "transcript": "were you in love with that girl\r\n",
+  "words": [
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 0.23,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "were"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.37,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 5,
+      "word": "you"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.49,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.37,
+      "startOffset": 9,
+      "word": "in"
+    },
+    {
+      "alignedWord": "love",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.49,
+      "startOffset": 12,
+      "word": "love"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 17,
+      "word": "with"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 22,
+      "word": "that"
+    },
+    {
+      "alignedWord": "girl",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 27,
+      "word": "girl"
+    }
+  ]
+}

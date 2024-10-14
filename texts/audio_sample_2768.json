@@ -1,0 +1,243 @@
+{
+  "transcript": "two gas lamps were no more than a misleading glow\r\n",
+  "words": [
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 0.47,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 0,
+      "word": "two"
+    },
+    {
+      "alignedWord": "gas",
+      "case": "success",
+      "end": 0.82,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.47,
+      "startOffset": 4,
+      "word": "gas"
+    },
+    {
+      "alignedWord": "lamps",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 8,
+      "word": "lamps"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 1.3699999999999999,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 14,
+      "word": "were"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 19,
+      "word": "no"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 1.77,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 22,
+      "word": "more"
+    },
+    {
+      "alignedWord": "than",
+      "case": "success",
+      "end": 1.93,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.77,
+      "startOffset": 27,
+      "word": "than"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 32,
+      "word": "a"
+    },
+    {
+      "alignedWord": "misleading",
+      "case": "success",
+      "end": 2.57,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 34,
+      "word": "misleading"
+    },
+    {
+      "alignedWord": "glow",
+      "case": "success",
+      "end": 2.73,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.57,
+      "startOffset": 45,
+      "word": "glow"
+    }
+  ]
+}

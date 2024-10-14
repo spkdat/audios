@@ -1,0 +1,124 @@
+{
+  "transcript": "they had slapped their thighs\r\n",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.26,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "they"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 0.46,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.26,
+      "startOffset": 5,
+      "word": "had"
+    },
+    {
+      "alignedWord": "slapped",
+      "case": "success",
+      "end": 0.8300000000000001,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 9,
+      "word": "slapped"
+    },
+    {
+      "alignedWord": "their",
+      "case": "success",
+      "end": 1.0899999999999999,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 17,
+      "word": "their"
+    },
+    {
+      "alignedWord": "thighs",
+      "case": "success",
+      "end": 1.82,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.32,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.3,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 23,
+      "word": "thighs"
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "transcript": "when peeling an orange it is hard not to spray juice\r\n",
+  "words": [
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 0.43000000000000005,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.2,
+      "startOffset": 0,
+      "word": "when"
+    },
+    {
+      "alignedWord": "peeling",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 5,
+      "word": "peeling"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 0.89,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 13,
+      "word": "an"
+    },
+    {
+      "alignedWord": "orange",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 16,
+      "word": "orange"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.6199999999999999,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 23,
+      "word": "it"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.7600000000000002,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 26,
+      "word": "is"
+    },
+    {
+      "alignedWord": "hard",
+      "case": "success",
+      "end": 2.05,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 29,
+      "word": "hard"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 2.2399999999999998,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 34,
+      "word": "not"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.3000000000000003,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 2.24,
+      "startOffset": 38,
+      "word": "to"
+    },
+    {
+      "alignedWord": "spray",
+      "case": "success",
+      "end": 2.67,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 2.3,
+      "startOffset": 41,
+      "word": "spray"
+    },
+    {
+      "alignedWord": "juice",
+      "case": "success",
+      "end": 3.08,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.67,
+      "startOffset": 47,
+      "word": "juice"
+    }
+  ]
+}

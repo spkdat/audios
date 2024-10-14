@@ -1,0 +1,70 @@
+{
+  "transcript": "pansies are gluttons\r\n",
+  "words": [
+    {
+      "alignedWord": "pansies",
+      "case": "success",
+      "end": 0.6900000000000001,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "pansies"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 0.82,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "er_S"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 8,
+      "word": "are"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.65,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 12,
+      "word": "gluttons"
+    }
+  ]
+}

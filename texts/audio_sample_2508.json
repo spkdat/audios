@@ -1,0 +1,171 @@
+{
+  "transcript": "his problem concerns longitudes latitudes and angular velocities\r\n",
+  "words": [
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 0.31,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.11,
+      "startOffset": 0,
+      "word": "his"
+    },
+    {
+      "alignedWord": "problem",
+      "case": "success",
+      "end": 0.64,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 4,
+      "word": "problem"
+    },
+    {
+      "alignedWord": "concerns",
+      "case": "success",
+      "end": 1.1600000000000001,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.64,
+      "startOffset": 12,
+      "word": "concerns"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.4299999999999997,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 1.27,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 21,
+      "word": "longitudes"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 32,
+      "word": "latitudes"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 42,
+      "word": "and"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.55,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 1.0,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 46,
+      "word": "angular"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 64,
+      "startOffset": 54,
+      "word": "velocities"
+    }
+  ]
+}

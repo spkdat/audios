@@ -1,0 +1,212 @@
+{
+  "transcript": "you've not seemed like them but maybe you are\r\n",
+  "words": [
+    {
+      "alignedWord": "you've",
+      "case": "success",
+      "end": 0.38,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "you've"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 0.61,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.38,
+      "startOffset": 7,
+      "word": "not"
+    },
+    {
+      "alignedWord": "seemed",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 11,
+      "word": "seemed"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 18,
+      "word": "like"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.17,
+      "startOffset": 23,
+      "word": "them"
+    },
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 1.8399999999999999,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 28,
+      "word": "but"
+    },
+    {
+      "alignedWord": "maybe",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 32,
+      "word": "maybe"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 38,
+      "word": "you"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 2.63,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 42,
+      "word": "are"
+    }
+  ]
+}

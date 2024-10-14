@@ -1,0 +1,197 @@
+{
+  "transcript": "bob found more clams at the ocean's edge\r\n",
+  "words": [
+    {
+      "alignedWord": "bob",
+      "case": "success",
+      "end": 0.39,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "b_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "bob"
+    },
+    {
+      "alignedWord": "found",
+      "case": "success",
+      "end": 0.67,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 4,
+      "word": "found"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 0.91,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 10,
+      "word": "more"
+    },
+    {
+      "alignedWord": "clams",
+      "case": "success",
+      "end": 1.4700000000000002,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 15,
+      "word": "clams"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.64,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 21,
+      "word": "at"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 24,
+      "word": "the"
+    },
+    {
+      "alignedWord": "ocean's",
+      "case": "success",
+      "end": 2.17,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 28,
+      "word": "ocean's"
+    },
+    {
+      "alignedWord": "edge",
+      "case": "success",
+      "end": 2.69,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 36,
+      "word": "edge"
+    }
+  ]
+}

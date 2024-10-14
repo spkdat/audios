@@ -1,0 +1,351 @@
+{
+  "transcript": "otherwise you may be saddled with a good size milk bill by milk drinkers\r\n",
+  "words": [
+    {
+      "alignedWord": "otherwise",
+      "case": "success",
+      "end": 0.9500000000000001,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "otherwise"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.0899999999999999,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 10,
+      "word": "you"
+    },
+    {
+      "alignedWord": "may",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 14,
+      "word": "may"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 18,
+      "word": "be"
+    },
+    {
+      "alignedWord": "saddled",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 21,
+      "word": "saddled"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 29,
+      "word": "with"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 2.15,
+      "startOffset": 34,
+      "word": "a"
+    },
+    {
+      "alignedWord": "good",
+      "case": "success",
+      "end": 2.55,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 36,
+      "word": "good"
+    },
+    {
+      "alignedWord": "size",
+      "case": "success",
+      "end": 3.0199999999999996,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 41,
+      "word": "size"
+    },
+    {
+      "alignedWord": "milk",
+      "case": "success",
+      "end": 3.3699999999999997,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.03,
+      "startOffset": 46,
+      "word": "milk"
+    },
+    {
+      "alignedWord": "bill",
+      "case": "success",
+      "end": 3.68,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.41,
+      "startOffset": 51,
+      "word": "bill"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 3.91,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.68,
+      "startOffset": 56,
+      "word": "by"
+    },
+    {
+      "alignedWord": "milk",
+      "case": "success",
+      "end": 4.22,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.91,
+      "startOffset": 59,
+      "word": "milk"
+    },
+    {
+      "alignedWord": "drinkers",
+      "case": "success",
+      "end": 4.66,
+      "endOffset": 72,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.22,
+      "startOffset": 64,
+      "word": "drinkers"
+    }
+  ]
+}

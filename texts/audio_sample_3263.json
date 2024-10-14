@@ -1,0 +1,162 @@
+{
+  "transcript": "each stag surely finds a big fawn\r\n",
+  "words": [
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 0.36,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "each"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.5,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.37,
+      "startOffset": 5,
+      "word": "stag"
+    },
+    {
+      "alignedWord": "surely",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 10,
+      "word": "surely"
+    },
+    {
+      "alignedWord": "finds",
+      "case": "success",
+      "end": 1.6600000000000001,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 17,
+      "word": "finds"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 23,
+      "word": "a"
+    },
+    {
+      "alignedWord": "big",
+      "case": "success",
+      "end": 2.05,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 25,
+      "word": "big"
+    },
+    {
+      "alignedWord": "fawn",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 29,
+      "word": "fawn"
+    }
+  ]
+}

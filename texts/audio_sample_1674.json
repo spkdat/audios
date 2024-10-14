@@ -1,0 +1,155 @@
+{
+  "transcript": "why charge money for such garbage\r\n",
+  "words": [
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 0.33999999999999997,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "why"
+    },
+    {
+      "alignedWord": "charge",
+      "case": "success",
+      "end": 0.72,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 0.35,
+      "startOffset": 4,
+      "word": "charge"
+    },
+    {
+      "alignedWord": "money",
+      "case": "success",
+      "end": 1.07,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.77,
+      "startOffset": 11,
+      "word": "money"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 17,
+      "word": "for"
+    },
+    {
+      "alignedWord": "such",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 21,
+      "word": "such"
+    },
+    {
+      "alignedWord": "garbage",
+      "case": "success",
+      "end": 2.2800000000000002,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 26,
+      "word": "garbage"
+    }
+  ]
+}

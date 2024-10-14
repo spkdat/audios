@@ -1,0 +1,148 @@
+{
+  "transcript": "do atypical farmers grow oats\r\n",
+  "words": [
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 0.27,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "do"
+    },
+    {
+      "alignedWord": "atypical",
+      "case": "success",
+      "end": 0.96,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.29,
+      "startOffset": 3,
+      "word": "atypical"
+    },
+    {
+      "alignedWord": "farmers",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 12,
+      "word": "farmers"
+    },
+    {
+      "alignedWord": "grow",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 20,
+      "word": "grow"
+    },
+    {
+      "alignedWord": "oats",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.32,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 25,
+      "word": "oats"
+    }
+  ]
+}

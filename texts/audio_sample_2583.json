@@ -1,0 +1,124 @@
+{
+  "transcript": "who wants this deed done\r\n",
+  "words": [
+    {
+      "alignedWord": "who",
+      "case": "success",
+      "end": 0.25,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "who"
+    },
+    {
+      "alignedWord": "wants",
+      "case": "success",
+      "end": 0.55,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 4,
+      "word": "wants"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.55,
+      "startOffset": 10,
+      "word": "this"
+    },
+    {
+      "alignedWord": "deed",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 15,
+      "word": "deed"
+    },
+    {
+      "alignedWord": "done",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 20,
+      "word": "done"
+    }
+  ]
+}

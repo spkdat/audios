@@ -1,0 +1,220 @@
+{
+  "transcript": "now maybe they'd realize that life can be tough\r\n",
+  "words": [
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 0.31,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.12,
+      "startOffset": 0,
+      "word": "now"
+    },
+    {
+      "alignedWord": "maybe",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 4,
+      "word": "maybe"
+    },
+    {
+      "alignedWord": "they'd",
+      "case": "success",
+      "end": 0.7100000000000001,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 10,
+      "word": "they'd"
+    },
+    {
+      "alignedWord": "realize",
+      "case": "success",
+      "end": 1.2,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 17,
+      "word": "realize"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.32,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 25,
+      "word": "that"
+    },
+    {
+      "alignedWord": "life",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 30,
+      "word": "life"
+    },
+    {
+      "alignedWord": "can",
+      "case": "success",
+      "end": 1.68,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 35,
+      "word": "can"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.68,
+      "startOffset": 39,
+      "word": "be"
+    },
+    {
+      "alignedWord": "tough",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 42,
+      "word": "tough"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "transcript": "where do you put the lighter fluid ha ha\r\n",
+  "words": [
+    {
+      "alignedWord": "where",
+      "case": "success",
+      "end": 0.25,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "where"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 6,
+      "word": "do"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.46,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 9,
+      "word": "you"
+    },
+    {
+      "alignedWord": "put",
+      "case": "success",
+      "end": 0.68,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 13,
+      "word": "put"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 17,
+      "word": "the"
+    },
+    {
+      "alignedWord": "lighter",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 21,
+      "word": "lighter"
+    },
+    {
+      "alignedWord": "fluid",
+      "case": "success",
+      "end": 1.68,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 29,
+      "word": "fluid"
+    },
+    {
+      "alignedWord": "ha",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aa_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 35,
+      "word": "ha"
+    },
+    {
+      "alignedWord": "ha",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "aa_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 38,
+      "word": "ha"
+    }
+  ]
+}

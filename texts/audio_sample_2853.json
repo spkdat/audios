@@ -1,0 +1,198 @@
+{
+  "transcript": "ducks have webbed feet and colorful feathers\r\n",
+  "words": [
+    {
+      "alignedWord": "ducks",
+      "case": "success",
+      "end": 0.43999999999999995,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "ducks"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 0.72,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 6,
+      "word": "have"
+    },
+    {
+      "alignedWord": "webbed",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 11,
+      "word": "webbed"
+    },
+    {
+      "alignedWord": "feet",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 18,
+      "word": "feet"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.93,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 23,
+      "word": "and"
+    },
+    {
+      "alignedWord": "colorful",
+      "case": "success",
+      "end": 2.42,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 27,
+      "word": "colorful"
+    },
+    {
+      "alignedWord": "feathers",
+      "case": "success",
+      "end": 3.05,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.42,
+      "startOffset": 36,
+      "word": "feathers"
+    }
+  ]
+}

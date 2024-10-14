@@ -1,0 +1,235 @@
+{
+  "transcript": "beat me to death in front of a hundred people\r\n",
+  "words": [
+    {
+      "alignedWord": "beat",
+      "case": "success",
+      "end": 0.29,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.0,
+      "startOffset": 0,
+      "word": "beat"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 0.43,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.29,
+      "startOffset": 5,
+      "word": "me"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 8,
+      "word": "to"
+    },
+    {
+      "alignedWord": "death",
+      "case": "success",
+      "end": 0.8,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 11,
+      "word": "death"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.93,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 17,
+      "word": "in"
+    },
+    {
+      "alignedWord": "front",
+      "case": "success",
+      "end": 1.1300000000000001,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 20,
+      "word": "front"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.2599999999999998,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 26,
+      "word": "of"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.32,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 29,
+      "word": "a"
+    },
+    {
+      "alignedWord": "hundred",
+      "case": "success",
+      "end": 1.61,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 31,
+      "word": "hundred"
+    },
+    {
+      "alignedWord": "people",
+      "case": "success",
+      "end": 1.9200000000000002,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 39,
+      "word": "people"
+    }
+  ]
+}

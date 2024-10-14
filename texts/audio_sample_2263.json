@@ -1,0 +1,185 @@
+{
+  "transcript": "let's hope we come to a safer place\r\n",
+  "words": [
+    {
+      "alignedWord": "let's",
+      "case": "success",
+      "end": 0.43,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.19,
+      "startOffset": 0,
+      "word": "let's"
+    },
+    {
+      "alignedWord": "hope",
+      "case": "success",
+      "end": 0.65,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 6,
+      "word": "hope"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 0.77,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 11,
+      "word": "we"
+    },
+    {
+      "alignedWord": "come",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.77,
+      "startOffset": 14,
+      "word": "come"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 19,
+      "word": "to"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.23,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 22,
+      "word": "a"
+    },
+    {
+      "alignedWord": "safer",
+      "case": "success",
+      "end": 1.5899999999999999,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 24,
+      "word": "safer"
+    },
+    {
+      "alignedWord": "place",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.59,
+      "startOffset": 30,
+      "word": "place"
+    }
+  ]
+}

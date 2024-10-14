@@ -1,0 +1,158 @@
+{
+  "transcript": "oh no not again he said aloud\r\n",
+  "words": [
+    {
+      "alignedWord": "oh",
+      "case": "success",
+      "end": 0.32999999999999996,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ow_S"
+        }
+      ],
+      "start": 0.18,
+      "startOffset": 0,
+      "word": "oh"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 0.7,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.33,
+      "startOffset": 3,
+      "word": "no"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 0.96,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 6,
+      "word": "not"
+    },
+    {
+      "alignedWord": "again",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 10,
+      "word": "again"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.41,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 16,
+      "word": "he"
+    },
+    {
+      "alignedWord": "said",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 19,
+      "word": "said"
+    },
+    {
+      "alignedWord": "aloud",
+      "case": "success",
+      "end": 1.9700000000000002,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 24,
+      "word": "aloud"
+    }
+  ]
+}

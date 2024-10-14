@@ -1,0 +1,250 @@
+{
+  "transcript": "the tooth fairy forgot to come when roger's tooth fell out\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.24,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.08,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "tooth",
+      "case": "success",
+      "end": 0.52,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.24,
+      "startOffset": 4,
+      "word": "tooth"
+    },
+    {
+      "alignedWord": "fairy",
+      "case": "success",
+      "end": 0.88,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 10,
+      "word": "fairy"
+    },
+    {
+      "alignedWord": "forgot",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 16,
+      "word": "forgot"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.3800000000000001,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 23,
+      "word": "to"
+    },
+    {
+      "alignedWord": "come",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 26,
+      "word": "come"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 1.91,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 31,
+      "word": "when"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.41,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 36,
+      "word": "roger's"
+    },
+    {
+      "alignedWord": "tooth",
+      "case": "success",
+      "end": 2.6599999999999997,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 44,
+      "word": "tooth"
+    },
+    {
+      "alignedWord": "fell",
+      "case": "success",
+      "end": 2.9400000000000004,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 50,
+      "word": "fell"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 55,
+      "word": "out"
+    }
+  ]
+}

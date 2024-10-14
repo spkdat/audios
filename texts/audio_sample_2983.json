@@ -1,0 +1,206 @@
+{
+  "transcript": "have we not actually developed idea worship\r\n",
+  "words": [
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 0.34,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.11,
+      "startOffset": 0,
+      "word": "have"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 0.44000000000000006,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.34,
+      "startOffset": 5,
+      "word": "we"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 0.65,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 8,
+      "word": "not"
+    },
+    {
+      "alignedWord": "actually",
+      "case": "success",
+      "end": 1.11,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 12,
+      "word": "actually"
+    },
+    {
+      "alignedWord": "developed",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 21,
+      "word": "developed"
+    },
+    {
+      "alignedWord": "idea",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 31,
+      "word": "idea"
+    },
+    {
+      "alignedWord": "worship",
+      "case": "success",
+      "end": 2.39,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 36,
+      "word": "worship"
+    }
+  ]
+}

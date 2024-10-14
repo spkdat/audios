@@ -1,0 +1,386 @@
+{
+  "transcript": "next best to destroying an army is to deprive it of its freedom of action\r\n",
+  "words": [
+    {
+      "alignedWord": "next",
+      "case": "success",
+      "end": 0.4,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "next"
+    },
+    {
+      "alignedWord": "best",
+      "case": "success",
+      "end": 0.66,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 5,
+      "word": "best"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 10,
+      "word": "to"
+    },
+    {
+      "alignedWord": "destroying",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 13,
+      "word": "destroying"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 1.4,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 24,
+      "word": "an"
+    },
+    {
+      "alignedWord": "army",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 27,
+      "word": "army"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 32,
+      "word": "is"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.05,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 35,
+      "word": "to"
+    },
+    {
+      "alignedWord": "deprive",
+      "case": "success",
+      "end": 2.47,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 38,
+      "word": "deprive"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 46,
+      "word": "it"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.73,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 49,
+      "word": "of"
+    },
+    {
+      "alignedWord": "its",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.73,
+      "startOffset": 52,
+      "word": "its"
+    },
+    {
+      "alignedWord": "freedom",
+      "case": "success",
+      "end": 3.16,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 56,
+      "word": "freedom"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.3400000000000003,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.16,
+      "startOffset": 64,
+      "word": "of"
+    },
+    {
+      "alignedWord": "action",
+      "case": "success",
+      "end": 3.76,
+      "endOffset": 73,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.34,
+      "startOffset": 67,
+      "word": "action"
+    }
+  ]
+}

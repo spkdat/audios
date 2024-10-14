@@ -1,0 +1,116 @@
+{
+  "transcript": "how did one join them\r\n",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "how"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 0.53,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.33,
+      "startOffset": 4,
+      "word": "did"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 0.81,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 8,
+      "word": "one"
+    },
+    {
+      "alignedWord": "join",
+      "case": "success",
+      "end": 1.1800000000000002,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 12,
+      "word": "join"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 17,
+      "word": "them"
+    }
+  ]
+}

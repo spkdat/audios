@@ -1,0 +1,139 @@
+{
+  "transcript": "why pick me for your patsy\r\n",
+  "words": [
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 0.35,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "why"
+    },
+    {
+      "alignedWord": "pick",
+      "case": "success",
+      "end": 0.5599999999999999,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.35,
+      "startOffset": 4,
+      "word": "pick"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 0.7300000000000001,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.56,
+      "startOffset": 9,
+      "word": "me"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 12,
+      "word": "for"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 16,
+      "word": "your"
+    },
+    {
+      "alignedWord": "patsy",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 21,
+      "word": "patsy"
+    }
+  ]
+}

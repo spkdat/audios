@@ -1,0 +1,255 @@
+{
+  "transcript": "them new to the country were referred to as pilgrims\r\n",
+  "words": [
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 0.34,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.0,
+      "startOffset": 0,
+      "word": "them"
+    },
+    {
+      "alignedWord": "new",
+      "case": "success",
+      "end": 0.5900000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.34,
+      "startOffset": 5,
+      "word": "new"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.64,
+      "startOffset": 9,
+      "word": "to"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.9,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 12,
+      "word": "the"
+    },
+    {
+      "alignedWord": "country",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 16,
+      "word": "country"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 1.82,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 24,
+      "word": "were"
+    },
+    {
+      "alignedWord": "referred",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 29,
+      "word": "referred"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.3400000000000003,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 38,
+      "word": "to"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 2.4899999999999998,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 41,
+      "word": "as"
+    },
+    {
+      "alignedWord": "pilgrims",
+      "case": "success",
+      "end": 3.08,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 44,
+      "word": "pilgrims"
+    }
+  ]
+}

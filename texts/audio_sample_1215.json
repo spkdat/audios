@@ -1,0 +1,373 @@
+{
+  "transcript": "but the ships are very slow now and we don't get so many sailors any more\r\n",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 0.25,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "but"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.33999999999999997,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.25,
+      "startOffset": 4,
+      "word": "the"
+    },
+    {
+      "alignedWord": "ships",
+      "case": "success",
+      "end": 0.65,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.34,
+      "startOffset": 8,
+      "word": "ships"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 0.67,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "er_S"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 14,
+      "word": "are"
+    },
+    {
+      "alignedWord": "very",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 18,
+      "word": "very"
+    },
+    {
+      "alignedWord": "slow",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 23,
+      "word": "slow"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 1.67,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 28,
+      "word": "now"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 32,
+      "word": "and"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 36,
+      "word": "we"
+    },
+    {
+      "alignedWord": "don't",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 39,
+      "word": "don't"
+    },
+    {
+      "alignedWord": "get",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 45,
+      "word": "get"
+    },
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 49,
+      "word": "so"
+    },
+    {
+      "alignedWord": "many",
+      "case": "success",
+      "end": 2.85,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.62,
+      "startOffset": 52,
+      "word": "many"
+    },
+    {
+      "alignedWord": "sailors",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.85,
+      "startOffset": 57,
+      "word": "sailors"
+    },
+    {
+      "alignedWord": "any",
+      "case": "success",
+      "end": 3.5100000000000002,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.33,
+      "startOffset": 65,
+      "word": "any"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 3.69,
+      "endOffset": 73,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.51,
+      "startOffset": 69,
+      "word": "more"
+    }
+  ]
+}

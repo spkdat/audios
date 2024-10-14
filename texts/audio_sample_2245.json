@@ -1,0 +1,199 @@
+{
+  "transcript": "my father ran him off here six years ago\r\n",
+  "words": [
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 0.27,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "my"
+    },
+    {
+      "alignedWord": "father",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.27,
+      "startOffset": 3,
+      "word": "father"
+    },
+    {
+      "alignedWord": "ran",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 10,
+      "word": "ran"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 1.23,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 14,
+      "word": "him"
+    },
+    {
+      "alignedWord": "off",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 18,
+      "word": "off"
+    },
+    {
+      "alignedWord": "here",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 22,
+      "word": "here"
+    },
+    {
+      "alignedWord": "six",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 27,
+      "word": "six"
+    },
+    {
+      "alignedWord": "years",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 31,
+      "word": "years"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 40,
+      "startOffset": 37,
+      "word": "ago"
+    }
+  ]
+}

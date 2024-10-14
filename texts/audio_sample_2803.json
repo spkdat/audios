@@ -1,0 +1,193 @@
+{
+  "transcript": "fat showed in loose rolls beneath the shirt\r\n",
+  "words": [
+    {
+      "alignedWord": "fat",
+      "case": "success",
+      "end": 0.5,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "fat"
+    },
+    {
+      "alignedWord": "showed",
+      "case": "success",
+      "end": 0.94,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.5,
+      "startOffset": 4,
+      "word": "showed"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.14,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 11,
+      "word": "in"
+    },
+    {
+      "alignedWord": "loose",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 14,
+      "word": "loose"
+    },
+    {
+      "alignedWord": "rolls",
+      "case": "success",
+      "end": 1.85,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 20,
+      "word": "rolls"
+    },
+    {
+      "alignedWord": "beneath",
+      "case": "success",
+      "end": 2.2,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 26,
+      "word": "beneath"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.21,
+      "startOffset": 34,
+      "word": "the"
+    },
+    {
+      "alignedWord": "shirt",
+      "case": "success",
+      "end": 2.72,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.33,
+      "startOffset": 38,
+      "word": "shirt"
+    }
+  ]
+}

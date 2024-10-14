@@ -1,0 +1,201 @@
+{
+  "transcript": "did shawn catch that big goose without help\r\n",
+  "words": [
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 0.31000000000000005,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "did"
+    },
+    {
+      "alignedWord": "shawn",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 4,
+      "word": "shawn"
+    },
+    {
+      "alignedWord": "catch",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 10,
+      "word": "catch"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.07,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 16,
+      "word": "that"
+    },
+    {
+      "alignedWord": "big",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "g_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 21,
+      "word": "big"
+    },
+    {
+      "alignedWord": "goose",
+      "case": "success",
+      "end": 1.55,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 25,
+      "word": "goose"
+    },
+    {
+      "alignedWord": "without",
+      "case": "success",
+      "end": 1.8800000000000001,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 31,
+      "word": "without"
+    },
+    {
+      "alignedWord": "help",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 39,
+      "word": "help"
+    }
+  ]
+}

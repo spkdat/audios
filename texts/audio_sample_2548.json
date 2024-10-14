@@ -1,0 +1,186 @@
+{
+  "transcript": "coconut cream pie makes a nice dessert\r\n",
+  "words": [
+    {
+      "alignedWord": "coconut",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "coconut"
+    },
+    {
+      "alignedWord": "cream",
+      "case": "success",
+      "end": 0.9099999999999999,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 8,
+      "word": "cream"
+    },
+    {
+      "alignedWord": "pie",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 14,
+      "word": "pie"
+    },
+    {
+      "alignedWord": "makes",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 18,
+      "word": "makes"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 24,
+      "word": "a"
+    },
+    {
+      "alignedWord": "nice",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 26,
+      "word": "nice"
+    },
+    {
+      "alignedWord": "dessert",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 31,
+      "word": "dessert"
+    }
+  ]
+}

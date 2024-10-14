@@ -1,0 +1,146 @@
+{
+  "transcript": "the willowy woman wore a muskrat coat\r\n",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 0,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 0.8,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 4,
+      "word": "willowy"
+    },
+    {
+      "alignedWord": "woman",
+      "case": "success",
+      "end": 1.11,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 12,
+      "word": "woman"
+    },
+    {
+      "alignedWord": "wore",
+      "case": "success",
+      "end": 1.3800000000000001,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 18,
+      "word": "wore"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 23,
+      "word": "a"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.57,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 25,
+      "word": "muskrat"
+    },
+    {
+      "alignedWord": "coat",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.1,
+      "startOffset": 33,
+      "word": "coat"
+    }
+  ]
+}

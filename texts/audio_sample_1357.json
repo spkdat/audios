@@ -1,0 +1,301 @@
+{
+  "transcript": "soil redeposition is evaluated by washing clean swatches with the dirty ones\r\n",
+  "words": [
+    {
+      "alignedWord": "soil",
+      "case": "success",
+      "end": 0.56,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.17,
+      "startOffset": 0,
+      "word": "soil"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.4900000000000002,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.93,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.56,
+      "startOffset": 5,
+      "word": "redeposition"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 2.07,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 18,
+      "word": "is"
+    },
+    {
+      "alignedWord": "evaluated",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 21,
+      "word": "evaluated"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 3.02,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 31,
+      "word": "by"
+    },
+    {
+      "alignedWord": "washing",
+      "case": "success",
+      "end": 3.49,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.02,
+      "startOffset": 34,
+      "word": "washing"
+    },
+    {
+      "alignedWord": "clean",
+      "case": "success",
+      "end": 3.83,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.49,
+      "startOffset": 42,
+      "word": "clean"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.35,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.52,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.83,
+      "startOffset": 48,
+      "word": "swatches"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 4.5,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "th_E"
+        }
+      ],
+      "start": 4.36,
+      "startOffset": 57,
+      "word": "with"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.63,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.51,
+      "startOffset": 62,
+      "word": "the"
+    },
+    {
+      "alignedWord": "dirty",
+      "case": "success",
+      "end": 4.97,
+      "endOffset": 71,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.63,
+      "startOffset": 66,
+      "word": "dirty"
+    },
+    {
+      "alignedWord": "ones",
+      "case": "success",
+      "end": 5.27,
+      "endOffset": 76,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.97,
+      "startOffset": 72,
+      "word": "ones"
+    }
+  ]
+}

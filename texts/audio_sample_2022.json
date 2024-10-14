@@ -1,0 +1,239 @@
+{
+  "transcript": "got no business over here on a stake out anyway\r\n",
+  "words": [
+    {
+      "alignedWord": "got",
+      "case": "success",
+      "end": 0.30000000000000004,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "got"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 0.45999999999999996,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 4,
+      "word": "no"
+    },
+    {
+      "alignedWord": "business",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 7,
+      "word": "business"
+    },
+    {
+      "alignedWord": "over",
+      "case": "success",
+      "end": 1.1600000000000001,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 16,
+      "word": "over"
+    },
+    {
+      "alignedWord": "here",
+      "case": "success",
+      "end": 1.5699999999999998,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 21,
+      "word": "here"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 26,
+      "word": "on"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.84,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 29,
+      "word": "a"
+    },
+    {
+      "alignedWord": "stake",
+      "case": "success",
+      "end": 2.18,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 31,
+      "word": "stake"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 2.3400000000000003,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 37,
+      "word": "out"
+    },
+    {
+      "alignedWord": "anyway",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 41,
+      "word": "anyway"
+    }
+  ]
+}

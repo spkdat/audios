@@ -1,0 +1,285 @@
+{
+  "transcript": "his failure to open the store by eight cost him his job\r\n",
+  "words": [
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 0.31000000000000005,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "his"
+    },
+    {
+      "alignedWord": "failure",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 4,
+      "word": "failure"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.9,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 12,
+      "word": "to"
+    },
+    {
+      "alignedWord": "open",
+      "case": "success",
+      "end": 1.1800000000000002,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 15,
+      "word": "open"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 20,
+      "word": "the"
+    },
+    {
+      "alignedWord": "store",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.28,
+      "startOffset": 24,
+      "word": "store"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 1.83,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 30,
+      "word": "by"
+    },
+    {
+      "alignedWord": "eight",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 33,
+      "word": "eight"
+    },
+    {
+      "alignedWord": "cost",
+      "case": "success",
+      "end": 2.4899999999999998,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 39,
+      "word": "cost"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 44,
+      "word": "him"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.7800000000000002,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 48,
+      "word": "his"
+    },
+    {
+      "alignedWord": "job",
+      "case": "success",
+      "end": 3.26,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "b_E"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 52,
+      "word": "job"
+    }
+  ]
+}
